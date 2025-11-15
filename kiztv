@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Peers ТВ" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый каналлл
+#EXTINF:-1 group-title="Peers ТВ" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал
 http://hls.peers.tv/streaming/1kanal/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjMyODEzNjUsImlhdCI6MTc2MzE5NDk2NSwiY2lkIjo2LCJ1aWQiOjk2NDk4NDE5NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.yrgglWbwenVc0r1MgYw9mjFdRG2hi37JgnBLvHKbcps&offset=10
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers ТВ" ,Первый канал +4
