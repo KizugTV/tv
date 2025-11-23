@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="💪ИНФО" tvg-logo="https://i.ibb.co/bjPKdFy0/moment.png"  tvg-id="no_epg", Обновление: 23.11.2025
+#EXTINF:-1 group-title="💪ИНФО" tvg-logo="https://i.ibb.co/bjPKdFy0/moment.png"  tvg-id="no_epg", Обновление: 23.11.2025 год
 #EXTVLCOPT:http-user-agent=KizugTV
 http://s25617.cdn.ngenix.net/mdrm/CH_VSETVHD/variant.m3u8
 
@@ -1163,6 +1163,71 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/L38mC6H.png" tvg-id="no_epg_music", California Music Channel
 #EXTVLCOPT:http-user-agent=KizugTV
 https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",VEVO '70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",VEVO '80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VEVO '90s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9v7LJW0wfFmbQ7HjRMLBTVGumAp8Q1M6GA&s",VEVO 2K
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VEVO Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIqTgSUucFH_wUVW6CXnjeqOzHKKxDTsVCg&s",VEVO Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9q5J7f0x97zzzGfYlStEk-5DrSH40pZYrA&s",VEVO Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_UCCQ06AvEPZ0ogcL8oSw3lNLhFiGqXFh8PwqURaWokdb2bsxAfFBYmtJGUJdrlJYHI&usqp=CAU",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4DzZIkOzvlLlFIpx0WSztAjjkTvyTo2yFg&s",Qwest TV Jazz & Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://qello.com/static/images/metadata/SiteImage.png",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckMgjm54-SwNx-SsrPM2vj-zCtVeathHYps9lIm1WYg&s",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRjjFvHA7v-LfNgHhpRwz2egSCjDY5cF58Xw&s",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/10/Stingray-Naturescape-Self-care-Sundays.jpg",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/50a3ecdf-9e7c-4632-9480-193ffeb8650c.jpeg",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/155/867/000155867535",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/155/863/000155863632",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicEasyListening/logo_big.png",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/600x337.webp?type=channelTile",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mediafile.galaxie.ca/data/000/110/456/000110456009",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://dbs.radioline.fr/pictures/radio_8adf1bc7e41bba74091ee074730fb68f/logo200.jpg?size=600",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png",Radio Kiss Kiss
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/76QzcCMb3h.png",Radio Kiss Kiss ITALIA
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://support.livexlive.com/hc/theming_assets/01HZPAX7FMJ65BZ82X6XBFCAMS",LIVExLIVE
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music", AFN
 https://bozztv.com/1gbw5/tintv2/tintv2/.m3u8
@@ -2605,17 +2670,39 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 #EXTINF:-1 group-title="⚡Познавательные", CraftsyTV
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s",ช่อง CraftsyTV
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s", CraftsyTV
 https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
 
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s",ช่อง Nature Time
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetchtvau/playlist.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png",ช่อง Outdoor Channel
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.pinimg.com/originals/9e/16/d6/9e16d65e11c04f4ce6bae05428ff14c5.jpg",ช่อง Travel Guide TV
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://i.pinimg.com/originals/9e/16/d6/9e16d65e11c04f4ce6bae05428ff14c5.jpg", Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="⚡Познавательные", Real Wild
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚡Познавательные", MyZen Wellbeing TV
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+
+#EXTINF:-1 group-title="⚡Познавательные", Hell's Kitchen
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3127,6 +3214,8 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/20067/index.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", SUPER TENNIS
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport",Telecolor TV
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport",Fox Sports 01
@@ -3451,11 +3540,11 @@ https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Киномикс
 http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Киномикс HD
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+http://195.191.208.5:8087/udp/233.170.170.65:58631
 #EXTINF:-1 group-title="🎬Кино и сериалы",Кинопоказ
 https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NDM1NDMwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzQ5NTA4LCJzZXNzaW9uX2lkIjoiZTkzNDNhMDNiZjhkN2FjN2ViNTBlMjRmODAxNGE5NjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SDKtjs4qO1mPrBk4J7PsCWzo2ewRXlaTdZNAWg-uMc4
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="http://epg.it999.ru/img/566.png",Кинопремьера HD
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+http://195.191.208.5:8087/udp/233.170.170.46:58631
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png",Кинорейс
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Киносвидание
