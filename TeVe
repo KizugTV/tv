@@ -2989,16 +2989,16 @@ http://178.212.71.253:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! ТВ
 http://178.212.71.253:8000/play/34/index.m3u8
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
+http://195.191.208.5:8087/udp/233.170.170.5:58631
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Футбол 1
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺" tvg-logo="http://only4.tv/ch/1401.png",Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+http://195.191.208.5:8087/udp/238.9.0.54:1234
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Футбол 2
+http://195.191.208.5:8087/udp/233.170.170.6:58631
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Футбол 2
+http://195.191.208.5:8087/udp/233.170.170.6:58631
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
+http://195.191.208.5:8087/udp/233.170.170.7:58631
 
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905",Матч! Футбол 3 HD
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺" tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -1ч
 #EXTVLCOPT:http-user-agent=KizugTV
