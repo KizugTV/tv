@@ -14,6 +14,135 @@ https://live20.bozztv.com/akamaissh101/ssh101/kizugtv/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  group-title="IPTV Cinema", Premiere HD
+http://cdn.iptvcinema.ru/pg_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Premium HD
+http://cdn.iptvcinema.ru/pg_premium/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Paradise HD
+http://cdn.iptvcinema.ru/pg_paradise/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Paradox HD
+http://cdn.iptvcinema.ru/pg_paradox/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Serial HD
+http://cdn.iptvcinema.ru/pg_serial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Thriller HD
+http://cdn.iptvcinema.ru/pg_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Victory HD
+http://cdn.iptvcinema.ru/pg_victory/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", РуКино HD
+http://cdn.iptvcinema.ru/pg_rukino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", VHS HD
+http://cdn.iptvcinema.ru/pg_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", USSR HD
+http://cdn.iptvcinema.ru/pg_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-007 HD
+http://cdn.iptvcinema.ru/minimax_007/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Боевик HD
+http://cdn.iptvcinema.ru/minimax_boevik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Комедия Classic HD
+http://cdn.iptvcinema.ru/minimax_comedyclassic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Фантастика HD
+http://cdn.iptvcinema.ru/minimax_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-История HD
+http://cdn.iptvcinema.ru/minimax_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Катастрофа HD
+http://cdn.iptvcinema.ru/minimax_catastrophe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Комедия HD
+http://cdn.iptvcinema.ru/minimax_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Криминал HD
+http://cdn.iptvcinema.ru/minimax_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Приключения HD
+http://cdn.iptvcinema.ru/minimax_priklucheniya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Ужастик HD
+http://cdn.iptvcinema.ru/minimax_uzhastik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Вестерн HD
+http://cdn.iptvcinema.ru/minimax_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Затмение HD
+http://cdn.iptvcinema.ru/minimax_zatmenie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-NewFilm 1 HD
+http://cdn.iptvcinema.ru/minimax_newfilm1/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-NewFilm 2 HD
+http://cdn.iptvcinema.ru/minimax_newfilm2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-NewFilm 3 HD
+http://cdn.iptvcinema.ru/minimax_newfilm3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Ситком HD
+http://cdn.iptvcinema.ru/minimax_sitcom/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Сваты HD
+http://cdn.iptvcinema.ru/minimax_svati/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Воронины HD
+http://cdn.iptvcinema.ru/minimax_voronini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", Минимакс-Ужасы HD
+http://cdn.iptvcinema.ru/minimax_uzhasi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV GRAND
+http://cdn.iptvcinema.ru/yosso_grand/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV VHS
+http://cdn.iptvcinema.ru/yosso_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV KIDS
+http://cdn.iptvcinema.ru/yosso_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Русские фильмы
+http://cdn.iptvcinema.ru/yosso_rusfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Советские фильмы
+http://cdn.iptvcinema.ru/yosso_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV SEXY
+http://cdn.iptvcinema.ru/yosso_sexy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV NEW Кино
+http://cdn.iptvcinema.ru/yosso_new/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Союзмульт
+http://cdn.iptvcinema.ru/yosso_soyuzmult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Music Hits
+http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Трагичное
+http://cdn.iptvcinema.ru/yosso_tragichnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Забавное
+http://cdn.iptvcinema.ru/yosso_zabavnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV BEST
+http://cdn.iptvcinema.ru/yosso_best/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Ковбойское
+http://cdn.iptvcinema.ru/yosso_cowboy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Adrenaline
+http://cdn.iptvcinema.ru/yosso_adrenaline/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Oblivion
+http://cdn.iptvcinema.ru/yosso_oblivion/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Adventure
+http://cdn.iptvcinema.ru/yosso_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Thriller
+http://cdn.iptvcinema.ru/yosso_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Мелодрама
+http://cdn.iptvcinema.ru/yosso_melodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Наше Детское
+http://cdn.iptvcinema.ru/yosso_detskoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO 4K
+http://cdn.iptvcinema.ru/yosso_4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Netflix
+http://cdn.iptvcinema.ru/yosso_netflix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Disney
+http://cdn.iptvcinema.ru/yosso_disney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV BEST 60 FPS
+http://cdn.iptvcinema.ru/yosso_60fps/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+#EXTINF:-1  group-title="IPTV Cinema", YOSSO TV Советские фильмы 4K
+http://cdn.iptvcinema.ru/yosso_ussr4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGcmMzSmxhMnhoYlE9PQ==
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
