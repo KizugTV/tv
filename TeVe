@@ -16,9 +16,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/kizugtv/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
