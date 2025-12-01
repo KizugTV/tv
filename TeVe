@@ -10,8 +10,6 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg"  tvg-logo="https://iptvcinema.ru/channels/dtrzona1.png", DTR ZONA 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
