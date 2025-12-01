@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvcinema.ru/next.xml.gz"
 
-#EXTINF:-1 group-title="💪ИНФО" tvg-logo="https://i.ibb.co/bjPKdFy0/moment.png"  tvg-id="no_epg", Обновление: 1.12.2025 год
-#EXTVLCOPT:http-user-agent=KizugTV
-http://s25617.cdn.ngenix.net/mdrm/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄1.12.2025❄
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
@@ -7871,12 +7870,9 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🏝RELAX🏝", АКВАРИУМ
-https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
-#EXTINF:-1 group-title="🏝RELAX🏝",АКВАРИУМ 2
+
+#EXTINF:-1 group-title="🏝RELAX🏝",АКВАРИУМ
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
-#EXTINF:-1 group-title="🏝RELAX🏝",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="🏝RELAX🏝",Better Life Nature
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="🏝RELAX🏝",Drone FHD
