@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvcinema.ru/next.xml.gz"
 
-#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄2.12.2025❄
+#EXTINF:-1 group-title="🎅 ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄2.12.2025❄
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
@@ -2954,26 +2954,24 @@ http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 
 
 
-
-
-
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://91.207.115.228:5000/c105
-
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч Премьер
-http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
-
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://195.191.208.11:8087/udp/238.9.64.37:1234
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
+http://195.191.208.5:8087/udp/238.2.32.37:1234
+
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч Премьер
+http://195.191.208.5:8087/udp/233.170.170.4:58631
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA4OjIyOjQ3IEFNJmhhc2hfdmFsdWU9aVBEcFQ1QUx0R013WUkvcDJDbG1DZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://195.191.208.5:8087/udp/238.9.0.37:1234
+
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDg6MTE6MjYgQU0maGFzaF92YWx1ZT1WN3B4T3pBaFQrZjZtWnFBVmtUazNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
 
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч!
