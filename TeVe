@@ -11,8 +11,6 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://standard.rs/wp-content/uploads/2021/10/Bez-naslova-8-705x470.jpg", Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
