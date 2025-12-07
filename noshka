@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="🎅ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление❄4.12.2025❄
+#EXTINF:-1 group-title="🎅ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление❄7.12.2025❄
 #EXTVLCOPT:http-user-agent=KizugTV
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
 
