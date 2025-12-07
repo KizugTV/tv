@@ -63,9 +63,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg",CyberTV 2
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-
 #EXTINF:-1 group-title="ТЕСТ",Clarity4K КиноСССР
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 
@@ -156,22 +153,13 @@ https://v2.catcast.tv/content/47689/index.m3u8?token=d79d7d64be7e72490acba85af57
 
 https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
 
-#EXTINF:-1 group-title="ТЕСТ",Super Plus HD
-http://84.245.224.71/SuperPlus/mono.m3u8
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png",Logovo Films
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ",Russian Extreme HD
-http://195.191.208.5:8087/udp/233.170.170.129:58631
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/originals/eb/c6/ae/ebc6ae821df4a6af9509267aef6de1ed.gif", Кино6
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema", RED Premium HD
-http://95.85.109.219:7000/play/a06e
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema", RED Thriller HD
-http://95.85.109.219:7000/play/a06h
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-name="no_epg_music" tvg-logo="https://www.city.bg/theme_assets/city/images/logo.png", City TV (Bulgaria)
 http://213.169.39.30:5032
@@ -194,18 +182,8 @@ https://v2.catcast.tv/content/139/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Наш Теле Канал(стрим)
 https://v2.catcast.tv/content/51/index.m3u8?password=kizugtv
 
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://psv4.userapi.com/s/v1/d2/OUUd6tgxck8qNL7d55RlwWOjdjqGDjllBbQ1yDs9MKZQn-hlilmASHC-8YJTRm9xGe3ZwzQnrgd-KhJe1maeCf3YKw2x5uoIriskPSi7_m435YkZqNfQ03_ZhkveZ4MrOCQqMD2OVXuC/Screenshot_1.jpg" tvg-id="no_epg_cinema", ПЕРВЫЙ МОЛОДЁЖНЫЙ
 https://v2.catcast.tv/content/48542/index.m3u8?password=kizugtv
-
-#EXTINF:-1 group-title="ТЕСТ",Народная музыка HD
-http://195.191.208.5:8087/udp/224.0.191.168:1234
-
-#EXTINF:-1 group-title="ТЕСТ",4K Русское кино
-#EXTVLCOPT:http-user-agent=KizugTV
-http://195.191.208.5:8087/udp/233.187.10.171:58631
-#EXTINF:-1 group-title="ТЕСТ",EP!C
-http://195.191.208.5:8087/udp/233.187.10.166:58631
 
 #EXTINF:-1 group-title="ТЕСТ",alpha Cinema HD
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
@@ -274,9 +252,6 @@ https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ntv", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные" tvg-id="ntv-mir", НТВ МИР
-https://streaming102.goodstream.cyou/live/213-req_offset_28000000--req_window_0-1k_v5.m3u8
-
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ntv-style", НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=KizugTV
 https://cdn.ntv.ru:443/th_style/playlist.m3u8
@@ -313,12 +288,12 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ТВЦ", ТВ Центр HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/REN_TV_Logo_2014.svg/600px-REN_TV_Logo_2014.svg.png", РЕН ТВ
-http://195.191.208.5:8087/udp/224.0.191.156:1234
+http://178.163.24.54:4022/udp/234.0.0.240:2000
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="rentv", Рен ТВ HD
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-
 
 #EXTINF:-1 group-title="📺Эфирные",РЕН ТВ International
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -335,13 +310,14 @@ http://178.163.121.127:4022/udp/234.0.0.191:2000
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://federal.tv/i/tv3.png", ТВ3
-http://195.191.208.5:8087/udp/238.9.0.66:1234
+http://178.163.121.127:4022/udp/234.0.0.171:2000
 
-#EXTINF:-1 group-title="📺Эфирные", ТВ3 HD
-http://195.191.208.5:8087/udp/233.170.170.79:58631
+#EXTINF:-1 group-title="📺Эфирные",ТВ3 HD
+https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-name="Пятница!", ПЯТНИЦА! HD
 https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="📺Эфирные", ПЯТНИЦА! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
@@ -801,6 +777,64 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка", AIVA
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+
+#EXTINF:-1 group-title="🎶Музыка", Bridge TV
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-shlager", Bridge TV Шлягер
+http://195.191.208.5:8087/udp/233.188.88.217:58631
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b5/R-music_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9.png/revision/latest?cb=20230323073247&path-prefix=ru", R-Music
+https://otv.wotom.net/rmusic/stream.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка", Russian MusicBox HD
+https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Russian Musicbox Gold
+https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Жара HD
+https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", О2ТВ
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Музыка Первого
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Europa Plus TV
+http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Bridge TV Русский хит
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Bridge TV Hits
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="Bridge TV Фрэш HD"tvg-logo="https://lighticons.art/storage/images/channels/f23ab4646bc62bc9b60ec31c870b1255.png?d=1746380565" catchup-days="0",Bridge TV Фрэш HD
+http://streamer.enchart.one/42/6389082755d69190fb9a34e67881430a3ef9cbcc/1901/stream.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка",Bridge TV Classic
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+#EXTINF:-1 group-title="🎶Музыка", Bridge TV Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png", Bridge Classic
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="🎶Музыка",BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="🎶Музыка",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="🎶Музыка",BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="🎶Музыка",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+
+
 #EXTINF:-1 group-title="🎶Музыка", 1HD music television
 http://91.247.68.229:8000/play/eee/index.m3u8
 
@@ -810,8 +844,8 @@ http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_radio" tvg-logo="https://variant.fm/images/novoe.gif", Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/video01_1080.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="RU.TV", RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="🎶Музыка",RU.TV
+https://stream-msk-01.ott.tricolor.tv/dtv/id924_MSKSG-PVR-1--RUTV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="RU.TV", RU.TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
@@ -831,53 +865,8 @@ http://rtmp.one.by:2300
 #EXTINF:-1 group-title="🎶Музыка",PLANETA HD
 http://213.169.39.30:5217
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b5/R-music_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9.png/revision/latest?cb=20230323073247&path-prefix=ru", R-Music
-https://otv.wotom.net/rmusic/stream.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка", Russian MusicBox HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ#EXTINF:-1 group-title="🎶Музыка", MusicBox Gold
-https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка", Жара HD
-https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка", О2ТВ
-https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка", Музыка Первого
-https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка", Europa Plus TV
-http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка", Bridge TV
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-shlager", Bridge TV Шлягер
-http://195.191.208.5:8087/udp/233.188.88.217:58631
-
-#EXTINF:-1 group-title="🎶Музыка", Bridge TV Русский хит
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка", Bridge TV Hits
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="Bridge TV Фрэш HD"tvg-logo="https://lighticons.art/storage/images/channels/f23ab4646bc62bc9b60ec31c870b1255.png?d=1746380565" catchup-days="0",Bridge TV Фрэш HD
-http://streamer.enchart.one/42/6389082755d69190fb9a34e67881430a3ef9cbcc/1901/stream.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка", Bridge TV Rock
-http://178.212.71.253:8000/play/101/index.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png", Bridge Classic
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="🎶Музыка",BRIDGE
-http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="🎶Музыка",BRIDGE Classic
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="🎶Музыка",BRIDGE Deluxe
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="🎶Музыка",BRIDGE Hits
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="🎶Музыка",РОДНОЙ КАНАЛ HD
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
@@ -892,8 +881,8 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
-#EXTINF:-1 group-title="🎶Музыка" logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png", Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎶Музыка" logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM
+https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-name="Шансон-TB", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
@@ -1217,22 +1206,22 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" tvg-id="no_epg_music", NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPMpTxFPD1BnpGk_6UZMTTtDDJiOH8gQJGQ&s" tvg-id="no_epg_music", POWER DANCE
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-id="no_epg_music", POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_36.png?v=10" tvg-id="no_epg_music", POWER LOVE
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-id="no_epg_music", POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/PowerTurk_TV.png/revision/latest?cb=20220108110609" tvg-id="no_epg_music", POWER TÜRK HD
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" tvg-id="no_epg_music", Power TV
 #EXTVLCOPT:http-user-agent=KizugTV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://static-media.streema.com/media/cache/c4/4e/c44e0bdb65f13638097a6df12586a077.png" tvg-id="no_epg_music", Power Türk Akustik
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/driabBO.png" tvg-id="no_epg_music", Power Türk Akustik
 #EXTVLCOPT:http-user-agent=KizugTV
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4" tvg-id="no_epg_music", Power Türk Slow
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo=tvg-logo="https://i.imgur.com/tQSoQXW.png" tvg-id="no_epg_music", Power Türk Slow
 #EXTVLCOPT:http-user-agent=KizugTV
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v=4" tvg-id="no_epg_music", Power Türk Taptaze
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/a5nW3HU.png" tvg-id="no_epg_music", Power Türk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка",Power
@@ -1679,6 +1668,9 @@ https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Ro1jHi_4KlWh1RZINXY80IT-RjYbCy1UNA&s", Classic music
 https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎶Музыка",Classic Music HD
+https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://ih1.redbubble.net/image.4725181349.0319/st,large,507x507-pad,600x600,f8f8f8.webp", DEEP Music
 https://glb.bozztv.com/glb/ushba66/index.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/274/807/non_2x/girl-with-headphone-listening-to-music-logo-icon-design-illustration-in-trendy-modern-minimal-simple-style-vector.jpg", Music beautiful girl
@@ -2470,30 +2462,28 @@ http://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://mt.media/upload/iblock/619/619b4d955a42abdc4ff53125b1ceeaad.png", Анекдот ТВ
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="sarafan" , Сарафан
 http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="🎉Развлекалово", Плюс Минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="🎉Развлекалово", Плюс Минус 16
 https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/49757978-1573928.jpeg",6 КАДРОВ
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎉Развлекалово", КВН ТВ
-http://31.148.48.15/KVN_TV/index.m3u8
+http://178.163.49.177:4022/udp/234.0.0.233:2000
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="womens-magazine", Women's Magazine
 https://stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1--WomensMagazine_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎉Развлекалово" catchup="append" tvg-logo="http://www.oreol.tv/img/tht4.jpg", ТНТ4
-#EXTVLCOPT:http-user-agent=KizugTV
-http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="tnt4" tvg-logo="http://www.oreol.tv/img/tht4.jpg", ТНТ4 HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎉Развлекалово", ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
@@ -2665,10 +2655,13 @@ http://pop3.akamaized.net/SilkwayRussia.m3u8
 
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="⚡Познавательные", МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 tvg-id="era" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="⚡Познавательные", Эра
 http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="⚡Познавательные", Зал суда
 http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="⚡Познавательные", RTG TV
 http://188.190.222.53/RTG_TV/index.m3u8
 
