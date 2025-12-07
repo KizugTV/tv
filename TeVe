@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://iptvcinema.ru/next.xml.gz"
 
-#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄7.12.2025❄
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄8.12.2025❄
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
@@ -68,68 +68,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Clarity4K КиноСССР
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 
-#EXTINF:-1 group-title="ТЕСТ", Кинокомедия
-http://50.7.28.226/8042/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", viju+ Comedy HD
-http://50.7.28.226/8108/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM 007
-http://50.7.28.226/8327/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BOX SPY
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM UFO
-http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Боевик Classic HD
-http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BOX Ultrastars 4K
-http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BOX CCCP 4K
-http://50.7.28.226/8445/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BOX Kosmo
-http://50.7.28.226/8448/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Киберпанк HD
-http://50.7.28.226/8545/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", КИНОМУЛЬТ
-http://50.7.28.226/8576/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR 1941-1945 HD
-http://50.7.28.226/8614/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR Приключения HD
-http://50.7.28.226/8615/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR Сказки HD
-http://50.7.28.226/8616/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Агата Кристи HD
-http://50.7.28.226/8618/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Фантастика HD
-http://50.7.28.226/8631/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM ОТКРЫТИЯ
-http://50.7.28.226/8647/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR Детектив HD
-http://50.7.28.226/8656/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MiniMax NewFilm RU HD
-http://50.7.28.226/8706/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR Комедия HD
-http://50.7.28.226/8744/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Боевик
-http://50.7.28.226/8745/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Катастрофа
-http://50.7.28.226/8746/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Триллер HD
-http://50.7.28.226/8778/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Приключения HD
-http://50.7.28.226/8779/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Комедия Classic HD
-http://50.7.28.226/8789/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", CineMan VHS
-http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BCU СССР HD
-http://50.7.28.226/8875/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", BCU Catastrophe HD
-http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM Сваты HD
-http://50.7.28.226/8893/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", MM USSR Драма HD
-http://50.7.28.226/8894/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ", VHS-ка HD
-http://50.7.28.226/8962/index.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ" и сериалы" tvg-logo="https://i.imgur.com/FRbtrxo.png",MGM HD
+https://v2.catcast.tv/content/44051/index.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
@@ -203,7 +144,8 @@ https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",TV4
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://tr.canlitv.watch/channels/konul-tv.png",KTV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
 
 
 
@@ -530,16 +472,16 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 
 #EXTINF:-1 group-title="👶Детские",О!
-http://195.191.208.11:8087/udp/238.9.64.182:1234
+
 
 #EXTINF:-1 group-title="👶Детские", BABY TIME
-http://195.191.208.5:8087/udp/224.0.217.193:1234
+
 
 #EXTINF:-1 group-title="👶Детские", МУЛЬТ и МУЗЫКА
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
 #EXTINF:-1 group-title="👶Детские", КИНОМУЛЬТ
-http://195.191.208.5:8087/udp/239.45.1.229:8000
+
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_cinema" tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -551,7 +493,7 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://iptvx.one/picons/multimania-lv.png", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="👶Детские",NICK JR.
+#EXTINF:-1 group-title="👶Детские",NICKJR.
 http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские",CARTOONITO
@@ -568,9 +510,6 @@ http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
-
-#EXTINF:-1 group-title="👶Детские",Рыжий
-http://46.8.46.14/Ryzhiy/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Капитан Фантастика
 http://178.163.24.54:4022/udp/234.0.0.152:2000
@@ -620,8 +559,6 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="👶Детские", 2x2
 https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="👶Детские" tvg-id="2x2", 2X2 HD
-http://195.191.208.5:8087/udp/233.170.170.118:58631
 
 #EXTINF:-1  group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
@@ -639,13 +576,13 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=unikum
 
 #EXTINF:-1 group-title="👶Детские", Детский Мир
-http://195.191.208.5:8087/udp/238.2.32.20:1234
+http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="nickelodeon-ru", Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
+
 
 #EXTINF:-1 group-title="👶Детские", СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
@@ -671,7 +608,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg",BIGS BUGS BUNNY
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 
-
+#EXTINF:-1 group-title="👶Детские",Niki junior
+http://2.57.217.85:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="👶Детские",Niki kids
+http://2.57.217.85:8000/play/a08f/index.m3u8
 
 
 
@@ -5663,8 +5603,7 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Amedia Premium
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
-#EXTINF:-1 group-title="🎬Кино и сериалы",Bollywood HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Cinema
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎬Кино и сериалы",DetectiveJam
@@ -5675,13 +5614,10 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1031.png",FoX
 
-#EXTINF:-1 group-title="🎬Кино и сериалы",Hollywood
-http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.imgur.com/FRbtrxo.png",MGM HD
-https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Kinojam 1 HD
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎬Кино и сериалы",Kinojam 2 HD
@@ -5692,14 +5628,13 @@ http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",KION Хит
 https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://tr.canlitv.watch/channels/konul-tv.png",KTV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Romance HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/7bbc1ff6-3d6b-486a-9cd8-b5553914ae6a/0.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://contact-tv.ru/assets/images/tv/14.png?ver=1740722792",Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 group-title="🎬Кино и сериалы",Russian Extreme HD
@@ -5735,7 +5670,7 @@ http://2.57.217.85:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Premiere HD
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",VIJU+ SERIAL
-
+http://50.7.28.226/9222/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",plan B
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Suspense
@@ -5776,6 +5711,10 @@ http://178.163.24.54:4022/udp/234.0.0.175:2000
 http://188.113.190.12/329/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="🎬Кино и сериалы",Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",Bollywood HD
+http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://fmf.gasu.ru/upload/iblock/8d4/nasha-istoriya.jpg",Исторический
 https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NTU2NzgyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTYzMDI2LCJzZXNzaW9uX2lkIjoiODNmM2NiNzAxZWQxMmYzYmU0ZTI5NDdkOGUxZTNjMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkK4bK4hPNi3U0RNNK3mOWRO9353VMujapd6IaL0GsQ
 #EXTINF:-1 group-title="🎬Кино и сериалы",Камеди HD
@@ -6425,175 +6364,432 @@ http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJ
 
 
 
-
-#EXTINF:-1 group-title="IFLN",360°
-http://178.163.105.56:4022/udp/234.0.0.8:2000
-#EXTINF:-1 group-title="IFLN",AMEDIA HIT
-http://178.163.105.56:4022/udp/234.0.0.169:2000
-#EXTINF:-1 group-title="IFLN",BRIDGE CLASSIC
-http://178.163.105.56:4022/udp/234.0.0.223:2000
-#EXTINF:-1 group-title="IFLN",BRIDGE TV
-http://178.163.105.56:4022/udp/234.0.0.180:2000
-#EXTINF:-1 group-title="IFLN",CARTOON CLASSIC
-http://178.163.105.56:4022/udp/234.0.0.238:2000
-#EXTINF:-1 group-title="IFLN",DIZI
-http://178.163.105.56:4022/udp/234.0.0.184:2000
-#EXTINF:-1 group-title="IFLN",ENGLISH CLUB TV
-http://178.163.105.56:4022/udp/234.0.0.174:2000
-#EXTINF:-1 group-title="IFLN",EUROPA PLUS TV
-http://178.163.105.56:4022/udp/234.0.0.183:2000
-#EXTINF:-1 group-title="IFLN",GALAXY
-http://178.163.105.56:4022/udp/234.0.0.111:2000
-#EXTINF:-1 group-title="IFLN",GULLI GIRL
-http://178.163.105.56:4022/udp/234.0.0.153:2000
-#EXTINF:-1 group-title="IFLN",HOLLYWOOD
-http://178.163.105.56:4022/udp/234.0.0.117:2000
-#EXTINF:-1 group-title="IFLN",RUSSIAN MUSICBOX
-http://178.163.105.56:4022/udp/234.0.0.150:2000
-#EXTINF:-1 group-title="IFLN",TRASH
-http://178.163.105.56:4022/udp/234.0.0.3:2000
-#EXTINF:-1 group-title="IFLN",ZOOПАРК
-http://178.163.105.56:4022/udp/234.0.0.216:2000
-#EXTINF:-1 group-title="IFLN",АВТО 24
-http://178.163.105.56:4022/udp/234.0.0.227:2000
-#EXTINF:-1 group-title="IFLN",БЕЛАРУСЬ 24
-http://178.163.105.56:4022/udp/234.0.0.199:2000
-#EXTINF:-1 group-title="IFLN",БОЛЬШАЯ АЗИЯ
-http://178.163.105.56:4022/udp/234.0.0.10:2000
-#EXTINF:-1 group-title="IFLN",В МИРЕ ЖИВОТНЫХ
-http://178.163.105.56:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="IFLN",ВРЕМЯ
-http://178.163.105.56:4022/udp/234.0.0.225:2000
-#EXTINF:-1 group-title="IFLN",ГУБЕРНИЯ (САМАРА)
-http://178.163.105.56:4022/udp/234.0.0.7:2000
-#EXTINF:-1 group-title="IFLN",ДОКТОР
-http://178.163.105.56:4022/udp/234.0.0.232:2000
-#EXTINF:-1 group-title="IFLN",ДОМ КИНО
-http://178.163.105.56:4022/udp/234.0.0.219:2000
-#EXTINF:-1 group-title="IFLN",ДОМАШНИЙ
-http://178.163.105.56:4022/udp/234.0.0.191:2000
-#EXTINF:-1 group-title="IFLN",ДРАЙВ
-http://178.163.105.56:4022/udp/234.0.0.245:2000
-#EXTINF:-1 group-title="IFLN",ЕВРОКИНО
-http://178.163.105.56:4022/udp/234.0.0.176:2000
-#EXTINF:-1 group-title="IFLN",ЕГЭ
-http://178.163.105.56:4022/udp/234.0.0.212:2000
-#EXTINF:-1 group-title="IFLN",ЖАРА
-http://178.163.105.56:4022/udp/234.0.0.214:2000
-#EXTINF:-1 group-title="IFLN",ЗВЕЗДА
-http://178.163.105.56:4022/udp/234.0.0.237:2000
-#EXTINF:-1 group-title="IFLN",ЗДОРОВОЕ ТВ
-http://178.163.105.56:4022/udp/234.0.0.221:2000
-#EXTINF:-1 group-title="IFLN",ИЛЛЮЗИОН+
-http://178.163.105.56:4022/udp/234.0.0.175:2000
-#EXTINF:-1 group-title="IFLN",КАПИТАН ФАНТАСТИКА
-http://178.163.105.56:4022/udp/234.0.0.152:2000
-#EXTINF:-1 group-title="IFLN",КАРУСЕЛЬ
-http://178.163.105.56:4022/udp/234.0.0.203:2000
-#EXTINF:-1 group-title="IFLN",КИНО ТВ
-http://178.163.105.56:4022/udp/234.0.0.154:2000
-#EXTINF:-1 group-title="IFLN",КИНОКОМЕДИЯ
-http://178.163.105.56:4022/udp/234.0.0.118:2000
-#EXTINF:-1 group-title="IFLN",КИНОМИКС
-http://178.163.105.56:4022/udp/234.0.0.222:2000
-#EXTINF:-1 group-title="IFLN",КИНОПОКАЗ
-http://178.163.105.56:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="IFLN",КИНОСЕРИЯ
-http://178.163.105.56:4022/udp/234.0.0.119:2000
-#EXTINF:-1 group-title="IFLN",КУХНЯ
-http://178.163.105.56:4022/udp/234.0.0.241:2000
-#EXTINF:-1 group-title="IFLN",МАМА
-http://178.163.105.56:4022/udp/234.0.0.101:2000
-#EXTINF:-1 group-title="IFLN",МАТЧ!
-http://178.163.105.56:4022/udp/234.0.0.204:2000
-
-#EXTINF:-1 group-title="IFLN",МАТЧ! ИГРА
-http://178.163.105.56:4022/udp/234.0.0.211:2000
-#EXTINF:-1 group-title="IFLN",МИР PREMIUM HD
-http://178.163.105.56:4022/udp/234.0.0.5:2000
-#EXTINF:-1 group-title="IFLN",МОЯ ПЛАНЕТА
-http://178.163.105.56:4022/udp/234.0.0.228:2000
-#EXTINF:-1 group-title="IFLN",МУЖСКОЕ КИНО
-http://178.163.105.56:4022/udp/234.0.0.213:2000
-#EXTINF:-1 group-title="IFLN",МУЗ ТВ
-http://178.163.105.56:4022/udp/234.0.0.96:2000
-#EXTINF:-1 group-title="IFLN",МУЗЫКА ПЕРВОГО
-http://178.163.105.56:4022/udp/234.0.0.182:2000
-#EXTINF:-1 group-title="IFLN",МУЛЬТИМАНИЯ
-http://178.163.105.56:4022/udp/234.0.0.210:2000
-#EXTINF:-1 group-title="IFLN",НАУКА
-http://178.163.105.56:4022/udp/234.0.0.226:2000
-#EXTINF:-1 group-title="IFLN",НОСТАЛЬГИЯ
-http://178.163.105.56:4022/udp/234.0.0.190:2000
-#EXTINF:-1 group-title="IFLN",НТВ
-http://178.163.105.56:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="IFLN",НТВ ХИТ
-http://178.163.105.56:4022/udp/234.0.0.236:2000
-#EXTINF:-1 group-title="IFLN",ОХОТА И РЫБАЛКА
-http://178.163.105.56:4022/udp/234.0.0.230:2000
-#EXTINF:-1 group-title="IFLN",ОХОТНИК И РЫБОЛОВ HD
-http://178.163.105.56:4022/udp/234.0.0.98:2000
-#EXTINF:-1 group-title="IFLN",ПЕРВЫЙ КАНАЛ
-http://178.163.105.56:4022/udp/234.0.0.200:2000
-#EXTINF:-1 group-title="IFLN",ПЕРВЫЙ КАНАЛ HD
-http://178.163.105.56:4022/udp/234.0.0.172:2000
-#EXTINF:-1 group-title="IFLN",ПЯТНИЦА
-http://178.163.105.56:4022/udp/234.0.0.235:2000
-#EXTINF:-1 group-title="IFLN",ПЯТЫЙ КАНАЛ
-http://178.163.105.56:4022/udp/234.0.0.205:2000
-#EXTINF:-1 group-title="IFLN",РБК
-http://178.163.105.56:4022/udp/234.0.0.151:2000
-#EXTINF:-1 group-title="IFLN",РЕН ТВ
-http://178.163.105.56:4022/udp/234.0.0.240:2000
-#EXTINF:-1 group-title="IFLN",РОДНОЕ КИНО
-http://178.163.105.56:4022/udp/234.0.0.177:2000
-#EXTINF:-1 group-title="IFLN",РОССИЯ 1
-http://178.163.105.56:4022/udp/234.0.0.201:2000
-#EXTINF:-1 group-title="IFLN",РОССИЯ 24
-http://178.163.105.56:4022/udp/234.0.0.207:2000
-#EXTINF:-1 group-title="IFLN",РОССИЯ К
-http://178.163.105.56:4022/udp/234.0.0.202:2000
-#EXTINF:-1 group-title="IFLN",РУССКИЙ ИЛЛЮЗИОН
-http://178.163.105.56:4022/udp/234.0.0.178:2000
-#EXTINF:-1 group-title="IFLN",РУССКИЙ РОМАН
-http://178.163.105.56:4022/udp/234.0.0.224:2000
-#EXTINF:-1 group-title="IFLN",РЫЖИЙ
-http://178.163.105.56:4022/udp/234.0.0.243:2000
-#EXTINF:-1 group-title="IFLN",САРАФАН
-http://178.163.105.56:4022/udp/234.0.0.246:2000
-#EXTINF:-1 group-title="IFLN",СОВЕРШЕННО СЕКРЕТНО
-http://178.163.105.56:4022/udp/234.0.0.185:2000
-#EXTINF:-1 group-title="IFLN",СОЛНЦЕ
-http://178.163.105.56:4022/udp/234.0.0.198:2000
-#EXTINF:-1 group-title="IFLN",СТС
-http://178.163.105.56:4022/udp/234.0.0.239:2000
-#EXTINF:-1 group-title="IFLN",СУББОТА!
-http://178.163.105.56:4022/udp/234.0.0.100:2000
-#EXTINF:-1 group-title="IFLN",ТВ3
-http://178.163.105.56:4022/udp/234.0.0.171:2000
-#EXTINF:-1 group-title="IFLN",ТВЦ
-http://178.163.105.56:4022/udp/234.0.0.192:2000
-#EXTINF:-1 group-title="IFLN",ТЕХНО 24
-http://178.163.105.56:4022/udp/234.0.0.247:2000
-#EXTINF:-1 group-title="IFLN",ТНВ ПЛАНЕТА
-http://178.163.105.56:4022/udp/234.0.0.2:2000
-#EXTINF:-1 group-title="IFLN",ТНТ
-http://178.163.105.56:4022/udp/234.0.0.186:2000
-#EXTINF:-1 group-title="IFLN",ТНТ MUSIC
-http://178.163.105.56:4022/udp/234.0.0.231:2000
-#EXTINF:-1 group-title="IFLN",ТНТ4
-http://178.163.105.56:4022/udp/234.0.0.181:2000
-#EXTINF:-1 group-title="IFLN",УНИКУМ!
-http://178.163.105.56:4022/udp/234.0.0.217:2000
-#EXTINF:-1 group-title="IFLN",УСАДЬБА
-http://178.163.105.56:4022/udp/234.0.0.220:2000
-#EXTINF:-1 group-title="IFLN",ЧЕ!
-http://178.163.105.56:4022/udp/234.0.0.218:2000
-#EXTINF:-1 group-title="IFLN",ШАНСОН ТВ
-http://178.163.105.56:4022/udp/234.0.0.189:2000
-#EXTINF:-1 group-title="IFLN",Ю
-http://178.163.105.56:4022/udp/234.0.0.229:2000
-
+#EXTINF:-1 group-title="MixTV", 1+1 Марафон UA
+http://50.7.28.226/8116/index.m3u8
+#EXTINF:-1 group-title="MixTV", 2x2
+http://50.7.28.226/8045/index.m3u8
+#EXTINF:-1 group-title="MixTV", 5 канал
+http://50.7.28.226/8093/index.m3u8
+#EXTINF:-1 group-title="MixTV", Amedia 1
+http://50.7.28.226/8035/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Action HD
+http://50.7.28.226/8478/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Catastrophe HD
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Kids HD
+http://50.7.28.226/8458/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Premiere HD
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Russian HD
+http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="MixTV", BCU СССР HD
+http://50.7.28.226/8875/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bollywood
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bolt
+http://50.7.28.226/9329/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Apocalypse HD
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Autotrend HD
+http://50.7.28.226/8440/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Fantasy HD
+http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="MixTV", BOX Kosmo
+http://50.7.28.226/8448/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Lo-Fi HD
+http://50.7.28.226/8446/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Mayday HD
+http://50.7.28.226/8434/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Ultrastars 4k
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="MixTV", Box СССР 4K
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV
+http://50.7.28.226/8527/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV Classic
+http://50.7.28.226/8450/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV Hits
+http://50.7.28.226/9202/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV Rock
+http://50.7.28.226/9229/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV Фрэш
+http://50.7.28.226/9230/index.m3u8
+#EXTINF:-1 group-title="MixTV", Bridge TV Этно
+http://50.7.28.226/9231/index.m3u8
+#EXTINF:-1 group-title="MixTV", Cinema
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="MixTV", CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 group-title="MixTV", Cineman mult
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 group-title="MixTV", CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 group-title="MixTV", CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 group-title="MixTV", CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="MixTV", CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="MixTV", Discovery HD
+http://50.7.28.226/8748/index.m3u8
+#EXTINF:-1 group-title="MixTV", Docu Box
+http://50.7.28.226/8528/index.m3u8
+#EXTINF:-1 group-title="MixTV", Enter-фільм
+http://50.7.28.226/9327/index.m3u8
+#EXTINF:-1 group-title="MixTV", Eurosport 1 HD
+http://50.7.28.226/8013/index.m3u8
+#EXTINF:-1 group-title="MixTV", Eurosport 2 HD
+http://50.7.28.226/8014/index.m3u8
+#EXTINF:-1 group-title="MixTV", Fan HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="MixTV", Fox
+http://50.7.28.226/8168/index.m3u8
+#EXTINF:-1 group-title="MixTV", Galaxy
+http://50.7.28.226/8337/index.m3u8
+#EXTINF:-1 group-title="MixTV", Gold Line Детектив HD
+http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 group-title="MixTV", History HD
+http://50.7.28.226/8356/index.m3u8
+#EXTINF:-1 group-title="MixTV", ICTV
+http://50.7.28.226/8092/index.m3u8
+#EXTINF:-1 group-title="MixTV", KHL
+http://50.7.28.226/8025/index.m3u8
+#EXTINF:-1 group-title="MixTV", KHL Prime
+http://50.7.28.226/8297/index.m3u8
+#EXTINF:-1 group-title="MixTV", MCM Top HD
+http://50.7.28.226/8351/index.m3u8
+#EXTINF:-1 group-title="MixTV", Mezzo
+http://50.7.28.226/8031/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM 007
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Newfilm 1 HD
+http://50.7.28.226/8741/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM NewFilm RU HD
+http://50.7.28.226/8706/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Rock HD
+http://50.7.28.226/8679/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM UFO HD
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM USSR 1941-1945 HD
+http://50.7.28.226/8614/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM USSR Детектив HD
+http://50.7.28.226/8656/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM USSR Драма HD
+http://50.7.28.226/8894/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM USSR Приключения HD
+http://50.7.28.226/8615/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM USSR Сказки HD
+http://50.7.28.226/8616/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Агата Кристи HD
+http://50.7.28.226/8618/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Боевик
+http://50.7.28.226/8745/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Боевик HD
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Катастрофа HD
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Киберпанк HD
+http://50.7.28.226/8545/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Комедия Classic HD
+http://50.7.28.226/8744/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Комедия Classic HD
+http://50.7.28.226/8789/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Комедия HD
+http://50.7.28.226/8708/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Кунг-Фу HD
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Мегамир HD
+http://50.7.28.226/8770/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Нуар HD
+http://50.7.28.226/8733/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM ОТКРЫТИЯ
+http://50.7.28.226/8647/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Приключения HD
+http://50.7.28.226/8779/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Роскино HD
+http://50.7.28.226/8709/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Сваты HD
+http://50.7.28.226/8893/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Супергерои HD
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Триллер HD
+http://50.7.28.226/8778/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Ужасы HD
+http://50.7.28.226/8725/index.m3u8
+#EXTINF:-1 group-title="MixTV", MM Фантастика HD
+http://50.7.28.226/8631/index.m3u8
+#EXTINF:-1 group-title="MixTV", MTV 80s
+http://50.7.28.226/8137/index.m3u8
+#EXTINF:-1 group-title="MixTV", National Geographic
+http://50.7.28.226/8080/index.m3u8
+#EXTINF:-1 group-title="MixTV", NBA HD
+http://50.7.28.226/8061/index.m3u8
+#EXTINF:-1 group-title="MixTV", Quadro 4К
+http://50.7.28.226/8681/index.m3u8
+#EXTINF:-1 group-title="MixTV", RTG HD
+http://50.7.28.226/8151/index.m3u8
+#EXTINF:-1 group-title="MixTV", RTVI
+http://50.7.28.226/8118/index.m3u8
+#EXTINF:-1 group-title="MixTV", Russian Music Box
+http://50.7.28.226/8189/index.m3u8
+#EXTINF:-1 group-title="MixTV", Setanta Sport 1 HD
+http://50.7.28.226/8379/index.m3u8
+#EXTINF:-1 group-title="MixTV", Setanta Sports 2 HD
+http://50.7.28.226/8676/index.m3u8
+#EXTINF:-1 group-title="MixTV", Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="MixTV", Sport 1 HD
+http://50.7.28.226/8705/index.m3u8
+#EXTINF:-1 group-title="MixTV", Top Secret
+http://50.7.28.226/8073/index.m3u8
+#EXTINF:-1 group-title="MixTV", Travel Channel HD
+http://50.7.28.226/8315/index.m3u8
+#EXTINF:-1 group-title="MixTV", Travel+Adventure
+http://50.7.28.226/8170/index.m3u8
+#EXTINF:-1 group-title="MixTV", Travelxp
+http://50.7.28.226/8680/index.m3u8
+#EXTINF:-1 group-title="MixTV", TV XXI
+http://50.7.28.226/8213/index.m3u8
+#EXTINF:-1 group-title="MixTV", TV1000
+http://50.7.28.226/8048/index.m3u8
+#EXTINF:-1 group-title="MixTV", VHS-ка HD
+http://50.7.28.226/8962/index.m3u8
+#EXTINF:-1 group-title="MixTV", Viasat History
+http://50.7.28.226/9017/index.m3u8
+#EXTINF:-1 group-title="MixTV", Viasat Kino
+http://50.7.28.226/9020/index.m3u8
+#EXTINF:-1 group-title="MixTV", Viasat Sport
+http://50.7.28.226/8015/index.m3u8
+#EXTINF:-1 group-title="MixTV", viju+ Comedy HD
+http://50.7.28.226/8108/index.m3u8
+#EXTINF:-1 group-title="MixTV", VIP Serial
+http://50.7.28.226/9222/index.m3u8
+#EXTINF:-1 group-title="MixTV", Авто плюс
+http://50.7.28.226/8095/index.m3u8
+#EXTINF:-1 group-title="MixTV", Беларусь 1 HD
+http://50.7.28.226/8546/index.m3u8
+#EXTINF:-1 group-title="MixTV", Беларусь 2 HD
+http://50.7.28.226/8302/index.m3u8
+#EXTINF:-1 group-title="MixTV", Беларусь 24
+http://50.7.28.226/8144/index.m3u8
+#EXTINF:-1 group-title="MixTV", Беларусь 5 HD
+http://50.7.28.226/8694/index.m3u8
+#EXTINF:-1 group-title="MixTV", БелРос
+http://50.7.28.226/8381/index.m3u8
+#EXTINF:-1 group-title="MixTV", Бигуди
+http://50.7.28.226/9328/index.m3u8
+#EXTINF:-1 group-title="MixTV", Волейбол
+http://50.7.28.226/9192/index.m3u8
+#EXTINF:-1 group-title="MixTV", Вопросы и ответы
+http://50.7.28.226/8053/index.m3u8
+#EXTINF:-1 group-title="MixTV", Время
+http://50.7.28.226/8012/index.m3u8
+#EXTINF:-1 group-title="MixTV", Глазами туриста
+http://50.7.28.226/8904/index.m3u8
+#EXTINF:-1 group-title="MixTV", Дикая рыбалка HD
+http://50.7.28.226/8316/index.m3u8
+#EXTINF:-1 group-title="MixTV", Дом кино
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="MixTV", Домашний
+http://50.7.28.226/9204/index.m3u8
+#EXTINF:-1 group-title="MixTV", Домашний
+http://50.7.28.226/8124/index.m3u8
+#EXTINF:-1 group-title="MixTV", Еда
+http://50.7.28.226/8140/index.m3u8
+#EXTINF:-1 group-title="MixTV", Жара
+http://50.7.28.226/8361/index.m3u8
+#EXTINF:-1 group-title="MixTV", Звезда
+http://50.7.28.226/8037/index.m3u8
+#EXTINF:-1 group-title="MixTV", Индия
+http://50.7.28.226/8155/index.m3u8
+#EXTINF:-1 group-title="MixTV", История
+http://50.7.28.226/8082/index.m3u8
+#EXTINF:-1 group-title="MixTV", Карусель
+http://50.7.28.226/8057/index.m3u8
+#EXTINF:-1 group-title="MixTV", Квартал ТВ
+http://50.7.28.226/8345/index.m3u8
+#EXTINF:-1 group-title="MixTV", Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 group-title="MixTV", Кино ТВ HD
+http://50.7.28.226/8207/index.m3u8
+#EXTINF:-1 group-title="MixTV", Кинокомедия
+http://50.7.28.226/8042/index.m3u8
+#EXTINF:-1 group-title="MixTV", Киномикс
+http://50.7.28.226/8040/index.m3u8
+#EXTINF:-1 group-title="MixTV", Киномульт
+http://50.7.28.226/8576/index.m3u8
+#EXTINF:-1 group-title="MixTV", Кинопремьера HD
+http://50.7.28.226/8199/index.m3u8
+#EXTINF:-1 group-title="MixTV", Киноужас HD
+http://50.7.28.226/8357/index.m3u8
+#EXTINF:-1 group-title="MixTV", Конный мир
+http://50.7.28.226/8326/index.m3u8
+#EXTINF:-1 group-title="MixTV", Красная линия
+http://50.7.28.226/8390/index.m3u8
+#EXTINF:-1 group-title="MixTV", Лапки Live
+http://50.7.28.226/8551/index.m3u8
+#EXTINF:-1 group-title="MixTV", Лёва HD
+http://50.7.28.226/8375/index.m3u8
+#EXTINF:-1 group-title="MixTV", М2 HD UA
+http://50.7.28.226/8336/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч HD
+http://50.7.28.226/8179/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч Боец
+http://50.7.28.226/8671/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч ТВ
+http://50.7.28.226/8016/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч! Арена
+http://50.7.28.226/8018/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч! Планета
+http://50.7.28.226/8549/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч! Футбол 1 HD
+http://50.7.28.226/8236/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч! Футбол 2 HD
+http://50.7.28.226/8237/index.m3u8
+#EXTINF:-1 group-title="MixTV", Матч! Футбол 3
+http://50.7.28.226/8029/index.m3u8
+#EXTINF:-1 group-title="MixTV", Мосфильм. Золотая коллекция HD
+http://50.7.28.226/8707/index.m3u8
+#EXTINF:-1 group-title="MixTV", МузТВ
+http://50.7.28.226/8190/index.m3u8
+#EXTINF:-1 group-title="MixTV", Музыка первого
+http://50.7.28.226/8135/index.m3u8
+#EXTINF:-1 group-title="MixTV", Мульт
+http://50.7.28.226/8223/index.m3u8
+#EXTINF:-1 group-title="MixTV", Мульт
+http://50.7.28.226/8157/index.m3u8
+#EXTINF:-1 group-title="MixTV", Наука 2.0
+http://50.7.28.226/8104/index.m3u8
+#EXTINF:-1 group-title="MixTV", Наша Сибирь HD
+http://50.7.28.226/8677/index.m3u8
+#EXTINF:-1 group-title="MixTV", Наше любимое HD
+http://50.7.28.226/8310/index.m3u8
+#EXTINF:-1 group-title="MixTV", Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+#EXTINF:-1 group-title="MixTV", Новий Канал
+http://50.7.28.226/8130/index.m3u8
+#EXTINF:-1 group-title="MixTV", НТВ
+http://50.7.28.226/8298/index.m3u8
+#EXTINF:-1 group-title="MixTV", НТВ HD
+http://50.7.28.226/8156/index.m3u8
+#EXTINF:-1 group-title="MixTV", НТВ-Мир
+http://50.7.28.226/8011/index.m3u8
+#EXTINF:-1 group-title="MixTV", О!
+http://50.7.28.226/8664/index.m3u8
+#EXTINF:-1 group-title="MixTV", Окко Спорт 2 HD
+http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1 group-title="MixTV", Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 group-title="MixTV", Оружие
+http://50.7.28.226/8206/index.m3u8
+#EXTINF:-1 group-title="MixTV", ОТР
+http://50.7.28.226/8146/index.m3u8
+#EXTINF:-1 group-title="MixTV", Охота и рыбалка
+http://50.7.28.226/8065/index.m3u8
+#EXTINF:-1 group-title="MixTV", Первый HD
+http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 group-title="MixTV", Первый космический HD
+http://50.7.28.226/8369/index.m3u8
+#EXTINF:-1 group-title="MixTV", Планета РТР
+http://50.7.28.226/8121/index.m3u8
+#EXTINF:-1 group-title="MixTV", Победа
+http://50.7.28.226/8391/index.m3u8
+#EXTINF:-1 group-title="MixTV", Продвижение
+http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 group-title="MixTV", Пятница
+http://50.7.28.226/8066/index.m3u8
+#EXTINF:-1 group-title="MixTV", Пятый канал
+http://50.7.28.226/8009/index.m3u8
+#EXTINF:-1 group-title="MixTV", РБК
+http://50.7.28.226/8197/index.m3u8
+#EXTINF:-1 group-title="MixTV", Родное кино
+http://50.7.28.226/8096/index.m3u8
+#EXTINF:-1 group-title="MixTV", Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 group-title="MixTV", Россия 1 HD
+http://50.7.28.226/8152/index.m3u8
+#EXTINF:-1 group-title="MixTV", Русский бестселлер
+http://50.7.28.226/8162/index.m3u8
+#EXTINF:-1 group-title="MixTV", Русский детектив
+http://50.7.28.226/8161/index.m3u8
+#EXTINF:-1 group-title="MixTV", Русский роман
+http://50.7.28.226/8010/index.m3u8
+#EXTINF:-1 group-title="MixTV", Рыжий
+http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="MixTV", Сарафан
+http://50.7.28.226/8020/index.m3u8
+#EXTINF:-1 group-title="MixTV", Солнце
+http://50.7.28.226/8054/index.m3u8
+#EXTINF:-1 group-title="MixTV", Союз
+http://50.7.28.226/8401/index.m3u8
+#EXTINF:-1 group-title="MixTV", Спас
+http://50.7.28.226/8301/index.m3u8
+#EXTINF:-1 group-title="MixTV", Среда
+http://50.7.28.226/8295/index.m3u8
+#EXTINF:-1 group-title="MixTV", СТБ
+http://50.7.28.226/8090/index.m3u8
+#EXTINF:-1 group-title="MixTV", СТС
+http://50.7.28.226/8005/index.m3u8
+#EXTINF:-1 group-title="MixTV", СТС Love
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТВ Спорт
+http://50.7.28.226/9187/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТВ3
+http://50.7.28.226/8114/index.m3u8
+#EXTINF:-1 group-title="MixTV", Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
+#EXTINF:-1 group-title="MixTV", Твоё ТВ Юмор
+http://50.7.28.226/9246/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТВЦ
+http://50.7.28.226/8006/index.m3u8
+#EXTINF:-1 group-title="MixTV", Театр
+http://50.7.28.226/8670/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТНТ HD
+http://50.7.28.226/8311/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТНТ Music
+http://50.7.28.226/8350/index.m3u8
+#EXTINF:-1 group-title="MixTV", ТНТ4
+http://50.7.28.226/8058/index.m3u8
+#EXTINF:-1 group-title="MixTV", Точка РФ
+http://50.7.28.226/8175/index.m3u8
+#EXTINF:-1 group-title="MixTV", Успех
+http://50.7.28.226/8164/index.m3u8
+#EXTINF:-1 group-title="MixTV", Центральное телевидение
+http://50.7.28.226/8575/index.m3u8
+#EXTINF:-1 group-title="MixTV", Че
+http://50.7.28.226/8008/index.m3u8
 
 
 
