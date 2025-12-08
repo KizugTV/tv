@@ -5,8 +5,6 @@
 
 
 
-#EXTINF:-1 group-title="18+" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/sholk.png",Шелк
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTI5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgxMjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjMiLCJhZnAiOiI4MTI5IiwiYXRzIjoiMjQiLCJsIjoiNzI4NjA0ZjIiLCJwIjoiNzI4NjA0ZjJhODc3YjkwNSIsImMiOiIxMjEiLCJ0IjoiZTNjZWIwNGE0Mjg3YzdkOWFmZTdhMDU1ODM0MzAwZTUiLCJkIjoiNDYxMDgiLCJyIjoiNDY5MTEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMjkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 
 #EXTINF:-1 group-title="18+",Playboy
 http://178.23.88.55/Playboy/index.m3u8
@@ -14,8 +12,6 @@ http://178.23.88.55/Playboy/index.m3u8
 http://185.166.252.230/SuperOne/index.m3u8
 #EXTINF:-1 group-title="18+",Playboy
 http://190.14.10.19:16000/play/a045/index.m3u8
-#EXTINF:-1 group-title="18+",EROX
-http://195.191.208.5:8087/udp/239.60.64.6:6410
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="18+",DORCEL TV
@@ -28,10 +24,6 @@ http://213.169.39.30:5115
 http://213.169.39.30:5269
 #EXTINF:-1 group-title="18+",XY PLUS
 http://213.169.39.30:5272
-#EXTINF:-1 group-title="18+",EXXXOTICA
-http://195.191.208.5:8087/udp/224.0.191.35:1234
-#EXTINF:-1 group-title="18+",BARELY LEGAL TV
-http://195.191.208.5:8087/udp/224.0.191.34:1234
 #EXTINF:-1 group-title="18+",DORCEL
 http://77.46.130.252:99/dorcel
 #EXTINF:-1 group-title="18+",PRIVATE
@@ -51,31 +43,31 @@ http://85.11.144.9:50999/39
 #EXTINF:-1 group-title="18+",REALITY KINGTV
 http://85.11.144.9:50999/42
 #EXTINF:-1 group-title="18+",Babes TV
-http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Blue Hustler
-http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Brazzers TV Europe
-http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Erox
-http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Exxxotica HD
-http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Playboy TV
-http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Red Lips HD
-http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Русская ночь
-http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Шалун HD
-http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUxODE2MzgsImlhdCI6MTc2NTA5NTIzOCwiY2lkIjo2LCJ1aWQiOjk3MjY3MzcwMSwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.5WcY5rsW8KeKdn_ae1h3_bJ-JYnURBNfUculIluzBU0&offset=10
+http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjUyNjY2MDQsImlhdCI6MTc2NTE4MDIwNCwiY2lkIjo2LCJ1aWQiOjk3MzAzNTQwNSwicmVnIjpmYWxzZSwiaXAiOjMwMDA2ODc5MDcsImFkdWx0IjpmYWxzZX0.oJL7zk1A3V4XsT348ZyTn9k-x3fMRyS9u0wy4vMRYDM&offset=10
 
 #EXTINF:-1 group-title="18+",Adult IPTV Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
