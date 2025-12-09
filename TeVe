@@ -3036,9 +3036,11 @@ http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 group-title="🏆Спорт",ONEPLAY 3[CZ]
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 
+#EXTINF:-1 group-title="🏆Спорт",FIGHTBOX
+http://176.122.99.7:7000/ch118/video.m3u8
 
-
-
+#EXTINF:-1 group-title="🏆Спорт",XSPORT+
+http://176.122.99.7:7000/ch117/video.m3u8
 
 
 
