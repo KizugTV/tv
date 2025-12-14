@@ -16,34 +16,78 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
-
-#EXTINF:-1,Malder Всё ТВ (стрим)
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",RELAX
+http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",RITSA MUSIC CHANNEL
+http://195.9.195.3:8080/hls/182832.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ASIAT MUSIC
+http://195.9.195.3:8080/hls/196745.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",VIVA RUSSIA
+http://195.9.195.3:8080/hls/180805.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",MIX MTV
+http://195.9.195.3:8080/hls/181490.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",HOTBEATSTV HD
+http://195.9.195.3:8080/hls/191858.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",MIKULSKI STREAM 24/7
+http://195.9.195.3:8080/hls/167782.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",RusBronyTV
+http://195.9.195.3:8080/hls/156945.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ИГРА ТВ
+http://195.9.195.3:8080/hls/192005.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_mult" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",МУЛЬТИКИ И СКАЗКИ
+http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",FUTURAMA
+http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",1FILMAX
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",2FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",KinoMix
+http://195.9.195.3:8080/hls/216612.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",TECHNO DANCE MUSIC
+http://195.9.195.3:8080/hls/180509.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",TWICH TV
+http://195.9.195.3:8080/hls/182747.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",STREAM GAME
+http://195.9.195.3:8080/hls/183946.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",TV SERIES
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",FANTASTIC MYSTIC
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",VKTV
+http://195.9.195.3:8080/hls/173945.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВИДЕОСАЛОН VHS
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Malder Всё ТВ
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:-1,FAN (стрим)
-http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Selecao TV (стрим)
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-0 group-title="ТЕСТ",VHS-Каcсета HD (стрим)
-http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Fantom (стрим)
-http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Alpha Cinema HD (стрим)
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Alpha Moretime HD (стрим)
-http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:-0 group-title="ТЕСТ",KinoFranshyzy 24/7 (стрим)
-http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Kino Non Stop HD (стрим)
-http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Random tv (стрим)
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Akudji TV (стрим)
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Movie Toper HD (стрим)
-http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Millennium HD (стрим)
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Millennium HD
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Epic (стрим)
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",FAN
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",SELECAO TV
+http://195.9.195.3:8080/hls/157269.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Selecao TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",VHS-Каcсета HD
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Fantom
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Alpha Cinema HD
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Alpha Moretime HD
+http://195.9.195.3:8080/hls/205116.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",KinoFranshyzy 24/7
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Kino Non Stop HD
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Random tv
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Akudji TV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Movie Toper HD
+http://195.9.195.3:8080/hls/214749.m3u8
+
+#EXTINF:-0 group-title="ТЕСТ",Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-0 group-title="ТЕСТ",Exclusiv TV Comrat
 http://188.138.130.175:5004/
@@ -128,21 +172,6 @@ http://185.57.68.33/237/mpegts
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg"  tvg-logo="https://iptvcinema.ru/channels/dtrzona1.png", DTR ZONA 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema",KinoMix
-http://195.9.195.3:8080/hls/216612.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/62d5a455220381.597b2f5597a6d.gif",Малдер всё tv
-https://s.catcast.tv/content/43064/index.m3u8?token=34eb2ce635fb7f41b1fc1ca5ee3ea6d9
-
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/12052025/logos/47689-68224b82422af.png", Малдер Мегахит
-https://v2.catcast.tv/content/47689/index.m3u8?token=d79d7d64be7e72490acba85af57f1f79
-
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/11082021/logos/40546-6113be283e1cb.jpg", LAYM GOLD TV
-
-https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
