@@ -95,8 +95,6 @@ http://195.9.195.3:8080/hls/204717.m3u8
 http://195.9.195.3:8080/hls/217083.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",KinoMix
 http://195.9.195.3:8080/hls/216612.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",STREAM GAME
-http://195.9.195.3:8080/hls/183946.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",НСТ
 http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",TV SERIES
@@ -107,6 +105,8 @@ http://195.9.195.3:8080/hls/187741.m3u8
 http://195.9.195.3:8080/hls/173945.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВИДЕОСАЛОН VHS
 http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",VHS-Каcсета HD
+http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",FILM best
 http://195.9.195.3:8080/hls/212682.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Malder Всё ТВ
@@ -119,8 +119,6 @@ http://195.9.195.3:8080/hls/157239.m3u8
 http://195.9.195.3:8080/hls/157269.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",VHS-Каcсета HD
-http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Fantom
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Alpha Cinema HD
