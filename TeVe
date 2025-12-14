@@ -7,6 +7,13 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ОСТОРОЖНО МОДЕРН-2
 http://195.9.195.3:8080/hls/210558.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВОСХОД ТВ
@@ -62,7 +69,7 @@ http://195.9.195.3:8080/hls/209782.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",RusBronyTV
 http://195.9.195.3:8080/hls/156945.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ИГРА ТВ
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ИГРА ТВ
 http://195.9.195.3:8080/hls/192005.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_mult" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",МУЛЬТИКИ И СКАЗКИ
 http://195.9.195.3:8080/hls/198446.m3u8
@@ -72,6 +79,8 @@ http://195.9.195.3:8080/hls/215291.m3u8
 http://195.9.195.3:8080/hls/213086.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",FUTURAMA
 http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",3x3
+http://195.9.195.3:8080/hls/210117.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",CyberTV
 http://195.9.195.3:8080/hls/214421.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",CyberTV
@@ -86,8 +95,6 @@ http://195.9.195.3:8080/hls/204717.m3u8
 http://195.9.195.3:8080/hls/217083.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",KinoMix
 http://195.9.195.3:8080/hls/216612.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",TWICH TV
-http://195.9.195.3:8080/hls/182747.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",STREAM GAME
 http://195.9.195.3:8080/hls/183946.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",НСТ
