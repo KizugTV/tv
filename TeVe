@@ -17,33 +17,33 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
-#EXTINF:-1,Malder Всё ТВ
+#EXTINF:-1,Malder Всё ТВ (стрим)
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:-1,FAN
+#EXTINF:-1,FAN (стрим)
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Selecao TV
+#EXTINF:-0 group-title="ТЕСТ",Selecao TV (стрим)
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-0 group-title="ТЕСТ",VHS-Касета HD
+#EXTINF:-0 group-title="ТЕСТ",VHS-Каcсета HD (стрим)
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Fantom
+#EXTINF:-0 group-title="ТЕСТ",Fantom (стрим)
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Alpha Cinema HD
+#EXTINF:-0 group-title="ТЕСТ",Alpha Cinema HD (стрим)
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Alpha Moretime HD
+#EXTINF:-0 group-title="ТЕСТ",Alpha Moretime HD (стрим)
 http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:-0 group-title="ТЕСТ",KinoFranshyzy 24/7
+#EXTINF:-0 group-title="ТЕСТ",KinoFranshyzy 24/7 (стрим)
 http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Kino Non Stop HD
+#EXTINF:-0 group-title="ТЕСТ",Kino Non Stop HD (стрим)
 http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:-0 group-title="ТЕСТ",BCU REALITY HD
+#EXTINF:-0 group-title="ТЕСТ",Random tv (стрим)
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Akudji TV
+#EXTINF:-0 group-title="ТЕСТ",Akudji TV (стрим)
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Movie Toper HD
+#EXTINF:-0 group-title="ТЕСТ",Movie Toper HD (стрим)
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Millennium HD
+#EXTINF:-0 group-title="ТЕСТ",Millennium HD (стрим)
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:-0 group-title="ТЕСТ",Epic
+#EXTINF:-0 group-title="ТЕСТ",Epic (стрим)
 http://193.25.8.59:8000/dtx
 #EXTINF:-0 group-title="ТЕСТ",Exclusiv TV Comrat
 http://188.138.130.175:5004/
