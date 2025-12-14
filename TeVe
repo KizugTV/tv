@@ -7,13 +7,6 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ОСТОРОЖНО МОДЕРН-2
 http://195.9.195.3:8080/hls/210558.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВОСХОД ТВ
