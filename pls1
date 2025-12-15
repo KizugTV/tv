@@ -5,6 +5,15 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ОСТОРОЖНО МОДЕРН-2
 http://195.9.195.3:8080/hls/210558.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_cinema" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВОСХОД ТВ
@@ -140,7 +149,8 @@ http://195.9.195.3:8080/hls/218490.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="ТЕСТ", LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 group-title="ТЕСТ",Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-0 group-title="ТЕСТ",Exclusiv TV Comrat
@@ -151,8 +161,7 @@ http://185.57.68.33:8091/237/playlist.m3u8
 http://109.68.122.117:8899/hay_tv
 #EXTINF:-0 group-title="ТЕСТ",ATV Bazmoc
 http://109.68.122.117:8899/bazmoc
-#EXTINF:-0 group-title="ТЕСТ", LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+
 #EXTINF:-0 group-title="ТЕСТ" tvg-logo="http://rafail1982.uz/logo/Viasat Kino World.png",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 #EXTINF:-0 group-title="ТЕСТ",Magic family
@@ -1314,6 +1323,12 @@ https://raphls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка",Señal Urbana
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.ibb.co/2YCjdF8G/image-56.png", Sun Music
+http://87.255.35.150:18821/
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.postimg.cc/XNh0X50Z/image-14.png", RADIO MILAZZO TV
+https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" tvg-id="no_epg_music", TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
@@ -4964,6 +4979,26 @@ http://cdn.iptvcinema.ru/gl_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtV
 
 
 
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png", Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/762/4.png", Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/690/791/5.png", Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/967/0.png", Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/954/1.png", Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 
 #EXTINF:-1 group-title="🎬Кино и сериалы", VHS-ка
 http://95.66.188.74/VHS/index.m3u8
@@ -5253,18 +5288,6 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.amediateka.tech/resize/%7BSIZE%7D/_stor_/cms/content-contentasset/9/8f/2036e84b8d1da9ec6257ce7b3d4c198f-122694-918ad08fea514aa9843febbc56de28c5.jpg", Бандитский Петербург
 https://stream-msk-18.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
-
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://androidtvbox.ru/wp-content/uploads/smotrim.jpg",Смотрим Частный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-id="no_epg" tvg-logo="https://standard.rs/wp-content/uploads/2021/10/Bez-naslova-8-705x470.jpg", Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-id="no_epg" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=f5259f459e560813347ce6b8a85cbc786580023b-5870716-images-thumbs&n=13",Смотрим 100% Классика
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Советская киноклассика
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NjQyMjMzOSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY1ODE3NTM5LCJzZXNzaW9uX2lkIjoiYzFiNzc0M2MwODFmMjcwMDZmOGFmOGViN2ExZGU0ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0J5lqR19VnD_G_jFdaHQB4lZqO6ytpSeoCjlz7ZwDA8
