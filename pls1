@@ -3996,930 +3996,737 @@ http://185.188.188.237:5000/live/jojsport/playlist.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/242.png",BCU Marvel HD
-http://cdn.iptvcinema.ru/bcu_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/237.png",BCU Cinema HD
-http://cdn.iptvcinema.ru/bcu_cinema/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/245.png",BCU VHS HD
-http://cdn.iptvcinema.ru/bcu_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/243.png",BCU Premiere HD
-http://cdn.iptvcinema.ru/bcu_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/239.png",BCU Fantastic HD
-http://cdn.iptvcinema.ru/bcu_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/235.png",BCU Action HD
-http://cdn.iptvcinema.ru/bcu_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/247.png",BCU Кинозал Premiere 1 HD
-http://cdn.iptvcinema.ru/bcu_premiere_1/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/248.png",BCU Кинозал Premiere 2 HD
-http://cdn.iptvcinema.ru/bcu_premiere_2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/249.png",BCU Кинозал Premiere 3 HD
-http://cdn.iptvcinema.ru/bcu_premiere_3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/250.png",BCU Reality HD
-http://cdn.iptvcinema.ru/bcu_premiere_4/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/236.png",BCU Catastrophe HD
-http://cdn.iptvcinema.ru/bcu_catastrophe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1372.png",BCU Cinema+ HD
-http://cdn.iptvcinema.ru/bcu_cinemaplus/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/240.png",BCU FilMystic HD
-http://cdn.iptvcinema.ru/bcu_filmystic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/696.png",BCU History HD
-http://cdn.iptvcinema.ru/bcu_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/241.png",BCU Kinorating HD
-http://cdn.iptvcinema.ru/bcu_kinorating/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/244.png",BCU Romantic HD
-http://cdn.iptvcinema.ru/bcu_romantic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/255.png",BCU Russian HD
-http://cdn.iptvcinema.ru/bcu_russian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/253.png",BCU СССР HD
-http://cdn.iptvcinema.ru/bcu_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1414.png",BCU Сваты HD
-http://cdn.iptvcinema.ru/bcu_svati/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/238.png",BCU Comedy HD
-http://cdn.iptvcinema.ru/bcu_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/251.png",BCU Kids HD
-http://cdn.iptvcinema.ru/bcu_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1401.png",BCU Kids+ HD
-http://cdn.iptvcinema.ru/bcu_kidsplus/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/252.png",BCU Мультсериал HD
-http://cdn.iptvcinema.ru/bcu_multserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1386.png",BCU Stars HD
-http://cdn.iptvcinema.ru/bcu_stars/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1413.png",BCU RUSerial HD
-http://cdn.iptvcinema.ru/bcu_ruserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1416.png",BCU Criminal HD
-http://cdn.iptvcinema.ru/bcu_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kinozakaz.png",BCU KINOZAKAZ HD
-http://cdn.iptvcinema.ru/bcu_media/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1430.png",BCU Cosmo HD
-http://cdn.iptvcinema.ru/bcu_cosmo/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1388.png",BCU Ultra 4K
-http://cdn.iptvcinema.ru/bcu_ultra/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/1388.png",BCU Premiere Ultra 4K
-http://cdn.iptvcinema.ru/bcu_premiere_ultra/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/trumotion.png",BCU TruMotion HD
-http://cdn.iptvcinema.ru/bcu_tru_motion/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/charm.png",BCU Charm HD
-http://cdn.iptvcinema.ru/bcu_charm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/little.png",BCU Little HD
-http://cdn.iptvcinema.ru/bcu_little/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1 ,Сериал
-http://cdn.iptvcinema.ru/serial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvnew.png",MyTV
-http://cdn.iptvcinema.ru/mytv/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytv2.png",MyTV 2
-http://cdn.iptvcinema.ru/mytv_2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytv3.png",MyTV 3
-http://cdn.iptvcinema.ru/mytv_3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvhit.png",MyTV Hit
-http://cdn.iptvcinema.ru/mytv_hit/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvkids.png",MyTV Kids
-http://cdn.iptvcinema.ru/mytv_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/atvfilmzone.png",ATV Filmzone HD
-http://cdn.iptvcinema.ru/atv_filmzone/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/atvkinoman.png",ATV Kinoman HD
-http://cdn.iptvcinema.ru/atv_kinoman/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/atvbazmoc.png",ATV Bazmoc HD
-http://cdn.iptvcinema.ru/atv_bazmoc/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mm007.png",Минимакс-007 HD
-http://cdn.iptvcinema.ru/minimax_007/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmboevik.png",Минимакс-Боевик HD
-http://cdn.iptvcinema.ru/minimax_boevik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcomedyclassic.png",Минимакс-Комедия Classic HD
-http://cdn.iptvcinema.ru/minimax_comedyclassic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmfantastic.png",Минимакс-Фантастика HD
-http://cdn.iptvcinema.ru/minimax_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmhistory.png",Минимакс-История HD
-http://cdn.iptvcinema.ru/minimax_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcatastrophe.png",Минимакс-Катастрофа HD
-http://cdn.iptvcinema.ru/minimax_catastrophe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcomedy.png",Минимакс-Комедия HD
-http://cdn.iptvcinema.ru/minimax_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcriminal.png",Минимакс-Криминал HD
-http://cdn.iptvcinema.ru/minimax_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmprikluchenie.png",Минимакс-Приключения HD
-http://cdn.iptvcinema.ru/minimax_priklucheniya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmuzhastik.png",Минимакс-Ужастик HD
-http://cdn.iptvcinema.ru/minimax_uzhastik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmwestern.png",Минимакс-Вестерн HD
-http://cdn.iptvcinema.ru/minimax_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmzatmenie.png",Минимакс-Затмение HD
-http://cdn.iptvcinema.ru/minimax_zatmenie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm1.png",Минимакс-NewFilm 1 HD
-http://cdn.iptvcinema.ru/minimax_newfilm1/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm2.png",Минимакс-NewFilm 2 HD
-http://cdn.iptvcinema.ru/minimax_newfilm2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm3.png",Минимакс-NewFilm 3 HD
-http://cdn.iptvcinema.ru/minimax_newfilm3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmsitcom.png",Минимакс-Ситком HD
-http://cdn.iptvcinema.ru/minimax_sitcom/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmsvati.png",Минимакс-Сваты HD
-http://cdn.iptvcinema.ru/minimax_svati/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmvoron.png",Минимакс-Воронины HD
-http://cdn.iptvcinema.ru/minimax_voronini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmuzhasi.png",Минимакс-Ужасы HD
-http://cdn.iptvcinema.ru/minimax_uzhasi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyemedia.png",Eye Media
-http://cdn.iptvcinema.ru/eye_media/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyeoscar.png",Eye Oscar
-http://cdn.iptvcinema.ru/eye_oscar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyefrozen.png",Eye Frozen
-http://cdn.iptvcinema.ru/eye_frozen/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyecriminal.png",Eye Criminal
-http://cdn.iptvcinema.ru/eye_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyemodern.png",Eye Modern
-http://cdn.iptvcinema.ru/eye_modern/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyefamily.png",Eye Family
-http://cdn.iptvcinema.ru/eye_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyehistory.png",Eye History
-http://cdn.iptvcinema.ru/eye_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyewestern.png",Eye Western
-http://cdn.iptvcinema.ru/eye_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyedrive.png",Eye Drive
-http://cdn.iptvcinema.ru/eye_drive/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyecyber.png",Eye Cyber
-http://cdn.iptvcinema.ru/eye_cyber/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicomedy.png",KLI Comedy HD
-http://cdn.iptvcinema.ru/kli_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klipremium.png",KLI Premium HD
-http://cdn.iptvcinema.ru/kli_premium/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klirussian.png",KLI Russian HD
-http://cdn.iptvcinema.ru/kli_russian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifantastic.png",KLI Fantastic HD
-http://cdn.iptvcinema.ru/kli_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klithriller.png",KLI Thriller HD
-http://cdn.iptvcinema.ru/kli_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliussr.png",KLI USSR HD
-http://cdn.iptvcinema.ru/kli_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifamily.png",KLI Family HD
-http://cdn.iptvcinema.ru/kli_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikids.png",KLI Kids HD
-http://cdn.iptvcinema.ru/kli_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klimult.png",KLI Мультики HD
-http://cdn.iptvcinema.ru/kli_mult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klihorror.png",KLI Horror HD
-http://cdn.iptvcinema.ru/kli_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliaction.png",KLI Action HD
-http://cdn.iptvcinema.ru/kli_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klidrama.png",KLI Drama HD
-http://cdn.iptvcinema.ru/kli_drama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifantasyy.png",KLI Fantasy HD
-http://cdn.iptvcinema.ru/kli_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klimarvel.png",KLI Marvel HD
-http://cdn.iptvcinema.ru/kli_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliuhd.png",KLI UHD 4K
-http://cdn.iptvcinema.ru/kli_uhd/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikinoseria.png",KLI Киносерия HD
-http://cdn.iptvcinema.ru/kli_kinoseria/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kli_novinki4k.png",KLI Новинки 4K Ultra HD
-http://cdn.iptvcinema.ru/kli_novinki_4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klinovinki.png",KLI Новинки HD
-http://cdn.iptvcinema.ru/kli_novinki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klibitbaextrasens.png",KLI Битва Экстрасенсов
-http://cdn.iptvcinema.ru/kli_bitvaextrasens/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klidetektivi.png",KLI ДЕТЕКТИВЫ
-http://cdn.iptvcinema.ru/kli_detektivi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicherniplash.png",KLI Черный Плащ
-http://cdn.iptvcinema.ru/kli_cherniplash/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klichip.png",KLI Чип и Дейл
-http://cdn.iptvcinema.ru/kli_chipideil/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliutinieistori.png",KLI Утиные Истории
-http://cdn.iptvcinema.ru/kli_utinieistoriy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliluntik.png",KLI ЛУНТИК
-http://cdn.iptvcinema.ru/kli_luntik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klivinni.png.png",KLI Винни Пух и его друзья
-http://cdn.iptvcinema.ru/kli_vinnipuh/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliprostakvashino.png",KLI Простоквашино
-http://cdn.iptvcinema.ru/kli_prostokvashino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicherepashki.png",KLI Черепашки-Ниндзя
-http://cdn.iptvcinema.ru/kli_cherepashki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klitomandjerry.png",KLI Tom and Jerry
-http://cdn.iptvcinema.ru/kli_tomandjerry/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikinozakaz.png",KLI KINOZAKAZ
-http://cdn.iptvcinema.ru/kli_kinozakaz/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgkarate.png",Magic Karate
-http://cdn.iptvcinema.ru/magic_karate/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgvhs.png",Magic VHS
-http://cdn.iptvcinema.ru/magic_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgcomedy.png",Magic Comedy
-http://cdn.iptvcinema.ru/magic_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgdisney.png",Magic Disney
-http://cdn.iptvcinema.ru/magic_disney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgthriller.png",Magic Thriller
-http://cdn.iptvcinema.ru/magic_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgaction.png",Magic Action
-http://cdn.iptvcinema.ru/magic_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mggalaxy.png",Magic Galaxy
-http://cdn.iptvcinema.ru/magic_galaxy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mghorror.png",Magic Horror
-http://cdn.iptvcinema.ru/magic_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/magicadventure.png",Magic Adventure
-http://cdn.iptvcinema.ru/magic_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frcinema.png",Fresh Cinema
-http://cdn.iptvcinema.ru/fresh_cinema/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frkids.png",Fresh Kids
-http://cdn.iptvcinema.ru/fresh_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frcomedy.png",Fresh Comedy
-http://cdn.iptvcinema.ru/fresh_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frpremiere.png",Fresh Premiere
-http://cdn.iptvcinema.ru/fresh_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frfamily.png",Fresh Family
-http://cdn.iptvcinema.ru/fresh_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frrating.png",Fresh Rating
-http://cdn.iptvcinema.ru/fresh_rating/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frvhs.png",Fresh VHS
-http://cdn.iptvcinema.ru/fresh_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frfantastic.png",Fresh Fantastic
-http://cdn.iptvcinema.ru/fresh_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frseries.png",Fresh Series
-http://cdn.iptvcinema.ru/fresh_series/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frhorror.png",Fresh Horror
-http://cdn.iptvcinema.ru/fresh_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/fradventure.png",Fresh Adventure
-http://cdn.iptvcinema.ru/fresh_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frromantic.png",Fresh Romantic
-http://cdn.iptvcinema.ru/fresh_romantic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frrussian.png",Fresh Russian
-http://cdn.iptvcinema.ru/fresh_russian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frthriller.png",Fresh Thriller
-http://cdn.iptvcinema.ru/fresh_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frsoviet.png",Fresh Soviet
-http://cdn.iptvcinema.ru/fresh_soviet/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxf.png",BOX Franchise HD
-http://cdn.iptvcinema.ru/box_franchise/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxh.png",BOX Hybrid HD
-http://cdn.iptvcinema.ru/box_hybrid/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxo.png",BOX Oscar HD
-http://cdn.iptvcinema.ru/box_oscar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxm.png",BOX Memory HD
-http://cdn.iptvcinema.ru/box_memory/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxms.png",BOX M.Serial HD
-http://cdn.iptvcinema.ru/box_mserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxr.png",BOX Serial HD
-http://cdn.iptvcinema.ru/box_serial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxg.png",BOX Game HD
-http://cdn.iptvcinema.ru/box_game/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxs.png",BOX Spy HD
-http://cdn.iptvcinema.ru/box_spy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxw.png",BOX Western HD
-http://cdn.iptvcinema.ru/box_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxz.png",BOX Zombie HD
-http://cdn.iptvcinema.ru/box_zombie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxgangster.png",BOX Gangster HD
-http://cdn.iptvcinema.ru/box_gangster/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxc.png",BOX Cyber HD
-http://cdn.iptvcinema.ru/box_cyber/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxa.png",BOX Anime HD
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxa.png",BOX Anime HD
 http://cdn.iptvcinema.ru/box_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxghost.png",BOX Ghost HD
-http://cdn.iptvcinema.ru/box_ghost/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxstories.png",BOX Stories HD
-http://cdn.iptvcinema.ru/box_stories/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxfantasy.png",BOX Fantasy HD
-http://cdn.iptvcinema.ru/box_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxtravel.png",BOX Travel HD
-http://cdn.iptvcinema.ru/box_travel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxmyday.png",BOX Mayday HD
-http://cdn.iptvcinema.ru/box_mayday/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxdocu.png",BOX Docu HD
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxc.png",BOX Cyber HD
+http://cdn.iptvcinema.ru/box_cyber/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxdocu.png",BOX Docu HD
 http://cdn.iptvcinema.ru/box_docu/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veles60.png",VeleS 60FPS
-http://cdn.iptvcinema.ru/veles_60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesplyonka.png",VeleS Киноплёнка
-http://cdn.iptvcinema.ru/veles_plyonka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesdj.png",VeleS Dj Set
-http://cdn.iptvcinema.ru/veles_dj/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleskinoserya.png",VeleS Киносерия
-http://cdn.iptvcinema.ru/veles_kinoserya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velespremiere.png",VeleS Premiere
-http://cdn.iptvcinema.ru/veles_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesstrashnoe.png",VeleS Страшное
-http://cdn.iptvcinema.ru/veles_strashnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesussr.png",VeleS СССР
-http://cdn.iptvcinema.ru/veles_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesmovie.png",VeleS Movie Hits
-http://cdn.iptvcinema.ru/veles_movie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesmagnitofon.png",VeleS Магнитофон
-http://cdn.iptvcinema.ru/vales_magnitofon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleskids.png",VeleS Kids
-http://cdn.iptvcinema.ru/veles_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velescriminal.png",VeleS Криминальный
-http://cdn.iptvcinema.ru/veles_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesnewyear.png",VeleS New Year
-http://cdn.iptvcinema.ru/veles_newyear/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velescomedy.png",VeleS Комедия
-http://cdn.iptvcinema.ru/veles_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesanime.png",VeleS Аниме
-http://cdn.iptvcinema.ru/veles_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesthriller.png",VeleS Триллер
-http://cdn.iptvcinema.ru/veles_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesfamily.png",VeleS Семейный
-http://cdn.iptvcinema.ru/veles_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleswestern.png",VeleS Вестерн
-http://cdn.iptvcinema.ru/veles_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesnashekino.png",VeleS Наше Кино
-http://cdn.iptvcinema.ru/veles_nashekino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/skyaction.png",Skycam Action
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxfantasy.png",BOX Fantasy HD
+http://cdn.iptvcinema.ru/box_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxf.png",BOX Franchise HD
+http://cdn.iptvcinema.ru/box_franchise/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxg.png",BOX Game HD
+http://cdn.iptvcinema.ru/box_game/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxgangster.png",BOX Gangster HD
+http://cdn.iptvcinema.ru/box_gangster/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxghost.png",BOX Ghost HD
+http://cdn.iptvcinema.ru/box_ghost/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxh.png",BOX Hybrid HD
+http://cdn.iptvcinema.ru/box_hybrid/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxms.png",BOX M.Serial HD
+http://cdn.iptvcinema.ru/box_mserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxmyday.png",BOX Mayday HD
+http://cdn.iptvcinema.ru/box_mayday/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxm.png",BOX Memory HD
+http://cdn.iptvcinema.ru/box_memory/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxo.png",BOX Oscar HD
+http://cdn.iptvcinema.ru/box_oscar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxr.png",BOX Serial HD
+http://cdn.iptvcinema.ru/box_serial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxs.png",BOX Spy HD
+http://cdn.iptvcinema.ru/box_spy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxstories.png",BOX Stories HD
+http://cdn.iptvcinema.ru/box_stories/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxtravel.png",BOX Travel HD
+http://cdn.iptvcinema.ru/box_travel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxw.png",BOX Western HD
+http://cdn.iptvcinema.ru/box_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/boxz.png",BOX Zombie HD
+http://cdn.iptvcinema.ru/box_zombie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ccartoon.png",C-Cartoon HD
+http://cdn.iptvcinema.ru/c_cartoon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ccomedy.png",C-Comedy HD
+http://cdn.iptvcinema.ru/c_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chistory.png",C-History HD
+http://cdn.iptvcinema.ru/c_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/cinquest.png",C-Inquest HD
+http://cdn.iptvcinema.ru/c_inquest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/clive.png",C-Live HD
+http://cdn.iptvcinema.ru/c_live/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/cmarvel.png",C-Marvel HD
+http://cdn.iptvcinema.ru/c_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  Братаны
+http://cdn.iptvcinema.ru/ditv_bratani/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  ДЕТСКИЙ КАНАЛ
+http://cdn.iptvcinema.ru/ditv_detskiykino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  Ивановы-Ивановы
+http://cdn.iptvcinema.ru/ditv_ivanovi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Concert
+http://cdn.iptvcinema.ru/ditv_concert/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Game of Thrones
+http://cdn.iptvcinema.ru/ditv_gameofthrones/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV VHS
+http://cdn.iptvcinema.ru/ditv_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Walt Disney
+http://cdn.iptvcinema.ru/ditv_waltdisney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Агент национальной безопасности
+http://cdn.iptvcinema.ru/ditv_agent/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Альянс Вольных Переводчиков
+http://cdn.iptvcinema.ru/ditv_alyans/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Американские комедии 80-90-х
+http://cdn.iptvcinema.ru/ditv_americancomedy8090/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV БОЕВИКИ
+http://cdn.iptvcinema.ru/ditv_boeviki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ВОРОНИНЫ
+http://cdn.iptvcinema.ru/ditv_voronini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ГАРИ ПОТЕР
+http://cdn.iptvcinema.ru/ditv_harrypotter/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Глухарь
+http://cdn.iptvcinema.ru/ditv_glukhar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Детективные сериалы
+http://cdn.iptvcinema.ru/ditv_detectiveserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Детективы
+http://cdn.iptvcinema.ru/ditv_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Зачарованные
+http://cdn.iptvcinema.ru/ditv_zacharovannie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КАЛАМБУР
+http://cdn.iptvcinema.ru/ditv_kalambur/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Карпов
+http://cdn.iptvcinema.ru/ditv_karpov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Киножурнал Фитиль
+http://cdn.iptvcinema.ru/ditv_kinozhurnal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КЛАССИКА ИНДИЙСКОГО КИНО
+http://cdn.iptvcinema.ru/ditv_classicindia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КЛИПЫ 90х
+http://cdn.iptvcinema.ru/ditv_clipi90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ
+http://cdn.iptvcinema.ru/ditv_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ 90-х
+http://cdn.iptvcinema.ru/ditv_comedy90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ СССР
+http://cdn.iptvcinema.ru/ditv_comedyussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV комедийные сериалы
+http://cdn.iptvcinema.ru/ditv_comedyserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Куба
+http://cdn.iptvcinema.ru/ditv_kuba/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Лихач
+http://cdn.iptvcinema.ru/ditv_likhach/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV МАСКИ ШОУ
+http://cdn.iptvcinema.ru/ditv_maskishow/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV МЕЧ
+http://cdn.iptvcinema.ru/ditv_mech/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Мультфильмы для малышей
+http://cdn.iptvcinema.ru/ditv_multfilmimalishey/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Невский
+http://cdn.iptvcinema.ru/ditv_nevskiy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Осторожно модерн!
+http://cdn.iptvcinema.ru/ditv_ostorozhnomodern/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Очень странные дела
+http://cdn.iptvcinema.ru/ditv_ochenstranniesila/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ПАТРИОТ
+http://cdn.iptvcinema.ru/ditv_patriot/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Первый-отдел
+http://cdn.iptvcinema.ru/ditv_perviyotdel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Пёс
+http://cdn.iptvcinema.ru/ditv_pes/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Про акул
+http://cdn.iptvcinema.ru/ditv_proakul/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Про вампиров
+http://cdn.iptvcinema.ru/ditv_provampirov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Пятницкий
+http://cdn.iptvcinema.ru/ditv_pyatnicki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Русский рок
+http://cdn.iptvcinema.ru/ditv_russkiyrock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК
+http://cdn.iptvcinema.ru/ditv_sbornikmultfilmov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Счастливы вместе
+http://cdn.iptvcinema.ru/ditv_schastlivi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Удивительные странствия Геракла
+http://cdn.iptvcinema.ru/ditv_udivitelnie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV УЖАСЫ
+http://cdn.iptvcinema.ru/ditv_uzhas/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФАНТАСТИКА
+http://cdn.iptvcinema.ru/ditv_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФИЛЬМЫ
+http://cdn.iptvcinema.ru/ditv_film/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФИЛЬМЫ УЖАСОВ 80-х
+http://cdn.iptvcinema.ru/ditv_filmiuzhasov80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Ходячие мертвецы
+http://cdn.iptvcinema.ru/ditv_mertveci/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyecriminal.png",Eye Criminal
+http://cdn.iptvcinema.ru/eye_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyecyber.png",Eye Cyber
+http://cdn.iptvcinema.ru/eye_cyber/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyedrive.png",Eye Drive
+http://cdn.iptvcinema.ru/eye_drive/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyefamily.png",Eye Family
+http://cdn.iptvcinema.ru/eye_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyefrozen.png",Eye Frozen
+http://cdn.iptvcinema.ru/eye_frozen/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyehistory.png",Eye History
+http://cdn.iptvcinema.ru/eye_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyemedia.png",Eye Media
+http://cdn.iptvcinema.ru/eye_media/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyemodern.png",Eye Modern
+http://cdn.iptvcinema.ru/eye_modern/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyeoscar.png",Eye Oscar
+http://cdn.iptvcinema.ru/eye_oscar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/eyewestern.png",Eye Western
+http://cdn.iptvcinema.ru/eye_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/fradventure.png",Fresh Adventure
+http://cdn.iptvcinema.ru/fresh_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frcinema.png",Fresh Cinema
+http://cdn.iptvcinema.ru/fresh_cinema/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frcomedy.png",Fresh Comedy
+http://cdn.iptvcinema.ru/fresh_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frfamily.png",Fresh Family
+http://cdn.iptvcinema.ru/fresh_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frfantastic.png",Fresh Fantastic
+http://cdn.iptvcinema.ru/fresh_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frhorror.png",Fresh Horror
+http://cdn.iptvcinema.ru/fresh_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frkids.png",Fresh Kids
+http://cdn.iptvcinema.ru/fresh_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frpremiere.png",Fresh Premiere
+http://cdn.iptvcinema.ru/fresh_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frrating.png",Fresh Rating
+http://cdn.iptvcinema.ru/fresh_rating/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frromantic.png",Fresh Romantic
+http://cdn.iptvcinema.ru/fresh_romantic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frrussian.png",Fresh Russian
+http://cdn.iptvcinema.ru/fresh_russian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frseries.png",Fresh Series
+http://cdn.iptvcinema.ru/fresh_series/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frsoviet.png",Fresh Soviet
+http://cdn.iptvcinema.ru/fresh_soviet/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frthriller.png",Fresh Thriller
+http://cdn.iptvcinema.ru/fresh_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/frvhs.png",Fresh VHS
+http://cdn.iptvcinema.ru/fresh_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/FrostHorror.png",Frost Horror
+http://cdn.iptvcinema.ru/frost_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/FrostMovie.png",Frost Movie
+http://cdn.iptvcinema.ru/frost_movie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glbrief.png",GL Brief
+http://cdn.iptvcinema.ru/gl_brief/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glevidence.png",GL Evidence
+http://cdn.iptvcinema.ru/gl_evidence/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glexist.png",GL Exist
+http://cdn.iptvcinema.ru/gl_exist/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glisland.png",GL Island
+http://cdn.iptvcinema.ru/gl_island/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glnaked.png",GL Naked and Funny
+http://cdn.iptvcinema.ru/gl_nakedandfunny/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glpsycho.png",GL Psycho
+http://cdn.iptvcinema.ru/gl_psycho/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glseries.png",GL Series
+http://cdn.iptvcinema.ru/gl_series/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glsurvival.png",GL Survival
+http://cdn.iptvcinema.ru/gl_survival/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gldetective.png",GL Детектив
+http://cdn.iptvcinema.ru/gl_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glnevski.png",GL Невский
+http://cdn.iptvcinema.ru/gl_nevski/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmagatakristi.png",GlobalMedia Агата Кристи
+http://cdn.iptvcinema.ru/gm_agatakristi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmanime.png",GlobalMedia Аниме
+http://cdn.iptvcinema.ru/gm_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmbiography.png",GlobalMedia Биография
+http://cdn.iptvcinema.ru/gm_biography/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmboevik.png",GlobalMedia Боевик
+http://cdn.iptvcinema.ru/gm_boevik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmvikingi.png",GlobalMedia Викинги
+http://cdn.iptvcinema.ru/gm_viking/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmgiganti.png",GlobalMedia Гиганты
+http://cdn.iptvcinema.ru/gm_giganti/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmzhenskiydetective.png",GlobalMedia Женский детектив
+http://cdn.iptvcinema.ru/gm_zhenskiydetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmcomedy.png",GlobalMedia Комедия
+http://cdn.iptvcinema.ru/gm_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmkungfu.png",GlobalMedia Кунг-Фу
+http://cdn.iptvcinema.ru/gm_kungfu/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmletopis.png",GlobalMedia Летопись
+http://cdn.iptvcinema.ru/gm_letopis/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmystic.png",GlobalMedia Мистика
+http://cdn.iptvcinema.ru/gm_mystic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmuzhskoydetective.png",GlobalMedia Мужской детектив
+http://cdn.iptvcinema.ru/gm_muzhskoydetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmuzika.png",GlobalMedia Музыка
+http://cdn.iptvcinema.ru/gm_music/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmultfilm.png",GlobalMedia Мультфильм
+http://cdn.iptvcinema.ru/gm_multfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmushketyori.png",GlobalMedia Мушкетеры
+http://cdn.iptvcinema.ru/gm_mushketyor/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmnlo.png",GlobalMedia НЛО
+http://cdn.iptvcinema.ru/gm_nlo/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmromantica.png",GlobalMedia Романтика
+http://cdn.iptvcinema.ru/gm_romantica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmrossiskiydetective.png",GlobalMedia Российский детектив
+http://cdn.iptvcinema.ru/gm_rosdetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetdetective.png",GlobalMedia Советский детектив
+http://cdn.iptvcinema.ru/gm_sovietdetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetdublyazh.png",GlobalMedia Советский дубляж
+http://cdn.iptvcinema.ru/gm_sovietdub/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetmult.png",GlobalMedia Советский мультфильм
+http://cdn.iptvcinema.ru/gm_sovietmult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetskoekino.png",GlobalMedia Советское кино
+http://cdn.iptvcinema.ru/gm_sovietkino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmspecagenti.png",GlobalMedia Спецагенты
+http://cdn.iptvcinema.ru/gm_specagent/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsupergeroy.png",GlobalMedia Супергерои
+http://cdn.iptvcinema.ru/gm_supergeroy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmuzhasi.png",GlobalMedia Ужасы
+http://cdn.iptvcinema.ru/gm_uzhasi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfantastica.png",GlobalMedia Фантастика
+http://cdn.iptvcinema.ru/gm_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfaunaflora.png",GlobalMedia Фауна и Флора
+http://cdn.iptvcinema.ru/gm_faunaflora/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfantasy.png",GlobalMedia Фэнтези
+http://cdn.iptvcinema.ru/gm_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsherlock.png",GlobalMedia Шерлок Холмс
+http://cdn.iptvcinema.ru/gm_sherlock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbc100500.png",KBC 100500
+http://cdn.iptvcinema.ru/kbc_100500/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcanimals.png",KBC Animals
+http://cdn.iptvcinema.ru/kbc_animals/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcelitecomedy.png",KBC Elite comedys
+http://cdn.iptvcinema.ru/kbc_elitecomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcfamilyanimation.png",KBC Family Animation
+http://cdn.iptvcinema.ru/kbc_familyanimation/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcnewfilm.png",KBC Newfilm
+http://cdn.iptvcinema.ru/kbc_newfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcrussiancomedy.png",KBC Russian Комедия
+http://cdn.iptvcinema.ru/kbc_russiancomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcdramatic.png",KBC ДрамаTic HD
+http://cdn.iptvcinema.ru/kbc_dramatic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbckoshmarnoe.png",KBC Кошмарное HD
+http://cdn.iptvcinema.ru/kbc_koshmarnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcsoyuzmultzal.png",KBC Союзмультзал
+http://cdn.iptvcinema.ru/kbc_soyuzmultzal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliaction.png",KLI Action HD
+http://cdn.iptvcinema.ru/kli_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicomedy.png",KLI Comedy HD
+http://cdn.iptvcinema.ru/kli_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klidrama.png",KLI Drama HD
+http://cdn.iptvcinema.ru/kli_drama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifamily.png",KLI Family HD
+http://cdn.iptvcinema.ru/kli_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifantastic.png",KLI Fantastic HD
+http://cdn.iptvcinema.ru/kli_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klifantasyy.png",KLI Fantasy HD
+http://cdn.iptvcinema.ru/kli_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klihorror.png",KLI Horror HD
+http://cdn.iptvcinema.ru/kli_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikids.png",KLI Kids HD
+http://cdn.iptvcinema.ru/kli_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikinozakaz.png",KLI KINOZAKAZ
+http://cdn.iptvcinema.ru/kli_kinozakaz/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klimarvel.png",KLI Marvel HD
+http://cdn.iptvcinema.ru/kli_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klipremium.png",KLI Premium HD
+http://cdn.iptvcinema.ru/kli_premium/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klirussian.png",KLI Russian HD
+http://cdn.iptvcinema.ru/kli_russian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klithriller.png",KLI Thriller HD
+http://cdn.iptvcinema.ru/kli_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klitomandjerry.png",KLI Tom and Jerry
+http://cdn.iptvcinema.ru/kli_tomandjerry/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliuhd.png",KLI UHD 4K
+http://cdn.iptvcinema.ru/kli_uhd/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliussr.png",KLI USSR HD
+http://cdn.iptvcinema.ru/kli_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klibitbaextrasens.png",KLI Битва Экстрасенсов
+http://cdn.iptvcinema.ru/kli_bitvaextrasens/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klivinni.png.png",KLI Винни Пух и его друзья
+http://cdn.iptvcinema.ru/kli_vinnipuh/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klidetektivi.png",KLI ДЕТЕКТИВЫ
+http://cdn.iptvcinema.ru/kli_detektivi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klikinoseria.png",KLI Киносерия HD
+http://cdn.iptvcinema.ru/kli_kinoseria/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliluntik.png",KLI ЛУНТИК
+http://cdn.iptvcinema.ru/kli_luntik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klimult.png",KLI Мультики HD
+http://cdn.iptvcinema.ru/kli_mult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kli_novinki4k.png",KLI Новинки 4K Ultra HD
+http://cdn.iptvcinema.ru/kli_novinki_4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klinovinki.png",KLI Новинки HD
+http://cdn.iptvcinema.ru/kli_novinki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliprostakvashino.png",KLI Простоквашино
+http://cdn.iptvcinema.ru/kli_prostokvashino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kliutinieistori.png",KLI Утиные Истории
+http://cdn.iptvcinema.ru/kli_utinieistoriy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicherepashki.png",KLI Черепашки-Ниндзя
+http://cdn.iptvcinema.ru/kli_cherepashki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klicherniplash.png",KLI Черный Плащ
+http://cdn.iptvcinema.ru/kli_cherniplash/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/klichip.png",KLI Чип и Дейл
+http://cdn.iptvcinema.ru/kli_chipideil/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgaction.png",Magic Action
+http://cdn.iptvcinema.ru/magic_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/magicadventure.png",Magic Adventure
+http://cdn.iptvcinema.ru/magic_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgcomedy.png",Magic Comedy
+http://cdn.iptvcinema.ru/magic_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgdisney.png",Magic Disney
+http://cdn.iptvcinema.ru/magic_disney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mggalaxy.png",Magic Galaxy
+http://cdn.iptvcinema.ru/magic_galaxy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mghorror.png",Magic Horror
+http://cdn.iptvcinema.ru/magic_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgkarate.png",Magic Karate
+http://cdn.iptvcinema.ru/magic_karate/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgthriller.png",Magic Thriller
+http://cdn.iptvcinema.ru/magic_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mgvhs.png",Magic VHS
+http://cdn.iptvcinema.ru/magic_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvnew.png",MyTV
+http://cdn.iptvcinema.ru/mytv/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytv2.png",MyTV 2
+http://cdn.iptvcinema.ru/mytv_2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytv3.png",MyTV 3
+http://cdn.iptvcinema.ru/mytv_3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvhit.png",MyTV Hit
+http://cdn.iptvcinema.ru/mytv_hit/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mytvkids.png",MyTV Kids
+http://cdn.iptvcinema.ru/mytv_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Action comdey
+http://cdn.iptvcinema.ru/olsib_actionccomdey/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ancient Rome
+http://cdn.iptvcinema.ru/olsib_ancient/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Australia Cinema
+http://cdn.iptvcinema.ru/olsib_australia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB British Cinema
+http://cdn.iptvcinema.ru/olsib_british/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Canada Cinema
+http://cdn.iptvcinema.ru/olsib_canada/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB China Cinema
+http://cdn.iptvcinema.ru/olsib_china/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ocomedy.png",OLSIB Comedy
+http://cdn.iptvcinema.ru/olsib_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ocrime.png",OLSIB Crime
+http://cdn.iptvcinema.ru/olsib_crime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Czech Cinema
+http://cdn.iptvcinema.ru/olsib_czech/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Disco-80
+http://cdn.iptvcinema.ru/olsib_disco80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Documentary
+http://cdn.iptvcinema.ru/olsib_documentary/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ofantasy.png",OLSIB Fantasy
+http://cdn.iptvcinema.ru/olsib_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB French Cinema
+http://cdn.iptvcinema.ru/olsib_french/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Galicia
+http://cdn.iptvcinema.ru/olsib_galicia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Italian Cinema
+http://cdn.iptvcinema.ru/olsib_italian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Japan Cinema
+http://cdn.iptvcinema.ru/olsib_japan/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olovestory.png",OLSIB Love story
+http://cdn.iptvcinema.ru/olsib_lovestory/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Marvel
+http://cdn.iptvcinema.ru/olsib_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Mexico Cinema
+http://cdn.iptvcinema.ru/olsib_mexico/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Multfilm
+http://cdn.iptvcinema.ru/olsib_multfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Norway Cinema
+http://cdn.iptvcinema.ru/olsib_norway/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Pirates of the Caribbean
+http://cdn.iptvcinema.ru/olsib_pirates/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Poland Cinema
+http://cdn.iptvcinema.ru/olsib_poland/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Pro100 Kitchen
+http://cdn.iptvcinema.ru/olsib_pro100/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Radio
+http://cdn.iptvcinema.ru/olsib_radio/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ritsa
+http://cdn.iptvcinema.ru/olsib_ritsa/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB RU.Music
+http://cdn.iptvcinema.ru/olsib_rumusic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Sci-Fi
+http://cdn.iptvcinema.ru/olsib_scifi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Show
+http://cdn.iptvcinema.ru/olsib_show/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Spain Cinema
+http://cdn.iptvcinema.ru/olsib_spain/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Star Wars
+http://cdn.iptvcinema.ru/olsib_starwars/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB STB
+http://cdn.iptvcinema.ru/olsib_stb/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/othebest.png",OLSIB The Best
+http://cdn.iptvcinema.ru/olsib_thebest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/othenewest.png",OLSIB The Newest
+http://cdn.iptvcinema.ru/olsib_thenewest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 30
+http://cdn.iptvcinema.ru/olsib_ussr30/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 60
+http://cdn.iptvcinema.ru/olsib_ussr60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 70
+http://cdn.iptvcinema.ru/olsib_ussr70/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 80
+http://cdn.iptvcinema.ru/olsib_ussr80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 90
+http://cdn.iptvcinema.ru/olsib_ussr90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR Classic
+http://cdn.iptvcinema.ru/olsib_ussrclassic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ovhs.png",OLSIB VHS
+http://cdn.iptvcinema.ru/olsib_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/odisney.png",OLSIB Walt Disney
+http://cdn.iptvcinema.ru/olsib_waltdisney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/owar.png",OLSIB War
+http://cdn.iptvcinema.ru/olsib_war/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Беспринципные
+http://cdn.iptvcinema.ru/olsib_bezprincipnie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Живой Мир
+http://cdn.iptvcinema.ru/olsib_zhivoymir/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Звездные врата
+http://cdn.iptvcinema.ru/olsib_zvezdnievrata/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Киносказки
+http://cdn.iptvcinema.ru/olsib_kinoskazki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Конфетка
+http://cdn.iptvcinema.ru/olsib_konfetka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Наш флаг означает Смерть
+http://cdn.iptvcinema.ru/olsib_nashflag/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Полярный
+http://cdn.iptvcinema.ru/olsib_polyarni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ремейк
+http://cdn.iptvcinema.ru/olsib_remake/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Чужой район
+http://cdn.iptvcinema.ru/olsib_chuzhoyrayon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/skyaction.png",Skycam Action
 http://cdn.iptvcinema.ru/skycam_action/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/skyrusfilms.png",Skycam Rusfilms
-http://cdn.iptvcinema.ru/skycam_rusfilms/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 ,Skycam Rock
 http://cdn.iptvcinema.ru/skycam_rock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ygrand.png",YOSSO TV GRAND
-http://cdn.iptvcinema.ru/yosso_grand/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yvhs.png",YOSSO TV VHS
-http://cdn.iptvcinema.ru/yosso_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ykids.png",YOSSO TV KIDS
-http://cdn.iptvcinema.ru/yosso_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yusfilm.png",YOSSO TV Русские фильмы
-http://cdn.iptvcinema.ru/yosso_rusfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yussr.png",YOSSO TV Советские фильмы
-http://cdn.iptvcinema.ru/yosso_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ysexy.png",YOSSO TV SEXY
-http://cdn.iptvcinema.ru/yosso_sexy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ynew.png",YOSSO TV NEW Кино
-http://cdn.iptvcinema.ru/yosso_new/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ysoyuzmult.png",YOSSO TV Союзмульт
-http://cdn.iptvcinema.ru/yosso_soyuzmult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ymusichits.png",YOSSO TV Music Hits
-http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ytragichnoe.png",YOSSO TV Трагичное
-http://cdn.iptvcinema.ru/yosso_tragichnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yzabavnoe.png",YOSSO TV Забавное
-http://cdn.iptvcinema.ru/yosso_zabavnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ybest.png",YOSSO TV BEST
-http://cdn.iptvcinema.ru/yosso_best/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ycowboy.png",YOSSO TV Ковбойское
-http://cdn.iptvcinema.ru/yosso_cowboy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yadrenaline.png",YOSSO TV Adrenaline
-http://cdn.iptvcinema.ru/yosso_adrenaline/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yoblivion.png",YOSSO TV Oblivion
-http://cdn.iptvcinema.ru/yosso_oblivion/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yadventure.png",YOSSO TV Adventure
-http://cdn.iptvcinema.ru/yosso_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ythriller.png",YOSSO TV Thriller
-http://cdn.iptvcinema.ru/yosso_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ymelodrama.png",YOSSO TV Мелодрама
-http://cdn.iptvcinema.ru/yosso_melodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ydetskoe.png",YOSSO TV Наше Детское
-http://cdn.iptvcinema.ru/yosso_detskoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/y4k.png",YOSSO 4K
-http://cdn.iptvcinema.ru/yosso_4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ynetflix.png",YOSSO TV Netflix
-http://cdn.iptvcinema.ru/yosso_netflix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ydisney.png",YOSSO TV Disney
-http://cdn.iptvcinema.ru/yosso_disney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/y60fps.png",YOSSO TV BEST 60 FPS
-http://cdn.iptvcinema.ru/yosso_60fps/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yussr4k.png",YOSSO TV Советские фильмы 4K
-http://cdn.iptvcinema.ru/yosso_ussr4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ccomedy.png",C-Comedy HD
-http://cdn.iptvcinema.ru/c_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ccartoon.png",C-Cartoon HD
-http://cdn.iptvcinema.ru/c_cartoon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/cmarvel.png",C-Marvel HD
-http://cdn.iptvcinema.ru/c_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/cinquest.png",C-Inquest HD
-http://cdn.iptvcinema.ru/c_inquest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/clive.png",C-Live HD
-http://cdn.iptvcinema.ru/c_live/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chistory.png",C-History HD
-http://cdn.iptvcinema.ru/c_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topvelikolepniy.png",TOP Великолепный Век
-http://cdn.iptvcinema.ru/top_velikolepniy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/top80.png",TOP 80s
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/skyrusfilms.png",Skycam Rusfilms
+http://cdn.iptvcinema.ru/skycam_rusfilms/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/top80.png",TOP 80s
 http://cdn.iptvcinema.ru/top_80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topbudo.png",TOP BUDO
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topbudo.png",TOP BUDO
 http://cdn.iptvcinema.ru/top_budo/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topcinema.png",TOP Cinema
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topcinema.png",TOP Cinema
 http://cdn.iptvcinema.ru/top_cinema/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topussr.png",TOP USSR
-http://cdn.iptvcinema.ru/top_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topmix.png",TOP MIX
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topmix.png",TOP MIX
 http://cdn.iptvcinema.ru/top_mix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbclegendary.png",KBC Легендарное HD
-http://cdn.iptvcinema.ru/kbc_legendary/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbckoshmarnoe.png",KBC Кошмарное HD
-http://cdn.iptvcinema.ru/kbc_koshmarnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcvidak.png",KBC Видак HD
-http://cdn.iptvcinema.ru/kbc_vidak/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcdramatic.png",KBC ДрамаTic HD
-http://cdn.iptvcinema.ru/kbc_dramatic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcsoyuzmultzal.png",KBC Союзмультзал
-http://cdn.iptvcinema.ru/kbc_soyuzmultzal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbc100500.png",KBC 100500
-http://cdn.iptvcinema.ru/kbc_100500/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcelitecomedy.png",KBC Elite comedys
-http://cdn.iptvcinema.ru/kbc_elitecomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcfamilyanimation.png",KBC Family Animation
-http://cdn.iptvcinema.ru/kbc_familyanimation/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcrussiancomedy.png",KBC Russian Комедия
-http://cdn.iptvcinema.ru/kbc_russiancomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcbob.png",KBC В.О.В.
-http://cdn.iptvcinema.ru/kbc_bob/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcstranaussr.png",KBC Страна СССР
-http://cdn.iptvcinema.ru/kbc_stranaussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcshpionskoe.png",KBC Шпионское
-http://cdn.iptvcinema.ru/kbc_shpionskoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbccomics.png",KBC Comics
-http://cdn.iptvcinema.ru/kbc_comics/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcanime.png",KBC АНИМЕ
-http://cdn.iptvcinema.ru/kbc_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbchistory.png",KBC History
-http://cdn.iptvcinema.ru/kbc_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcfantastic.png",KBC Fantastic
-http://cdn.iptvcinema.ru/kbc_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcgay.png",KBC ГАЙ Ritchie &amp; Tarantino
-http://cdn.iptvcinema.ru/kbc_gay/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcnewfilm.png",KBC Newfilm
-http://cdn.iptvcinema.ru/kbc_newfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcgoblin.png",KBC ГОБЛИН
-http://cdn.iptvcinema.ru/kbc_goblin/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcwestern.png",KBC Вестерн
-http://cdn.iptvcinema.ru/kbc_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcwar.png",KBC WAR
-http://cdn.iptvcinema.ru/kbc_war/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcmuskino.png",KBC MusKino
-http://cdn.iptvcinema.ru/kbc_muskino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcanimals.png",KBC Animals
-http://cdn.iptvcinema.ru/kbc_animals/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcsportmix.png",KBC СпортМикс
-http://cdn.iptvcinema.ru/kbc_sportmix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/kbcnashrock.png",KBC НАШ ROCK
-http://cdn.iptvcinema.ru/kbc_nashrock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1 ,KBC Сказочный
-http://cdn.iptvcinema.ru/kbc_skazochni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citytelenovella.png",Сити Эдем ТелеНовелла
-http://cdn.iptvcinema.ru/city_telenovella/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/cityedem.png",Сити Эдем ТВ
-http://cdn.iptvcinema.ru/city_edem/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoaction.png",Сити Эдем КиноЭкшен
-http://cdn.iptvcinema.ru/city_kinoaction/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinomystica.png",Сити Эдем КиноМистика
-http://cdn.iptvcinema.ru/city_kinomystica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinosemya.png",Сити Эдем КиноСемья
-http://cdn.iptvcinema.ru/city_kinosemya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoclassica.png",Сити Эдем КиноКлассика
-http://cdn.iptvcinema.ru/city_kinoclassica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinofantastica.png",Сити Эдем КиноФантастика
-http://cdn.iptvcinema.ru/city_kinofantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinodrama.png",Сити Эдем КиноДрама
-http://cdn.iptvcinema.ru/city_kinodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoasia.png",Сити Эдем КиноАзия
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topussr.png",TOP USSR
+http://cdn.iptvcinema.ru/top_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/topvelikolepniy.png",TOP Великолепный Век
+http://cdn.iptvcinema.ru/top_velikolepniy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veles60.png",VeleS 60FPS
+http://cdn.iptvcinema.ru/veles_60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesdj.png",VeleS Dj Set
+http://cdn.iptvcinema.ru/veles_dj/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleskids.png",VeleS Kids
+http://cdn.iptvcinema.ru/veles_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesmovie.png",VeleS Movie Hits
+http://cdn.iptvcinema.ru/veles_movie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesnewyear.png",VeleS New Year
+http://cdn.iptvcinema.ru/veles_newyear/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velespremiere.png",VeleS Premiere
+http://cdn.iptvcinema.ru/veles_premiere/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesanime.png",VeleS Аниме
+http://cdn.iptvcinema.ru/veles_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleswestern.png",VeleS Вестерн
+http://cdn.iptvcinema.ru/veles_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesplyonka.png",VeleS Киноплёнка
+http://cdn.iptvcinema.ru/veles_plyonka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/veleskinoserya.png",VeleS Киносерия
+http://cdn.iptvcinema.ru/veles_kinoserya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velescomedy.png",VeleS Комедия
+http://cdn.iptvcinema.ru/veles_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velescriminal.png",VeleS Криминальный
+http://cdn.iptvcinema.ru/veles_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesmagnitofon.png",VeleS Магнитофон
+http://cdn.iptvcinema.ru/vales_magnitofon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesnashekino.png",VeleS Наше Кино
+http://cdn.iptvcinema.ru/veles_nashekino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesfamily.png",VeleS Семейный
+http://cdn.iptvcinema.ru/veles_family/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesussr.png",VeleS СССР
+http://cdn.iptvcinema.ru/veles_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesstrashnoe.png",VeleS Страшное
+http://cdn.iptvcinema.ru/veles_strashnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/velesthriller.png",VeleS Триллер
+http://cdn.iptvcinema.ru/veles_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yadrenaline.png",YOSSO TV Adrenaline
+http://cdn.iptvcinema.ru/yosso_adrenaline/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yadventure.png",YOSSO TV Adventure
+http://cdn.iptvcinema.ru/yosso_adventure/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ybest.png",YOSSO TV BEST
+http://cdn.iptvcinema.ru/yosso_best/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/y60fps.png",YOSSO TV BEST 60 FPS
+http://cdn.iptvcinema.ru/yosso_60fps/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ydisney.png",YOSSO TV Disney
+http://cdn.iptvcinema.ru/yosso_disney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ygrand.png",YOSSO TV GRAND
+http://cdn.iptvcinema.ru/yosso_grand/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ykids.png",YOSSO TV KIDS
+http://cdn.iptvcinema.ru/yosso_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ymusichits.png",YOSSO TV Music Hits
+http://cdn.iptvcinema.ru/yosso_musichits/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ynetflix.png",YOSSO TV Netflix
+http://cdn.iptvcinema.ru/yosso_netflix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ynew.png",YOSSO TV NEW Кино
+http://cdn.iptvcinema.ru/yosso_new/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yoblivion.png",YOSSO TV Oblivion
+http://cdn.iptvcinema.ru/yosso_oblivion/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ysexy.png",YOSSO TV SEXY
+http://cdn.iptvcinema.ru/yosso_sexy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ythriller.png",YOSSO TV Thriller
+http://cdn.iptvcinema.ru/yosso_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yvhs.png",YOSSO TV VHS
+http://cdn.iptvcinema.ru/yosso_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yzabavnoe.png",YOSSO TV Забавное
+http://cdn.iptvcinema.ru/yosso_zabavnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ycowboy.png",YOSSO TV Ковбойское
+http://cdn.iptvcinema.ru/yosso_cowboy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ymelodrama.png",YOSSO TV Мелодрама
+http://cdn.iptvcinema.ru/yosso_melodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ydetskoe.png",YOSSO TV Наше Детское
+http://cdn.iptvcinema.ru/yosso_detskoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yusfilm.png",YOSSO TV Русские фильмы
+http://cdn.iptvcinema.ru/yosso_rusfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yussr.png",YOSSO TV Советские фильмы
+http://cdn.iptvcinema.ru/yosso_ussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/yussr4k.png",YOSSO TV Советские фильмы 4K
+http://cdn.iptvcinema.ru/yosso_ussr4k/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ysoyuzmult.png",YOSSO TV Союзмульт
+http://cdn.iptvcinema.ru/yosso_soyuzmult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ytragichnoe.png",YOSSO TV Трагичное
+http://cdn.iptvcinema.ru/yosso_tragichnoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mm007.png",Минимакс-007 HD
+http://cdn.iptvcinema.ru/minimax_007/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm1.png",Минимакс-NewFilm 1 HD
+http://cdn.iptvcinema.ru/minimax_newfilm1/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm2.png",Минимакс-NewFilm 2 HD
+http://cdn.iptvcinema.ru/minimax_newfilm2/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmnewfilm3.png",Минимакс-NewFilm 3 HD
+http://cdn.iptvcinema.ru/minimax_newfilm3/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmboevik.png",Минимакс-Боевик HD
+http://cdn.iptvcinema.ru/minimax_boevik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmwestern.png",Минимакс-Вестерн HD
+http://cdn.iptvcinema.ru/minimax_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmvoron.png",Минимакс-Воронины HD
+http://cdn.iptvcinema.ru/minimax_voronini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmzatmenie.png",Минимакс-Затмение HD
+http://cdn.iptvcinema.ru/minimax_zatmenie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmhistory.png",Минимакс-История HD
+http://cdn.iptvcinema.ru/minimax_history/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcatastrophe.png",Минимакс-Катастрофа HD
+http://cdn.iptvcinema.ru/minimax_catastrophe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcomedyclassic.png",Минимакс-Комедия Classic HD
+http://cdn.iptvcinema.ru/minimax_comedyclassic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcomedy.png",Минимакс-Комедия HD
+http://cdn.iptvcinema.ru/minimax_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmcriminal.png",Минимакс-Криминал HD
+http://cdn.iptvcinema.ru/minimax_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmprikluchenie.png",Минимакс-Приключения HD
+http://cdn.iptvcinema.ru/minimax_priklucheniya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmsvati.png",Минимакс-Сваты HD
+http://cdn.iptvcinema.ru/minimax_svati/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmsitcom.png",Минимакс-Ситком HD
+http://cdn.iptvcinema.ru/minimax_sitcom/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmuzhastik.png",Минимакс-Ужастик HD
+http://cdn.iptvcinema.ru/minimax_uzhastik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmuzhasi.png",Минимакс-Ужасы HD
+http://cdn.iptvcinema.ru/minimax_uzhasi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/mmfantastic.png",Минимакс-Фантастика HD
+http://cdn.iptvcinema.ru/minimax_fantastic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 ,Сериал
+http://cdn.iptvcinema.ru/serial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoasia.png",Сити Эдем КиноАзия
 http://cdn.iptvcinema.ru/city_kinoasia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinodoc.png",Сити Эдем КиноДок
-http://cdn.iptvcinema.ru/city_kinodoc/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoart.png",Сити Эдем КиноАРТ
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoart.png",Сити Эдем КиноАРТ
 http://cdn.iptvcinema.ru/city_kinoart/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinocomedy.png",Сити Эдем КиноКомедия
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinodoc.png",Сити Эдем КиноДок
+http://cdn.iptvcinema.ru/city_kinodoc/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinodrama.png",Сити Эдем КиноДрама
+http://cdn.iptvcinema.ru/city_kinodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoclassica.png",Сити Эдем КиноКлассика
+http://cdn.iptvcinema.ru/city_kinoclassica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinocomedy.png",Сити Эдем КиноКомедия
 http://cdn.iptvcinema.ru/city_kinocomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinodetectiv.png",Сити Эдем КиноДетектив
-http://cdn.iptvcinema.ru/city_kinodetectiv/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ovhs.png",OLSIB VHS
-http://cdn.iptvcinema.ru/olsib_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ofantasy.png",OLSIB Fantasy
-http://cdn.iptvcinema.ru/olsib_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/owar.png",OLSIB War
-http://cdn.iptvcinema.ru/olsib_war/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ocomedy.png",OLSIB Comedy
-http://cdn.iptvcinema.ru/olsib_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ocrime.png",OLSIB Crime
-http://cdn.iptvcinema.ru/olsib_crime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olovestory.png",OLSIB Love story
-http://cdn.iptvcinema.ru/olsib_lovestory/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/othebest.png",OLSIB The Best
-http://cdn.iptvcinema.ru/olsib_thebest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/okids.png",OLSIB Kids
-http://cdn.iptvcinema.ru/olsib_kids/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/othenewest.png",OLSIB The Newest
-http://cdn.iptvcinema.ru/olsib_thenewest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/odisney.png",OLSIB Walt Disney
-http://cdn.iptvcinema.ru/olsib_waltdisney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ru Action
-http://cdn.iptvcinema.ru/olsib_ruaction/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Australia Cinema
-http://cdn.iptvcinema.ru/olsib_australia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB British Cinema
-http://cdn.iptvcinema.ru/olsib_british/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Canada Cinema
-http://cdn.iptvcinema.ru/olsib_canada/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB China Cinema
-http://cdn.iptvcinema.ru/olsib_china/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Czech Cinema
-http://cdn.iptvcinema.ru/olsib_czech/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB French Cinema
-http://cdn.iptvcinema.ru/olsib_french/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Germany Cinema
-http://cdn.iptvcinema.ru/olsib_germany/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB India Cinema
-http://cdn.iptvcinema.ru/olsib_india/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Japan Cinema
-http://cdn.iptvcinema.ru/olsib_japan/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Italian Cinema
-http://cdn.iptvcinema.ru/olsib_italian/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Mexico Cinema
-http://cdn.iptvcinema.ru/olsib_mexico/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Norway Cinema
-http://cdn.iptvcinema.ru/olsib_norway/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Poland Cinema
-http://cdn.iptvcinema.ru/olsib_poland/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Spain Cinema
-http://cdn.iptvcinema.ru/olsib_spain/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ремейк
-http://cdn.iptvcinema.ru/olsib_remake/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB STB
-http://cdn.iptvcinema.ru/olsib_stb/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB The old best
-http://cdn.iptvcinema.ru/olsib_theoldbest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Netflix
-http://cdn.iptvcinema.ru/olsib_netflix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Action comdey
-http://cdn.iptvcinema.ru/olsib_actionccomdey/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Pirates of the Caribbean
-http://cdn.iptvcinema.ru/olsib_pirates/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Black Sails
-http://cdn.iptvcinema.ru/olsib_blacksails/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Наш флаг означает Смерть
-http://cdn.iptvcinema.ru/olsib_nashflag/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Киносказки
-http://cdn.iptvcinema.ru/olsib_kinoskazki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB RU.Music
-http://cdn.iptvcinema.ru/olsib_rumusic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Galicia
-http://cdn.iptvcinema.ru/olsib_galicia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Radio
-http://cdn.iptvcinema.ru/olsib_radio/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Disco-80
-http://cdn.iptvcinema.ru/olsib_disco80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ritsa
-http://cdn.iptvcinema.ru/olsib_ritsa/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 30
-http://cdn.iptvcinema.ru/olsib_ussr30/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 40
-http://cdn.iptvcinema.ru/olsib_ussr40/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 50
-http://cdn.iptvcinema.ru/olsib_ussr50/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 60
-http://cdn.iptvcinema.ru/olsib_ussr60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 70
-http://cdn.iptvcinema.ru/olsib_ussr70/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 80
-http://cdn.iptvcinema.ru/olsib_ussr80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR 90
-http://cdn.iptvcinema.ru/olsib_ussr90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR Classic
-http://cdn.iptvcinema.ru/olsib_ussrclassic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB USSR Serial
-http://cdn.iptvcinema.ru/olsib_ussrserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Show
-http://cdn.iptvcinema.ru/olsib_show/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Конфетка
-http://cdn.iptvcinema.ru/olsib_konfetka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Wrestling
-http://cdn.iptvcinema.ru/olsib_wrestling/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Живой Мир
-http://cdn.iptvcinema.ru/olsib_zhivoymir/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Водный Мир
-http://cdn.iptvcinema.ru/olsib_vodnimir/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Knives
-http://cdn.iptvcinema.ru/olsib_knives/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Pro100 Kitchen
-http://cdn.iptvcinema.ru/olsib_pro100/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Star Wars
-http://cdn.iptvcinema.ru/olsib_starwars/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Звездные врата
-http://cdn.iptvcinema.ru/olsib_zvezdnievrata/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Чужой район
-http://cdn.iptvcinema.ru/olsib_chuzhoyrayon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Полярный
-http://cdn.iptvcinema.ru/olsib_polyarni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB ППС
-http://cdn.iptvcinema.ru/olsib_pps/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Беспринципные
-http://cdn.iptvcinema.ru/olsib_bezprincipnie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Time Travel
-http://cdn.iptvcinema.ru/olsib_timetravel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Sci-Fi
-http://cdn.iptvcinema.ru/olsib_scifi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Marvel
-http://cdn.iptvcinema.ru/olsib_marvel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Catastrophe
-http://cdn.iptvcinema.ru/olsib_catastrophe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Multfilm
-http://cdn.iptvcinema.ru/olsib_multfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Ancient Rome
-http://cdn.iptvcinema.ru/olsib_ancient/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/olsib.png",OLSIB Documentary
-http://cdn.iptvcinema.ru/olsib_documentary/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/FrostHorror.png",Frost Horror
-http://cdn.iptvcinema.ru/frost_horror/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/FrostMovie.png",Frost Movie
-http://cdn.iptvcinema.ru/frost_movie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV МЕЧ
-http://cdn.iptvcinema.ru/ditv_mech/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV СОЮЗМУЛТФИЛМ
-http://cdn.iptvcinema.ru/ditv_soyuzmultfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФИЛЬМЫ УЖАСОВ 80-х
-http://cdn.iptvcinema.ru/ditv_filmiuzhasov80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Американские комедии 80-90-х
-http://cdn.iptvcinema.ru/ditv_americancomedy8090/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ГАРИ ПОТЕР
-http://cdn.iptvcinema.ru/ditv_harrypotter/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Про акул
-http://cdn.iptvcinema.ru/ditv_proakul/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Про вампиров
-http://cdn.iptvcinema.ru/ditv_provampirov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Карпов
-http://cdn.iptvcinema.ru/ditv_karpov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Лихач
-http://cdn.iptvcinema.ru/ditv_likhach/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФИЛЬМЫ
-http://cdn.iptvcinema.ru/ditv_film/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV комедийные сериалы
-http://cdn.iptvcinema.ru/ditv_comedyserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Глухарь
-http://cdn.iptvcinema.ru/ditv_glukhar/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Куба
-http://cdn.iptvcinema.ru/ditv_kuba/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Walt Disney
-http://cdn.iptvcinema.ru/ditv_waltdisney/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Concert
-http://cdn.iptvcinema.ru/ditv_concert/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Пёс
-http://cdn.iptvcinema.ru/ditv_pes/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК
-http://cdn.iptvcinema.ru/ditv_sbornikmultfilmov/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Агент национальной безопасности
-http://cdn.iptvcinema.ru/ditv_agent/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Пятницкий
-http://cdn.iptvcinema.ru/ditv_pyatnicki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Game of Thrones
-http://cdn.iptvcinema.ru/ditv_gameofthrones/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Счастливы вместе
-http://cdn.iptvcinema.ru/ditv_schastlivi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КЛАССИКА ИНДИЙСКОГО КИНО
-http://cdn.iptvcinema.ru/ditv_classicindia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ПАТРИОТ
-http://cdn.iptvcinema.ru/ditv_patriot/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV VHS
-http://cdn.iptvcinema.ru/ditv_vhs/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Зачарованные
-http://cdn.iptvcinema.ru/ditv_zacharovannie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ВОРОНИНЫ
-http://cdn.iptvcinema.ru/ditv_voronini/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ СССР
-http://cdn.iptvcinema.ru/ditv_comedyussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV МАСКИ ШОУ
-http://cdn.iptvcinema.ru/ditv_maskishow/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КЛИПЫ 90х
-http://cdn.iptvcinema.ru/ditv_clipi90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ 90-х
-http://cdn.iptvcinema.ru/ditv_comedy90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КУЛИНАРИЯ
-http://cdn.iptvcinema.ru/ditv_kulinaria/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Удивительные странствия Геракла
-http://cdn.iptvcinema.ru/ditv_udivitelnie/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV БОЕВИКИ
-http://cdn.iptvcinema.ru/ditv_boeviki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV УЖАСЫ
-http://cdn.iptvcinema.ru/ditv_uzhas/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФАНТАСТИКА
-http://cdn.iptvcinema.ru/ditv_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КОМЕДИИ
-http://cdn.iptvcinema.ru/ditv_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Русский рок
-http://cdn.iptvcinema.ru/ditv_russkiyrock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Детективы
-http://cdn.iptvcinema.ru/ditv_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Мультфильмы для малышей
-http://cdn.iptvcinema.ru/ditv_multfilmimalishey/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ФИЛЬМЫ С Джеки Чаном
-http://cdn.iptvcinema.ru/ditv_jekychan/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Альянс Вольных Переводчиков
-http://cdn.iptvcinema.ru/ditv_alyans/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  Папины Дочки
-http://cdn.iptvcinema.ru/ditv_papinidochki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Осторожно модерн!
-http://cdn.iptvcinema.ru/ditv_ostorozhnomodern/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Шоу Бенни Хилла
-http://cdn.iptvcinema.ru/ditv_bennyhill/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV НТВ Сериалы
-http://cdn.iptvcinema.ru/ditv_ntvseriali/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Детективные сериалы
-http://cdn.iptvcinema.ru/ditv_detectiveserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  Ивановы-Ивановы
-http://cdn.iptvcinema.ru/ditv_ivanovi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV ИНДИАНА ДЖОНС
-http://cdn.iptvcinema.ru/ditv_indianajones/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Очень странные дела
-http://cdn.iptvcinema.ru/ditv_ochenstranniesila/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Стивена Кинга
-http://cdn.iptvcinema.ru/ditv_stevenking/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DIZAL Домашний арест
-http://cdn.iptvcinema.ru/dizal_domashniarest/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DIZAL Гости из прошлого
-http://cdn.iptvcinema.ru/dizal_gostiizproshlovo/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DIZAL КРИК
-http://cdn.iptvcinema.ru/dizal_krik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DIZAL БИМ
-http://cdn.iptvcinema.ru/dizal_bim/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV КАЛАМБУР
-http://cdn.iptvcinema.ru/ditv_kalambur/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Невский
-http://cdn.iptvcinema.ru/ditv_nevskiy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Киножурнал Фитиль
-http://cdn.iptvcinema.ru/ditv_kinozhurnal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Ходячие мертвецы
-http://cdn.iptvcinema.ru/ditv_mertveci/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV Первый-отдел
-http://cdn.iptvcinema.ru/ditv_perviyotdel/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  ДЕТСКИЙ КАНАЛ
-http://cdn.iptvcinema.ru/ditv_detskiykino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/ditv.png",DITV  Братаны
-http://cdn.iptvcinema.ru/ditv_bratani/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmboevik.png",GlobalMedia Боевик
-http://cdn.iptvcinema.ru/gm_boevik/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmkungfu.png",GlobalMedia Кунг-Фу
-http://cdn.iptvcinema.ru/gm_kungfu/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmcomedy.png",GlobalMedia Комедия
-http://cdn.iptvcinema.ru/gm_comedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmromantica.png",GlobalMedia Романтика
-http://cdn.iptvcinema.ru/gm_romantica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfantastica.png",GlobalMedia Фантастика
-http://cdn.iptvcinema.ru/gm_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmuzhasi.png",GlobalMedia Ужасы
-http://cdn.iptvcinema.ru/gm_uzhasi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmbiography.png",GlobalMedia Биография
-http://cdn.iptvcinema.ru/gm_biography/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmystic.png",GlobalMedia Мистика
-http://cdn.iptvcinema.ru/gm_mystic/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfantasy.png",GlobalMedia Фэнтези
-http://cdn.iptvcinema.ru/gm_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmletopis.png",GlobalMedia Летопись
-http://cdn.iptvcinema.ru/gm_letopis/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmushketyori.png",GlobalMedia Мушкетеры
-http://cdn.iptvcinema.ru/gm_mushketyor/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmvikingi.png",GlobalMedia Викинги
-http://cdn.iptvcinema.ru/gm_viking/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmnlo.png",GlobalMedia НЛО
-http://cdn.iptvcinema.ru/gm_nlo/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmgiganti.png",GlobalMedia Гиганты
-http://cdn.iptvcinema.ru/gm_giganti/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmspecagenti.png",GlobalMedia Спецагенты
-http://cdn.iptvcinema.ru/gm_specagent/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsupergeroy.png",GlobalMedia Супергерои
-http://cdn.iptvcinema.ru/gm_supergeroy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmagatakristi.png",GlobalMedia Агата Кристи
-http://cdn.iptvcinema.ru/gm_agatakristi/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsherlock.png",GlobalMedia Шерлок Холмс
-http://cdn.iptvcinema.ru/gm_sherlock/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmuzhskoydetective.png",GlobalMedia Мужской детектив
-http://cdn.iptvcinema.ru/gm_muzhskoydetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmzhenskiydetective.png",GlobalMedia Женский детектив
-http://cdn.iptvcinema.ru/gm_zhenskiydetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmrossiskiydetective.png",GlobalMedia Российский детектив
-http://cdn.iptvcinema.ru/gm_rosdetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetdetective.png",GlobalMedia Советский детектив
-http://cdn.iptvcinema.ru/gm_sovietdetective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetskoekino.png",GlobalMedia Советское кино
-http://cdn.iptvcinema.ru/gm_sovietkino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetdublyazh.png",GlobalMedia Советский дубляж
-http://cdn.iptvcinema.ru/gm_sovietdub/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmanime.png",GlobalMedia Аниме
-http://cdn.iptvcinema.ru/gm_anime/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmultfilm.png",GlobalMedia Мультфильм
-http://cdn.iptvcinema.ru/gm_multfilm/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmsovetmult.png",GlobalMedia Советский мультфильм
-http://cdn.iptvcinema.ru/gm_sovietmult/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmfaunaflora.png",GlobalMedia Фауна и Флора
-http://cdn.iptvcinema.ru/gm_faunaflora/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gmmuzika.png",GlobalMedia Музыка
-http://cdn.iptvcinema.ru/gm_music/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_strelyalki.png",ЧебурТВ Стрелялки
-http://cdn.iptvcinema.ru/lb0/chb_strelyalki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_xb.png",ЧебурТВ ХБ
-http://cdn.iptvcinema.ru/lb0/chb_xb/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantasy.png",ЧебурТВ Фантазия
-http://cdn.iptvcinema.ru/lb0/chb_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rucomedy.png",ЧебурТВ RU Комедия
-http://cdn.iptvcinema.ru/lb0/chb_rucomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_priklyuchenia.png",ЧебурТВ Приключения
-http://cdn.iptvcinema.ru/lb0/chb_priklyuchenia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantastica.png",ЧебурТВ Фантастика
-http://cdn.iptvcinema.ru/lb0/chb_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_drama.png",ЧебурТВ Драма
-http://cdn.iptvcinema.ru/lb0/chb_drama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_thriller.png",ЧебурТВ Триллер
-http://cdn.iptvcinema.ru/lb0/chb_thriller/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_uzhastiki.png",ЧебурТВ Ужастики
-http://cdn.iptvcinema.ru/lb0/chb_uzhastiki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_novinki.png",ЧебурТВ Новинки
-http://cdn.iptvcinema.ru/lb0/chb_novinki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_criminal.png",ЧебурТВ Криминал
-http://cdn.iptvcinema.ru/lb0/chb_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_detective.png",ЧебурТВ Детектив
-http://cdn.iptvcinema.ru/lb0/chb_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_multepoha.png",ЧебурТВ МультЭпоха СССР
-http://cdn.iptvcinema.ru/lb0/chb_multepoha/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_sportivniy.png",ЧебурТВ Спортивный
-http://cdn.iptvcinema.ru/lb0/chb_sportivniy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_armagedon.png",ЧебурТВ Армагеддон
-http://cdn.iptvcinema.ru/lb0/chb_armagedon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_nazadvussr.png",ЧебурТВ Назад в СССР
-http://cdn.iptvcinema.ru/lb0/chb_nazadvussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_mystica.png",ЧебурТВ Мистика
-http://cdn.iptvcinema.ru/lb0/chb_mystica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_series.png",ЧебурТВ Series
-http://cdn.iptvcinema.ru/lb0/chb_series/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_mix.png",ЧебурТВ MIX
-http://cdn.iptvcinema.ru/lb0/chb_mix/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_nashedetstvoussr.png",ЧебурТВ Наше Детство СССР
-http://cdn.iptvcinema.ru/lb0/chb_nashedetstvoussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rumelodrama.png",ЧебурТВ RU Мелодрама
-http://cdn.iptvcinema.ru/lb0/chb_rumelodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_multiki.png",ЧебурТВ Мультики
-http://cdn.iptvcinema.ru/lb0/chb_multiki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_melodrama.png",ЧебурТВ Мелодрама
-http://cdn.iptvcinema.ru/lb0/chb_melodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_smeshnoy.png",ЧебурТВ Смешной
-http://cdn.iptvcinema.ru/lb0/chb_smeshnoy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_semeynoe.png",ЧебурТВ Семейное
-http://cdn.iptvcinema.ru/lb0/chb_semeynoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rukino.png",ЧебурТВ RU Кино
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinomystica.png",Сити Эдем КиноМистика
+http://cdn.iptvcinema.ru/city_kinomystica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinosemya.png",Сити Эдем КиноСемья
+http://cdn.iptvcinema.ru/city_kinosemya/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citykinoaction.png",Сити Эдем КиноЭкшен
+http://cdn.iptvcinema.ru/city_kinoaction/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/citytelenovella.png",Сити Эдем ТелеНовелла
+http://cdn.iptvcinema.ru/city_telenovella/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rukino.png",ЧебурТВ RU Кино
 http://cdn.iptvcinema.ru/lb0/chb_rukino/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fizmultprivet.png",ЧебурТВ Физ-Мульт Привет
-http://cdn.iptvcinema.ru/lb0/chb_fizmultprivet/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_western.png",ЧебурТВ Вестерн
-http://cdn.iptvcinema.ru/lb0/chb_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_voenni.png",ЧебурТВ Военный
-http://cdn.iptvcinema.ru/lb0/chb_voenni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr20.png",ЧебурТВ СССР 20-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr20/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr30.png",ЧебурТВ СССР 30-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr30/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr40.png",ЧебурТВ СССР 40-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr40/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr50.png",ЧебурТВ СССР 50-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr50/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr60.png",ЧебурТВ СССР 60-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr70.png",ЧебурТВ СССР 70-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr70/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr80.png",ЧебурТВ СССР 80-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr90.png",ЧебурТВ СССР 90-е
-http://cdn.iptvcinema.ru/lb0/chb_ussr90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussrnatlenka.png",ЧебурТВ СССР Нетленка
-http://cdn.iptvcinema.ru/lb0/chb_ussrnatlenka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ruserial.png",ЧебурТВ RU Сериал
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rucomedy.png",ЧебурТВ RU Комедия
+http://cdn.iptvcinema.ru/lb0/chb_rucomedy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_rumelodrama.png",ЧебурТВ RU Мелодрама
+http://cdn.iptvcinema.ru/lb0/chb_rumelodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ruserial.png",ЧебурТВ RU Сериал
 http://cdn.iptvcinema.ru/lb0/chb_ruserial/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_istoria.png",ЧебурТВ История
-http://cdn.iptvcinema.ru/lb0/chb_istoria/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_musicle.png",ЧебурТВ Мюзикл
-http://cdn.iptvcinema.ru/lb0/chb_musicle/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_supergeroy.png",ЧебурТВ Супергерои
-http://cdn.iptvcinema.ru/lb0/chb_supergeroy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_biography.png",ЧебурТВ Биография
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_armagedon.png",ЧебурТВ Армагеддон
+http://cdn.iptvcinema.ru/lb0/chb_armagedon/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_biography.png",ЧебурТВ Биография
 http://cdn.iptvcinema.ru/lb0/chb_biography/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_animeshki.png",ЧебурТВ Анимешки
-http://cdn.iptvcinema.ru/lb0/chb_animeshki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_prishelci.png",ЧебурТВ Пришельцы
-http://cdn.iptvcinema.ru/lb0/chb_prishelci/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_4kfilms.png",ЧебурТВ 4k Films
-http://cdn.iptvcinema.ru/lb0/chb_4kfilms/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_zitagita.png",ЧебурТВ Зита-Гита
-http://cdn.iptvcinema.ru/lb0/chb_zitagita/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_cosmos.png",ЧебурТВ Космос
-http://cdn.iptvcinema.ru/lb0/chb_cosmos/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_boevichok.png",ЧебурТВ Боевичок
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_boevichok.png",ЧебурТВ Боевичок
 http://cdn.iptvcinema.ru/lb0/chb_boevichok/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_nakrayu.png",ЧебурТВ На Краю Вселенной
-http://cdn.iptvcinema.ru/lb0/chb_nakrayu/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glnevski.png",GL Невский
-http://cdn.iptvcinema.ru/gl_nevski/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glbrief.png",GL Brief
-http://cdn.iptvcinema.ru/gl_brief/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glevidence.png",GL Evidence
-http://cdn.iptvcinema.ru/gl_evidence/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glexist.png",GL Exist
-http://cdn.iptvcinema.ru/gl_exist/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glisland.png",GL Island
-http://cdn.iptvcinema.ru/gl_island/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glnaked.png",GL Naked and Funny
-http://cdn.iptvcinema.ru/gl_nakedandfunny/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glpsycho.png",GL Psycho
-http://cdn.iptvcinema.ru/gl_psycho/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glseries.png",GL Series
-http://cdn.iptvcinema.ru/gl_series/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/glsurvival.png",GL Survival
-http://cdn.iptvcinema.ru/gl_survival/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
-#EXTINF:-1  group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/gldetective.png",GL Детектив
-http://cdn.iptvcinema.ru/gl_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_western.png",ЧебурТВ Вестерн
+http://cdn.iptvcinema.ru/lb0/chb_western/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_voenni.png",ЧебурТВ Военный
+http://cdn.iptvcinema.ru/lb0/chb_voenni/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_detective.png",ЧебурТВ Детектив
+http://cdn.iptvcinema.ru/lb0/chb_detective/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_drama.png",ЧебурТВ Драма
+http://cdn.iptvcinema.ru/lb0/chb_drama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_zitagita.png",ЧебурТВ Зита-Гита
+http://cdn.iptvcinema.ru/lb0/chb_zitagita/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_istoria.png",ЧебурТВ История
+http://cdn.iptvcinema.ru/lb0/chb_istoria/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_cosmos.png",ЧебурТВ Космос
+http://cdn.iptvcinema.ru/lb0/chb_cosmos/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_criminal.png",ЧебурТВ Криминал
+http://cdn.iptvcinema.ru/lb0/chb_criminal/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_melodrama.png",ЧебурТВ Мелодрама
+http://cdn.iptvcinema.ru/lb0/chb_melodrama/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_mystica.png",ЧебурТВ Мистика
+http://cdn.iptvcinema.ru/lb0/chb_mystica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_multiki.png",ЧебурТВ Мультики
+http://cdn.iptvcinema.ru/lb0/chb_multiki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_multepoha.png",ЧебурТВ МультЭпоха СССР
+http://cdn.iptvcinema.ru/lb0/chb_multepoha/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_musicle.png",ЧебурТВ Мюзикл
+http://cdn.iptvcinema.ru/lb0/chb_musicle/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_nazadvussr.png",ЧебурТВ Назад в СССР
+http://cdn.iptvcinema.ru/lb0/chb_nazadvussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_nashedetstvoussr.png",ЧебурТВ Наше Детство СССР
+http://cdn.iptvcinema.ru/lb0/chb_nashedetstvoussr/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_novinki.png",ЧебурТВ Новинки
+http://cdn.iptvcinema.ru/lb0/chb_novinki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_priklyuchenia.png",ЧебурТВ Приключения
+http://cdn.iptvcinema.ru/lb0/chb_priklyuchenia/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_semeynoe.png",ЧебурТВ Семейное
+http://cdn.iptvcinema.ru/lb0/chb_semeynoe/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_smeshnoy.png",ЧебурТВ Смешной
+http://cdn.iptvcinema.ru/lb0/chb_smeshnoy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_sportivniy.png",ЧебурТВ Спортивный
+http://cdn.iptvcinema.ru/lb0/chb_sportivniy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr20.png",ЧебурТВ СССР 20-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr20/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr30.png",ЧебурТВ СССР 30-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr30/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr40.png",ЧебурТВ СССР 40-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr40/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr50.png",ЧебурТВ СССР 50-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr50/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr60.png",ЧебурТВ СССР 60-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr60/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr70.png",ЧебурТВ СССР 70-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr70/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr80.png",ЧебурТВ СССР 80-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr80/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussr90.png",ЧебурТВ СССР 90-е
+http://cdn.iptvcinema.ru/lb0/chb_ussr90/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_ussrnatlenka.png",ЧебурТВ СССР Нетленка
+http://cdn.iptvcinema.ru/lb0/chb_ussrnatlenka/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_strelyalki.png",ЧебурТВ Стрелялки
+http://cdn.iptvcinema.ru/lb0/chb_strelyalki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_uzhastiki.png",ЧебурТВ Ужастики
+http://cdn.iptvcinema.ru/lb0/chb_uzhastiki/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantasy.png",ЧебурТВ Фантазия
+http://cdn.iptvcinema.ru/lb0/chb_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+#EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantastica.png",ЧебурТВ Фантастика
+http://cdn.iptvcinema.ru/lb0/chb_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+
+
+
 
 
 
