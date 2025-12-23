@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png"  tvg-id="no_epg", Обновление❄23.12.2025❄
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление❄24.12.2025❄
+https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://png.klev.club/uploads/posts/2024-04/png-klev-club-84q4-p-yelka-ikonka-png-18.png" tvg-id="no_epg", Поздравить автора С НОВЫМ ГОДОМ!
+https://zonam1.ddns.net/hls/stream1.m3u8
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeBid8INKN0ZtI14qKOYLa38nmnZx2-nP9A&s" tvg-id="no_epg", TINKOFF 💰 5536 9140 9988 6206
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
 
 
@@ -11,6 +15,95 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
+
+
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Андрей Губин - Зима холода
+https://homtv.ru/wp-content/uploads/2025/12/andrej-gubin-zima-holoda.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Натали - О Боже какой мужчина!
+https://homtv.ru/wp-content/uploads/2025/12/natali-o-bozhe-kakoj-muzhchina.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Григорий Лепс - Рюмка водки на столе
+https://homtv.ru/wp-content/uploads/2025/12/grigorij-leps-rjumka-vodki-na-stole.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Виктор Цой - Кукушка
+https://homtv.ru/wp-content/uploads/2025/12/viktor-coj-kukushka.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Полина Гагарина - Кукушка
+https://homtv.ru/wp-content/uploads/2025/12/polina-gagarina-kukushka.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Ирина Аллегрова - Императрица
+https://homtv.ru/wp-content/uploads/2025/12/irina-allegrova-imperatrica.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Игорь Саруханов - Желаю тебе
+https://homtv.ru/wp-content/uploads/2025/12/igor-saruhanov-zhelaju-tebe.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Комбинация - Бухгалтер
+https://homtv.ru/wp-content/uploads/2025/12/kombinaciya-buhgalter.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Михаил Боярский - Зеленоглазое такси
+https://homtv.ru/wp-content/uploads/2025/12/mihail-boyarskij-zelenoglazoe-taksi.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Народные - Ой мороз мороз
+https://homtv.ru/wp-content/uploads/2025/12/narodnye-oj-moroz-moroz.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Надежда Кадышева - Напилася я пьяна
+https://homtv.ru/wp-content/uploads/2025/12/nadezhda-kadysheva-napilasya-ya-pyana.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Михаил Круг - Владимирский централ
+https://homtv.ru/wp-content/uploads/2025/12/mihail-krug-vladimirskij-central.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Николай Басков - Шарманка
+https://homtv.ru/wp-content/uploads/2025/12/nikolaj-baskov-sharmanka.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Отпетые Мошенники - Люби меня люби
+https://homtv.ru/wp-content/uploads/2025/12/otpetye-moshenniki-ljubi-menya-ljubi.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Клава Кока _ NILETTO - Краш
+https://homtv.ru/wp-content/uploads/2025/12/klava-koka-_-niletto-krash.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", ВИА Гра и Вахтанг - У меня появился другой
+https://homtv.ru/wp-content/uploads/2025/12/via-gra-i-vahtang-u-menya-poyavilsya-drugoj.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", A-Dessa - Женщина я не танцую
+https://homtv.ru/wp-content/uploads/2025/12/a-dessa-zhenshhina-ya-ne-tancuju.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Юрий Шатунов - Белые розы
+https://homtv.ru/wp-content/uploads/2025/12/jurij-shatunov-belye-rozy.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Сектор Газа - Лирика
+https://homtv.ru/wp-content/uploads/2025/12/sektor-gaza-lirika.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Волга-Волга - Музыка нас связала
+https://homtv.ru/wp-content/uploads/2025/12/volga-volga-muzyka-nas-svyazala.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Алла Пугачёва Кристина Орбакайте - Опять метель
+https://homtv.ru/wp-content/uploads/2025/12/alla-pugachjova-kristina-orbakajte-opyat-metel.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Анжелика Варум - Зимняя вишня
+https://homtv.ru/wp-content/uploads/2025/12/anzhelika-varum-zimnyaya-vishnya.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Верка Сердючка - Я не поняла
+https://homtv.ru/wp-content/uploads/2025/12/verka-serdjuchka-ya-ne-ponyala.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Александр Розенбаум - Заходите к нам на огонек
+https://homtv.ru/wp-content/uploads/2025/12/aleksandr-rozenbaum-zahodite-k-nam-na-ogonek.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Леонид Агутин и Владимир Пресняков - Аэропорты
+https://homtv.ru/wp-content/uploads/2025/12/leonid-agutin-i-vladimir-presnyakov-aeroporty.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Нюша - Это новый год
+https://homtv.ru/wp-content/uploads/2025/12/njusha-eto-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Михаил Шуфутинский - Марджанджа
+https://homtv.ru/wp-content/uploads/2025/12/mihail-shufutinskij-mardzhandzha.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", SEREBRO - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/serebro-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Детская студия Родники - Новый год у ворот
+https://homtv.ru/wp-content/uploads/2025/12/detskaya-studiya-rodniki-novyj-god-u-vorot.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Ксения Ситник - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/kseniya-sitnik-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Александр Ермолов - Новый год идёт
+https://homtv.ru/wp-content/uploads/2025/12/aleksandr-ermolov-novyj-god-idjot.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Катя Лель - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/katya-lel-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Авет Маркарян - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/avet-markaryan-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Потап и Настя - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/potap-i-nastya-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Стекловата - Новый год
+https://homtv.ru/wp-content/uploads/2025/12/steklovata-novyj-god.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Олег Газманов - Путана
+https://homtv.ru/wp-content/uploads/2025/12/oleg-gazmanov-putana.mp4
+#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", IOWA - Улыбайся
+https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ТЕСТ" ,Kernel TV Счастливого нового года HD
+http://cdn.admuspeh.my/9084/video.m3u8?token=gsVBYSARJmsVxpVF
+
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
 
@@ -20,7 +113,7 @@ http://195.9.195.3:8080/hls/146065.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Dimpon HD
 http://hls.goodgame.ru:8080/hls/210470.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ",Видеокассета VHS
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",ВИДЕОСАЛОН VHS
@@ -32,9 +125,9 @@ http://hls.goodgame.ru:8080/hls/209782.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",MegaRadio
 http://hls.goodgame.ru:8080/hls/175789.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ",Record Russian Hits
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd00zjFUE97nk9gj2j2D_h45wqcv1f_fEmEA&s",Record Russian Hits
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=uIcYrWFhCC14zHtuTel9RQ&e=2065265096&scheme=https
-#EXTINF:-1 group-title="ТЕСТ",Record Супердискотека 90х
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://superdiskoteka90.ru/wp-content/uploads/2024/08/Logo.png" tvg-id="no_epg_music",Record Супердискотека 90х
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=U2PEhjCcYfM6F9E8AfMSAg&e=2065265096&scheme=https
 #EXTINF:-1 group-title="ТЕСТ",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
@@ -42,20 +135,18 @@ http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 http://cdn.admuspeh.my/8643/video.m3u8?token=gsVBYSARJmsVxpVF
 #EXTINF:-1 group-title="ТЕСТ",MM ОТКРЫТИЯ
 http://cdn.admuspeh.my/8647/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ" ,CineMan РуКино
-http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="ТЕСТ" ,Kernel TV Счастливого нового года HD
-http://cdn.admuspeh.my/9084/video.m3u8?token=gsVBYSARJmsVxpVF
 #EXTINF:-1 group-title="ТЕСТ" ,Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="ТЕСТ",Exclusiv TV Comrat
 http://188.138.130.175:5004/
-#EXTINF:-1 group-title="ТЕСТ",КИНО_ЗАЛ
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал❄️1
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 group-title="ТЕСТ",Кино Зал
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал❄️2
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал❄️3
+http://185.57.68.33/237/mpegts
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="Viasat Kino Comedy",Viasat Kino Comedy HD (vpn)
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
 #EXTINF:-1 group-title="ТЕСТ",ATV Hay
@@ -73,12 +164,9 @@ http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
 #EXTINF:-1 group-title="ТЕСТ",TV25 GE
 http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ",Clarity4K КиноСССР
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал
-http://185.57.68.33/237/mpegts
+
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png",Logovo Films
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.pinimg.com/originals/eb/c6/ae/ebc6ae821df4a6af9509267aef6de1ed.gif",Кино6
@@ -280,22 +368,6 @@ http://hls.goodgame.ru:8080/hls/177016.m3u8
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Аладдин HD
-http://cdn.admuspeh.my/9021/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Том и Джерри
-http://cdn.admuspeh.my/9033/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Ми-ми-мишки HD
-http://cdn.admuspeh.my/9074/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Тимон и Пумба HD
-http://cdn.admuspeh.my/9085/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Утиные истории HD
-http://cdn.admuspeh.my/9087/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Фиксики HD
-http://cdn.admuspeh.my/9088/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Царевны HD
-http://cdn.admuspeh.my/9091/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="ТЕСТ", Kernel TV Чёрный плащ HD
-http://cdn.admuspeh.my/9095/video.m3u8?token=gsVBYSARJmsVxpVF
 
 #EXTINF:-1 group-title="ТЕСТ", Clarity4K Anime
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
@@ -712,7 +784,7 @@ http://88.216.112.114/Cartoonito/index.m3u8
 http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", МУЛЬТИЛАНДИЯ
-http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
+
 
 #EXTINF:-1 group-title="👶Детские", KIDS TV
 
@@ -721,7 +793,7 @@ http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
 http://31.148.48.15/Rizhiy/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Капитан Фантастика
-http://178.163.24.54:4022/udp/234.0.0.152:2000
+
 
 #EXTINF:-1 group-title="👶Детские",TIJI
 http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
@@ -791,7 +863,7 @@ http://158.101.222.193:88/georgia_play.php?id=unikum
 http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
+
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="nickelodeon-ru", Nickelodeon
 
@@ -824,23 +896,117 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc
 http://2.57.217.85:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="👶Детские",Niki kids
 http://2.57.217.85:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="👶Детские", Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 group-title="👶Детские", Том и Джерри
-http://cdn.admuspeh.my/9033/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Утиные истории HD
-http://cdn.admuspeh.my/9087/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Чёрный плащ HD
-http://cdn.admuspeh.my/9095/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Тимон и Пумба HD
-http://cdn.admuspeh.my/9085/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Аладдин HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Аладдин HD
 http://cdn.admuspeh.my/9021/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Фиксики HD
-http://cdn.admuspeh.my/9088/video.m3u8?token=gsVBYSARJmsVxpVF
-#EXTINF:-1 group-title="👶Детские", Kernel TV Ми-ми-мишки HD
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Том и Джерри
+http://cdn.admuspeh.my/9033/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Ми-ми-мишки HD
 http://cdn.admuspeh.my/9074/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Тимон и Пумба HD
+http://cdn.admuspeh.my/9085/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Утиные истории HD
+http://cdn.admuspeh.my/9087/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Фиксики HD
+http://cdn.admuspeh.my/9088/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Царевны HD
+http://cdn.admuspeh.my/9091/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Чёрный плащ HD
+http://cdn.admuspeh.my/9095/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Том и Джерри
+http://cdn.admuspeh.my/9033/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Утиные истории HD
+http://cdn.admuspeh.my/9087/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Чёрный плащ HD
+http://cdn.admuspeh.my/9095/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Тимон и Пумба HD
+http://cdn.admuspeh.my/9085/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Аладдин HD
+http://cdn.admuspeh.my/9021/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Фиксики HD
+http://cdn.admuspeh.my/9088/video.m3u8?token=gsVBYSARJmsVxpVF
+#EXTINF:-1 group-title="TOKEN_Детские", Kernel TV Ми-ми-мишки HD
+http://cdn.admuspeh.my/9074/video.m3u8?token=gsVBYSARJmsVxpVF
+
+#EXTINF:-1 group-title="TOKEN_Детские", Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Anime_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", FUNNY KIDS
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Anime_Kids_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", BCU Kids HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", BCU Kids+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKidsplus/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", BCU Мультсериал HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMultserialHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", BOX Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_anime_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Baby Time
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Baby_Time_TV/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", C-Cartoon
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CITRUS-cartoon/index.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoon Classics
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Cartoon_Classics/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoon Network HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/cartoonnetworkhd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoon Network
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Cartoon_Network/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoons 90
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Cartoons-90/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoons Big
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Cartoons-BIG/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Cartoons Short
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Cartoons-SHORT/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", CineMan Симпсоны
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Simpson/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", FamilyJam HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/FamelyJam_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Gulli Girl
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Gulli_Girl/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", KinoKazka HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/KinoKazka_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Tiji
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/TiJi/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Yosso TV Disney
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-DISNEY/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Yosso TV Kids
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yossokids/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", КиноМульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/KinoMultTV/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Лева HD
+#EXTINF:-1 group-title="TOKEN_Детские", Супер Герои HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/SuperGeroyu_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Супер Герои
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/MALYSH/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Телеканал O HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/O_HD_TV/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Телеканал O
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/TelekanalO/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Тип Топ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/TIP_TOP_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_Детские", Da Vinci Learning
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/DaVinchiLearningNTV/video.m3u8?token=cPCeWX6J6D&21yo=0
+
+
+
+
+
+
 
 
 
@@ -1981,9 +2147,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=KizugTV
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=KizugTV
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8?version=2
+
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=KizugTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+
+#EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",,Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=KizugTV
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8?version=2
+
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=KizugTV
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
@@ -4886,6 +5061,226 @@ http://cdn.iptvcinema.ru/lb0/chb_uzhastiki/index.m3u8?token=bWFrc3Jla2xhbXx8YldG
 http://cdn.iptvcinema.ru/lb0/chb_fantasy/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
 #EXTINF:-1 group-title="IPTV Cinema" tvg-logo="https://iptvcinema.ru/channels/chb_fantastica.png",ЧебурТВ Фантастика
 http://cdn.iptvcinema.ru/lb0/chb_fantastica/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNtVnJiR0Z0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Adrenaline
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/ADRENALINE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Adventure
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Y-ADVENTURE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Best 60 Fps
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOY-BEST_60FPS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Best
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-BEST/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Food
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-FOOD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Grand
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-GRAND/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Music Hits
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MUSIC-HITS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Nature
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NATURE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Netflix
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NETFLIX/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV New Кино
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-NEW/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Oblivion
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/Yosso-OBLIVION/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Science
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SCIENCE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOTHRILLER/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Travel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAVEL/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Vhs
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSOVHS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Забавное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-ZABAVNOE/index.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Ковбойское
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-KOWBOYSKOE/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Мелодрама
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/yossomdrama_yosso/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Советские Фильмы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-SSSR/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Союзмульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-MULT/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Yosso TV Трагичное
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/YOSSO-TRAGIK/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Action
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManAction/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Marvel
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-MARVEL/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Melodrama
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineManMelodrama/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan MiniSeries
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_miniseries/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Premium
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Premium/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Thriller
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Thiller/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Top
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-TOP/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan VHS
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-VHS/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Катастрофы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Katastrophe/index.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Комедия
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CinaMan_Comedy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan ПёС
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Pes/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Сваты
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan-Svaty/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan Ужасы
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan_Uzasy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", CineMan
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/CineMan/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Action HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUActionHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Catastrophe HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCatastropheHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Cinema HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Cinema+ HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCinemaplusHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Comedy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUComedyHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Cosmo HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCosmoHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Criminal HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUCriminalHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Fantastic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFantasticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU FilMystic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUFilMysticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU History HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUHistoryHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Kinorating HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUKinoratingHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Kinozakaz HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMEDIAHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Little HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_Little_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Marvel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUMarvelHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Premiere Ultra 4K
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiereUltra4K/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Reality HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURealityHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Romantic HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCURomanticHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Stars HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUStarsHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Survival HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSurvivalHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU TruMotion HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCU_TruMotion_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU VHS HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUVHSHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Кинозал Premiere 1 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere1HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Кинозал Premiere 2 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere2HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Кинозал Premiere 3 HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUPremiere3HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BCU Сваты HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BCUSvatiHD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Autotrend HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_AUTOTREND_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Cyber HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_cyber_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX DOCU HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_DOCU_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Fantasy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_fantasy_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Franchise HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_franchise_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Game HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_game_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Gangster HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_gangster_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Ghost HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GHOST_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Gurman HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_GURMAN_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Hybrid HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_hybrid_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX M.Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_mserial_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Mayday HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_mayday_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Memory HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_memory_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Oscar HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_oscar_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Serial HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_SERIAL_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Spy HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_spy_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Stories HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_STORIES_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Travel HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_travel_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Travel Premiere HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/BOX_travel_premiere_HD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Western HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_western_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", BOX Zombie HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/box_zombie_hd/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Агенты Агенты Щ.И.Т.
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Agents_of_SHIELD/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Викинги
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Vikings/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Гуфи и его команда
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Goof/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Клон
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_clone/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Комедия
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_comedy/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Люди и животные
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_animov/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Между молотом и наковальней
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/jk_FinF/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Мировая классика
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_word_clac/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Рабыня Изаура
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/jk_Izaura/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Ретро комедии. Америка
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_retro_usa/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Ретро комедии. Европа
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_retro_eu/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Спартак
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Spartacus/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Топ Гир
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Top_Gear/video.m3u8?token=cPCeWX6J6D&21yo=0
+#EXTINF:-1 group-title="TOKEN_КИНОЗАЛЫ", Infinity: Хороший доктор
+http://tinyurl.com/%74%76%7A%61%74%61%6B14/inf_Good_Doctor/video.m3u8?token=cPCeWX6J6D&21yo=0
+
+
+
+
+
+
+
+
+
+
+
 
 
 
