@@ -1,36 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="🎅ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление❄21.12.2025❄
+#EXTINF:-1 group-title="🎅ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление❄25.12.2025❄
 #EXTVLCOPT:http-user-agent=KizugTV
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Russian Raid", Russian Raid (2020)
-http://nocable.cc:8080/movie/06995535/35829347/203091.mp4
-
-
-
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 1
-http://jeleyka.balelbrus.com/Videos/7fbd7c80a13633881fbcfa271c2a8902/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 2
-http://jeleyka.balelbrus.com/Videos/077d62c49bb74b2821b10e6cea3e2789/stream.mp4
-#EXTINF:- group-title="ЧИКАТИЛО"1,ЧИКАТИЛО 3
-http://jeleyka.balelbrus.com/Videos/a5d8506ac64d80fa40f0bf3d5ac28b02/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 4
-http://jeleyka.balelbrus.com/Videos/8121cd2a449fcf64133fef2e2e092033/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 5
-http://jeleyka.balelbrus.com/Videos/e11b60b1a80e8b7a0763451a95c1f084/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 6
-http://jeleyka.balelbrus.com/Videos/b3da97fbb43464f92b299a235744881c/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 7
-http://jeleyka.balelbrus.com/Videos/2abe1bf334167f7ef7f84c75abbec3bc/stream.mp4
-#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 8
-http://jeleyka.balelbrus.com/Videos/b31fa37344187d2170e6dfdf3b55e47d/stream.mp4
 
 
 
@@ -414,6 +385,146 @@ https://river-1.rutube.ru/hls-vod/OYVtTQVIj_PKdX0rsVUXIQ/1766856312/2417/0x5000c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ФИLM", Russian Raid (2020)
+http://nocable.cc:8080/movie/06995535/35829347/203091.mp4
+#EXTINF:-1 group-title="ФИLM", Всё хорошо будет...(2025)
+https://s1.mobikinchik.net/uploads3/film/vse-horosho-budet-mp4-2025.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="Сериал Коба", 1 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e01.mp4
+#EXTINF:-1 group-title="Сериал Коба", 2 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e02.mp4
+#EXTINF:-1 group-title="Сериал Коба", 3 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e03.mp4
+#EXTINF:-1 group-title="Сериал Коба", 4 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e04.mp4
+#EXTINF:-1 group-title="Сериал Коба", 5 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e05.mp4
+#EXTINF:-1 group-title="Сериал Коба", 6 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e06.mp4
+#EXTINF:-1 group-title="Сериал Коба", 7 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e07.mp4
+#EXTINF:-1 group-title="Сериал Коба", 8 СЕРИЯ
+https://svd2.kvb.cool/video_mp4/serials/Koba/c095fedef83b5d86a8cb4d1ed89deaca/s01e08.mp4
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Семейный подряд", 1 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyPodryad/77db74bdcc43ae7d4da7deb1faa0187a/s01e01.mp4
+#EXTINF:-1 group-title="Семейный подряд", 2 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyPodryad/77db74bdcc43ae7d4da7deb1faa0187a/s01e02.mp4
+#EXTINF:-1 group-title="Семейный подряд", 3 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyPodryad/77db74bdcc43ae7d4da7deb1faa0187a/s01e03.mp4
+#EXTINF:-1 group-title="Семейный подряд", 4 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyPodryad/77db74bdcc43ae7d4da7deb1faa0187a/s01e04.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="Сериал Свои", 1 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e01.mp4
+#EXTINF:-1 group-title="Сериал Свои", 2 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e02.mp4
+#EXTINF:-1 group-title="Сериал Свои", 3 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e03.mp4
+#EXTINF:-1 group-title="Сериал Свои", 4 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e04.mp4
+#EXTINF:-1 group-title="Сериал Свои", 5 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e05.mp4
+#EXTINF:-1 group-title="Сериал Свои", 6 серия
+https://svd6.kvb.cool/video_mp4/serials/Svoif/0730106a377e2929880f9c47c7affcc5/s01e06.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Опасная близость", 1 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e01_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 2 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e02_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 3 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e03_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 4 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e04_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 5 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e05_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 6 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e06_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 7 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e07_720.mp4
+#EXTINF:-1 group-title="Опасная близость", 8 серия
+https://s19.kvb.cool/video_mp4/serials/OpasnayaBlizost/5f8e2668fabc1f92cfb96d4f745ab377/s01e08_720.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="Синий камень", 1 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyKamen/0730106a377e2929880f9c47c7affcc5/s01e01.mp4
+#EXTINF:-1 group-title="Синий камень", 2 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyKamen/0730106a377e2929880f9c47c7affcc5/s01e02.mp4
+#EXTINF:-1 group-title="Синий камень", 3 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyKamen/0730106a377e2929880f9c47c7affcc5/s01e03.mp4
+#EXTINF:-1 group-title="Синий камень", 4 серия
+https://svd6.kvb.cool/video_mp4/serials/SiniyKamen/0730106a377e2929880f9c47c7affcc5/s01e04.mp4
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 1
+http://jeleyka.balelbrus.com/Videos/7fbd7c80a13633881fbcfa271c2a8902/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 2
+http://jeleyka.balelbrus.com/Videos/077d62c49bb74b2821b10e6cea3e2789/stream.mp4
+#EXTINF:- group-title="ЧИКАТИЛО"1,ЧИКАТИЛО 3
+http://jeleyka.balelbrus.com/Videos/a5d8506ac64d80fa40f0bf3d5ac28b02/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 4
+http://jeleyka.balelbrus.com/Videos/8121cd2a449fcf64133fef2e2e092033/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 5
+http://jeleyka.balelbrus.com/Videos/e11b60b1a80e8b7a0763451a95c1f084/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 6
+http://jeleyka.balelbrus.com/Videos/b3da97fbb43464f92b299a235744881c/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 7
+http://jeleyka.balelbrus.com/Videos/2abe1bf334167f7ef7f84c75abbec3bc/stream.mp4
+#EXTINF:-1 group-title="ЧИКАТИЛО",ЧИКАТИЛО 8
+http://jeleyka.balelbrus.com/Videos/b31fa37344187d2170e6dfdf3b55e47d/stream.mp4
 
 
 
