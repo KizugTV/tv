@@ -784,7 +784,7 @@ http://88.216.112.114/Cartoonito/index.m3u8
 http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", МУЛЬТИЛАНДИЯ
-
+http://178.163.12.221:4022/udp/234.0.0.210:2000
 
 #EXTINF:-1 group-title="👶Детские", KIDS TV
 
@@ -2800,7 +2800,7 @@ https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png",5-Minute Crafts Live
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb5638186573608684ce3b78d3f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0fcb05c41d064a2ac154d937b58e683179fc914bfd1d6469845d376f417c896a58ed611e033a059896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a4d7d11252bce00e936124b50f9c4e9672f70305e4e6932d8b899aa5306a2ba5d7556e23a1f7b381f22c739674fabba3b5191acaa3442817993f9c4abf5be1204860f96af0b0965a0f41bb7129dcb265d1f09796fdbf9d4fd308c5d4f7972a7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a552e73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49ce799e636abe83be00ba929ef89f95b2e9944b136e0c16ec68d22/46/960x540_2200000/index.m3u8
 
-#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg",  Британский юмор
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://masterpiecer-images.s3.yandex.net/ff0df5d22ad611ee9cab8acd3f4b4ba1:upscaled",  Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png", Твоё ТВ Юмор 
@@ -2808,8 +2808,13 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 #EXTINF:-1  group-title="🎉Развлекалово" tvg-id="gags-network", Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzAzMTAyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDI2MjI2LCJzZXNzaW9uX2lkIjoiYTlkMTMwZmFhNzhlMGJkNDZiNzk5MzNjMTMwZmNlMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2LLjt-ixDAW4kIJD0zl-Bv9bYFCzONpiwuh4pyfoUBM
+
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+
 
 #EXTINF:-1 group-title="🎉Развлекалово", Че!
 https://stream-msk-18.ott.tricolor.tv/dtv/id1044_MSKSG-PVR-1--CHE_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzAzMTAyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDI2MjI2LCJzZXNzaW9uX2lkIjoiYTlkMTMwZmFhNzhlMGJkNDZiNzk5MzNjMTMwZmNlMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2LLjt-ixDAW4kIJD0zl-Bv9bYFCzONpiwuh4pyfoUBM
@@ -5988,6 +5993,216 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1 group-title="🎬Кино и сериалы",Шокирующее HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzAzMTAyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDI2MjI2LCJzZXNzaW9uX2lkIjoiYTlkMTMwZmFhNzhlMGJkNDZiNzk5MzNjMTMwZmNlMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2LLjt-ixDAW4kIJD0zl-Bv9bYFCzONpiwuh4pyfoUBM
 #EXTINF:-1 group-title="🎬Кино и сериалы",COMEDY CENTRAL
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="INFOLADA",МАШИНА ВРЕМЕНИ
+http://178.163.12.221:4022/udp/234.0.0.190:2000
+#EXTINF:-1 group-title="INFOLADA",Калейдоскоп
+http://178.163.12.221:4022/udp/234.0.0.1:2000
+#EXTINF:-1 group-title="INFOLADA",ТНВ
+http://178.163.12.221:4022/udp/234.0.0.2:2000
+#EXTINF:-1 group-title="INFOLADA",Trash HD
+http://178.163.12.221:4022/udp/234.0.0.3:2000
+#EXTINF:-1 group-title="INFOLADA",МИР
+http://178.163.12.221:4022/udp/234.0.0.5:2000
+#EXTINF:-1 group-title="INFOLADA",МАТЧ! БОЕЦ
+http://178.163.12.221:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="INFOLADA",ГУБЕРНИЯ
+http://178.163.12.221:4022/udp/234.0.0.7:2000
+#EXTINF:-1 group-title="INFOLADA",360.ru
+http://178.163.12.221:4022/udp/234.0.0.8:2000
+#EXTINF:-1 group-title="INFOLADA",БОЛЬШАЯ АЗИЯ
+http://178.163.12.221:4022/udp/234.0.0.10:2000
+#EXTINF:-1 group-title="INFOLADA",Дикая охота HD
+http://178.163.12.221:4022/udp/234.0.0.11:2000
+#EXTINF:-1 group-title="INFOLADA",ТОНУС
+http://178.163.12.221:4022/udp/234.0.0.12:2000
+#EXTINF:-1 group-title="INFOLADA",СТАРТ ТРИУМФ
+http://178.163.12.221:4022/udp/234.0.0.14:2000
+#EXTINF:-1 group-title="INFOLADA",РЫЖИЙ
+http://178.163.12.221:4022/udp/234.0.0.15:2000
+#EXTINF:-1 group-title="INFOLADA",МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://178.163.12.221:4022/udp/234.0.0.95:2000
+#EXTINF:-1 group-title="INFOLADA",МУЗ
+http://178.163.12.221:4022/udp/234.0.0.96:2000
+#EXTINF:-1 group-title="INFOLADA",БЛОКБАСТЕР
+http://178.163.12.221:4022/udp/234.0.0.99:2000
+#EXTINF:-1 group-title="INFOLADA",Суббота
+http://178.163.12.221:4022/udp/234.0.0.100:2000
+#EXTINF:-1 group-title="INFOLADA",Любимое кино
+http://178.163.12.221:4022/udp/234.0.0.102:2000
+#EXTINF:-1 group-title="INFOLADA",Бобёр
+http://178.163.12.221:4022/udp/234.0.0.103:2000
+#EXTINF:-1 group-title="INFOLADA",Galaxy
+http://178.163.12.221:4022/udp/234.0.0.111:2000
+#EXTINF:-1 group-title="INFOLADA",Россия HD
+http://178.163.12.221:4022/udp/234.0.0.112:2000
+#EXTINF:-1 group-title="INFOLADA",ЗАГОРОДНАЯ ЖИЗНЬ HD
+http://178.163.12.221:4022/udp/234.0.0.115:2000
+#EXTINF:-1 group-title="INFOLADA",ИЗВЕСТИЯ HD
+http://178.163.12.221:4022/udp/234.0.0.116:2000
+#EXTINF:-1 group-title="INFOLADA",Hollywood
+http://178.163.12.221:4022/udp/234.0.0.117:2000
+#EXTINF:-1 group-title="INFOLADA",КАМЕДИ
+http://178.163.12.221:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="INFOLADA",MusicBOX RUSSIAN HD
+http://178.163.12.221:4022/udp/234.0.0.150:2000
+#EXTINF:-1 group-title="INFOLADA",РБК
+http://178.163.12.221:4022/udp/234.0.0.151:2000
+#EXTINF:-1 group-title="INFOLADA",Gulli GIRL
+http://178.163.12.221:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="INFOLADA",Amedia 1
+http://178.163.12.221:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="INFOLADA",Amedia Hit HD
+http://178.163.12.221:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="INFOLADA",ТВ3
+http://178.163.12.221:4022/udp/234.0.0.171:2000
+#EXTINF:-1 group-title="INFOLADA",ПЕРВЫЙ КАНАЛ HD
+http://178.163.12.221:4022/udp/234.0.0.172:2000
+#EXTINF:-1 group-title="INFOLADA",English Club HD
+http://178.163.12.221:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="INFOLADA",Еврокино
+http://178.163.12.221:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="INFOLADA",ИЛЛЮЗИОН+
+http://178.163.12.221:4022/udp/234.0.0.175:2000
+#EXTINF:-1 group-title="INFOLADA",РУССКИЙ ИЛЛЮЗИОН
+http://178.163.12.221:4022/udp/234.0.0.178:2000
+#EXTINF:-1 group-title="INFOLADA",ТНТ4
+http://178.163.12.221:4022/udp/234.0.0.181:2000
+#EXTINF:-1 group-title="INFOLADA",МУЗЫКА ПЕРВОГО
+http://178.163.12.221:4022/udp/234.0.0.182:2000
+#EXTINF:-1 group-title="INFOLADA",Europa PLUS
+http://178.163.12.221:4022/udp/234.0.0.183:2000
+#EXTINF:-1 group-title="INFOLADA",СОВЕРШЕННО СЕКРЕТНО
+http://178.163.12.221:4022/udp/234.0.0.185:2000
+#EXTINF:-1 group-title="INFOLADA",ТНТ
+http://178.163.12.221:4022/udp/234.0.0.186:2000
+#EXTINF:-1 group-title="INFOLADA",ТВ СПОРТ
+http://178.163.12.221:4022/udp/234.0.0.188:2000
+#EXTINF:-1 group-title="INFOLADA",ШАНСОН ТВ
+http://178.163.12.221:4022/udp/234.0.0.189:2000
+#EXTINF:-1 group-title="INFOLADA",ДОМАШНИЙ
+http://178.163.12.221:4022/udp/234.0.0.191:2000
+#EXTINF:-1 group-title="INFOLADA",ТВЦ
+http://178.163.12.221:4022/udp/234.0.0.192:2000
+#EXTINF:-1 group-title="INFOLADA",РЕТРО
+http://178.163.12.221:4022/udp/234.0.0.194:2000
+#EXTINF:-1 group-title="INFOLADA",ФУТБОЛ
+http://178.163.12.221:4022/udp/234.0.0.197:2000
+#EXTINF:-1 group-title="INFOLADA",Солнце
+http://178.163.12.221:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="INFOLADA",БЕЛАРУСЬ 24
+http://178.163.12.221:4022/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="INFOLADA",ПЕРВЫЙ КАНАЛ
+http://178.163.12.221:4022/udp/234.0.0.200:2000
+#EXTINF:-1 group-title="INFOLADA",РОССИЯ 1
+http://178.163.12.221:4022/udp/234.0.0.201:2000
+#EXTINF:-1 group-title="INFOLADA",Россия К
+http://178.163.12.221:4022/udp/234.0.0.202:2000
+#EXTINF:-1 group-title="INFOLADA",КАРУСЕЛЬ
+http://178.163.12.221:4022/udp/234.0.0.203:2000
+#EXTINF:-1 group-title="INFOLADA",МАТЧ!
+http://178.163.12.221:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="INFOLADA",ПЯТЫЙ КАНАЛ
+http://178.163.12.221:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="INFOLADA",НТВ
+http://178.163.12.221:4022/udp/234.0.0.206:2000
+#EXTINF:-1 group-title="INFOLADA",РОССИЯ 24
+http://178.163.12.221:4022/udp/234.0.0.207:2000
+#EXTINF:-1 group-title="INFOLADA",ОТР
+http://178.163.12.221:4022/udp/234.0.0.208:2000
+#EXTINF:-1 group-title="INFOLADA",КИНОПОКАЗ
+http://178.163.12.221:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="INFOLADA",ЕГЭ ТВ
+http://178.163.12.221:4022/udp/234.0.0.212:2000
+#EXTINF:-1 group-title="INFOLADA",KION ХИТ
+http://178.163.12.221:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="INFOLADA",ЖАРА
+http://178.163.12.221:4022/udp/234.0.0.214:2000
+#EXTINF:-1 group-title="INFOLADA",Зоопарк
+http://178.163.12.221:4022/udp/234.0.0.216:2000
+#EXTINF:-1 group-title="INFOLADA",УНИКУМ
+http://178.163.12.221:4022/udp/234.0.0.217:2000
+#EXTINF:-1 group-title="INFOLADA",ЧЕ
+http://178.163.12.221:4022/udp/234.0.0.218:2000
+#EXTINF:-1 group-title="INFOLADA",ДОМ КИНО
+http://178.163.12.221:4022/udp/234.0.0.219:2000
+#EXTINF:-1 group-title="INFOLADA",УСАДЬБА
+http://178.163.12.221:4022/udp/234.0.0.220:2000
+#EXTINF:-1 group-title="INFOLADA",НАШ КИНОПОКАХ
+http://178.163.12.221:4022/udp/234.0.0.222:2000
+#EXTINF:-1 group-title="INFOLADA",ЗДОРОВОЕ ТВ
+http://178.163.12.221:4022/udp/234.0.0.221:2000
+#EXTINF:-1 group-title="INFOLADA",Bridge Classic
+http://178.163.12.221:4022/udp/234.0.0.223:2000
+#EXTINF:-1 group-title="INFOLADA",ВРЕМЯ
+http://178.163.12.221:4022/udp/234.0.0.225:2000
+#EXTINF:-1 group-title="INFOLADA",РУССКИЙ РОМАН
+http://178.163.12.221:4022/udp/234.0.0.224:2000
+#EXTINF:-1 group-title="INFOLADA",НАУКА 2.0
+http://178.163.12.221:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="INFOLADA",АВТО24
+http://178.163.12.221:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="INFOLADA",МОЯ ПЛАНЕТА
+http://178.163.12.221:4022/udp/234.0.0.228:2000
+#EXTINF:-1 group-title="INFOLADA",Ю
+http://178.163.12.221:4022/udp/234.0.0.229:2000
+#EXTINF:-1 group-title="INFOLADA",ОХОТА И РЫБАЛКА
+http://178.163.12.221:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="INFOLADA",ДОКТОР
+http://178.163.12.221:4022/udp/234.0.0.232:2000
+#EXTINF:-1 group-title="INFOLADA",КВН ТВ
+http://178.163.12.221:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="INFOLADA",ТНТ Music
+http://178.163.12.221:4022/udp/234.0.0.231:2000
+#EXTINF:-1 group-title="INFOLADA",ТОЛЬЯТТИ 24 HD
+http://178.163.12.221:4022/udp/234.0.0.234:2000
+#EXTINF:-1 group-title="INFOLADA",НТВ ХИТ
+http://178.163.12.221:4022/udp/234.0.0.236:2000
+#EXTINF:-1 group-title="INFOLADA",ПЯТНИЦА
+http://178.163.12.221:4022/udp/234.0.0.235:2000
+#EXTINF:-1 group-title="INFOLADA",ЗВЕЗДА
+http://178.163.12.221:4022/udp/234.0.0.237:2000
+#EXTINF:-1 group-title="INFOLADA",CAETOON CLASSICS
+http://178.163.12.221:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="INFOLADA",СТС
+http://178.163.12.221:4022/udp/234.0.0.239:2000
+#EXTINF:-1 group-title="INFOLADA",РЕН ТВ
+http://178.163.12.221:4022/udp/234.0.0.240:2000
+#EXTINF:-1 group-title="INFOLADA",ЕДА
+http://178.163.12.221:4022/udp/234.0.0.241:2000
+#EXTINF:-1 group-title="INFOLADA",МАТЧ! HD
+http://178.163.12.221:4022/udp/234.0.0.242:2000
+#EXTINF:-1 group-title="INFOLADA",МУЛЬТ
+http://178.163.12.221:4022/udp/234.0.0.243:2000
+#EXTINF:-1 group-title="INFOLADA",2x2
+http://178.163.12.221:4022/udp/234.0.0.244:2000
+#EXTINF:-1 group-title="INFOLADA",ДРАЙВ
+http://178.163.12.221:4022/udp/234.0.0.245:2000
+#EXTINF:-1 group-title="INFOLADA",САРАФАН
+http://178.163.12.221:4022/udp/234.0.0.246:2000
+#EXTINF:-1 group-title="INFOLADA",ТЕХНО 24
+http://178.163.12.221:4022/udp/234.0.0.247:2000
+#EXTINF:-1 group-title="INFOLADA",В ГОСТЯХ У СКАЗКИ
+http://178.163.12.221:4022/udp/234.0.0.248:2000
+#EXTINF:-1 group-title="INFOLADA",ТЕЛЕКАФЕ
+http://178.163.12.221:4022/udp/234.0.0.249:2000
+#EXTINF:-1 group-title="INFOLADA",РУССКИЙ БЕСТСЕЛЛЕР
+http://178.163.12.221:4022/udp/234.0.0.250:2000
+#EXTINF:-1 group-title="INFOLADA",TiJi
+http://178.163.12.221:4022/udp/234.0.0.252:2000
+
+
 
 
 
