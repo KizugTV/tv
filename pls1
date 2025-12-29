@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление❄29.12.2025❄
+#EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление❄30.12.2025❄
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
 #EXTINF:-1 group-title="🎅ИНФО🎄" tvg-logo="https://png.klev.club/uploads/posts/2024-04/png-klev-club-84q4-p-yelka-ikonka-png-18.png" tvg-id="no_epg", Поздравить автора С НОВЫМ ГОДОМ!
 https://zonam1.ddns.net/hls/stream1.m3u8
@@ -100,6 +100,30 @@ https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ТЕСТ",Kernel TV Счастливого нового года HD
+http://cdn.admuspeh.my/9084/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",VB Новогодний
+http://hls.goodgame.ru:8080/hls/198088.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Новогодний
+https://tinyurl.com/SaSha-30/17035/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF New Year
+https://tinyurl.com/SaSha-30/15522/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",BCU Christmas
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Музыкальный Новый год!
+https://tinyurl.com/SaSha-30/16140/index.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" ,Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=gsVBYSARJmsVxpVF
@@ -716,7 +740,12 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="✅Новости" tvg-name="RT" tvg-logo="https://i.ibb.co/Z8pz7k4/image-39.png", RT News
 http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 
-
+#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/euronewsru.png",Euronews HD
+http://portal.ott.pink/C4UK_EuronewsRU/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/dozhdsd.png",Дождь HD
+http://portal.ott.pink/C5UK_DozhdSD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время HD
+http://portal.ott.pink/C4UK_NastoyascheeVremyaHD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
 
 
 
@@ -8859,47 +8888,137 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾", Первый Информационный
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 1
-http://194.158.222.36:6101
-#EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 1 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 3
-http://194.158.222.36:6108
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 2
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 3 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Могилев
+http://cdn.voka.tv/live/2097-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Витебск
+http://cdn.voka.tv/live/2012-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Брест
+http://cdn.voka.tv/live/2013-req_5k_v5.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 5 интернет HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w_b1460000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾", НТВ БЕЛАРУСЬ
 http://194.158.222.36:6107
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ
-https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w316090515.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾", ОНТ
-https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾", Первый Городской (Гомель)
-http://195.9.195.3:8080/hls/165178.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾", Первый Информационный
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.imgur.com/eIiXRAI.png",Первый информационный Беларусь
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ
-http://178.124.207.1:1780/tvp
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
-http://178.124.207.1:1780/tvphd
+http://87.252.229.200:8083/pinsk
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾", РТР Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Скиф
-http://95.46.208.8:24432/skif
-#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СкиФ-Витебск
+http://cdn.voka.tv/live/3101-req_5k_v5.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Бобруйск
+http://cdn.voka.tv/live/6239-req_5k_v5.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ2 Могилев
+http://cdn.voka.tv/live/1013-req_5k_v5.m3u8
+
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
+http://cdn.voka.tv/live/2023-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",МУви ТВ
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Live Music Channel
+http://cdn.voka.tv/live/6028-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://www.lagunatv.by/images/icons/01561061893.png",Лагуна ТВ
+http://cdn.voka.tv/live/7002-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",РТР Беларусь
+http://cdn.voka.tv/live/5-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Cinema Космос ТВ
+http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Буг-ТВ
+http://cdn.voka.tv/live/7001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",8 канал Беларусь
+http://cdn.voka.tv/live/962-req_5k_v5.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СТС KIDS
+http://cdn.voka.tv/live/1448-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://cdn.voka.tv/live/1124-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",МИР 24
+http://cdn.voka.tv/live/1908-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЛАПКИ LIVE
+http://cdn.voka.tv/live/1092-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",КИНЕКО
+http://cdn.voka.tv/live/1812-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЗВЕЗДА ПЛЮС
+http://cdn.voka.tv/live/1247-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ВРЕМЯ
+http://cdn.voka.tv/live/1405-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ВОПРОСЫ И ОТВЕТЫ
+http://cdn.voka.tv/live/1515-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",VHS-ка
+http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",TERRA
+http://cdn.voka.tv/live/1500-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",START AIR
+http://cdn.voka.tv/live/1804-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Russian Extreme Ultra HD
+http://cdn.voka.tv/live/1042-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",RTG HD
+http://cdn.voka.tv/live/1406-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",NOVELLA TV
+http://cdn.voka.tv/live/1205-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",DUCK TV
+http://cdn.voka.tv/live/1492-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",CARTOON CLASSICS
+http://cdn.voka.tv/live/1303-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",.red
+http://cdn.voka.tv/live/1400-req_5k_v5.m3u8
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",трансляция
+http://cdn.voka.tv/live/1391-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",тестовый стрим obs
+http://cdn.voka.tv/live/1390-req_5k_v5.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
