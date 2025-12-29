@@ -13,6 +13,8 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
+
+
 #EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Авария - Новогодняя
 https://www.dropbox.com/scl/fi/g37ink61b5luctinnrfq6/_.mp4?rlkey=8qy2ijpyozwkepcpjg6s46wsv&st=rn0gywie&dl=1
 #EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Андрей Губин - Зима холода
@@ -2517,10 +2519,10 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 group-title="💖С АРХИВОМ" tvg-id="impuls-sewera" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Импульс
 #EXTVLCOPT:http-user-agent=KizugTV
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 group-title="💖С АРХИВОМ" tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Инфо 24 HD
+#EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Инфо 24 HD
 #EXTVLCOPT:http-user-agent=KizugTV
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
-#EXTINF:-1 group-title="💖С АРХИВОМ"  tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Информационная служба Югры
+#EXTINF:-1 group-title="💖С АРХИВОМ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Информационная служба Югры
 #EXTVLCOPT:http-user-agent=KizugTV
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кавказ 24
@@ -4639,6 +4641,725 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231587&extens
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231596&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Rossiya-24_Logo.svg",Россия 24 ᴴᴰ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231597&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="RUSSIA 1 HD" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",RUSSIA 1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234124
+#EXTINF:-1 tvg-name="RUSSIA 1" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",RUSSIA 1
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234125
+#EXTINF:-1 tvg-name="PERVIY KANAL FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",PERVIY KANAL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529780
+#EXTINF:-1 tvg-name="PERVYJ KANAL HD" tvg-logo="https://i.imgur.com/Wn2C6mH.png" group-title="TOKEN",PERVYJ KANAL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234126
+#EXTINF:-1 tvg-name="PERVIY KANAL HD" tvg-logo="https://i.imgur.com/Km1aMxW.png" group-title="TOKEN",PERVIY KANAL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529782
+#EXTINF:-1 tvg-name="PERVIY KANAL EUROPE FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",PERVIY KANAL EUROPE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529781
+#EXTINF:-1 tvg-name="PEH TB FHD" tvg-logo="https://i.imgur.com/DA3gAlg.png" group-title="TOKEN",PEH TB FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529779
+#EXTINF:-1 tvg-name="RUSSIA K FHD" tvg-logo="https://i.imgur.com/O7xrdlf.png" group-title="TOKEN",RUSSIA K FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529778
+#EXTINF:-1 tvg-name="RU TV HD" tvg-logo="https://i.imgur.com/Dsm82y2.png" group-title="TOKEN",RU TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529777
+#EXTINF:-1 tvg-name="RTVI FHD" tvg-logo="https://i.imgur.com/Ce0DGum.png" group-title="TOKEN",RTVI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529776
+#EXTINF:-1 tvg-name="RETRO TV HD" tvg-logo="https://i.imgur.com/RYJzxhb.png" group-title="TOKEN",RETRO TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529775
+#EXTINF:-1 tvg-name="REN TV HD" tvg-logo="https://i.imgur.com/nHJsFP7.png" group-title="TOKEN",REN TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529774
+#EXTINF:-1 tvg-name="8 KANAL RU FHD" tvg-logo="https://i.imgur.com/JoMUHQw.png" group-title="TOKEN",8 KANAL RU FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529773
+#EXTINF:-1 tvg-name="5 KANAL RU FHD" tvg-logo="https://i.imgur.com/ej9X5M0.png" group-title="TOKEN",5 KANAL RU FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529772
+#EXTINF:-1 tvg-name="ZAGORODNIY FHD" tvg-logo="https://i.imgur.com/bqEyaXH.png" group-title="TOKEN",ZAGORODNIY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529771
+#EXTINF:-1 tvg-name="ZAGORODNAYA ZHIZN FHD" tvg-logo="https://i.imgur.com/tSwie0A.png" group-title="TOKEN",ZAGORODNAYA ZHIZN FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529770
+#EXTINF:-1 tvg-name="KTNO TV FHD" tvg-logo="https://i.imgur.com/fY1xr7e.png" group-title="TOKEN",KTNO TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529768
+#EXTINF:-1 tvg-name="KHL HD" tvg-logo="https://i.imgur.com/Hg5c1kr.png" group-title="TOKEN",KHL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529766
+#EXTINF:-1 tvg-name="KHL FHD" tvg-logo="https://i.imgur.com/TR0M8JM.png" group-title="TOKEN",KHL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529765
+#EXTINF:-1 tvg-name="TV 3" tvg-logo="https://i.imgur.com/DlfevRP.png" group-title="TOKEN",TV 3
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529764
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",TNT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529763
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",TNT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529762
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://i.imgur.com/fwaMD9f.png" group-title="TOKEN",TNT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529761
+#EXTINF:-1 tvg-name="TNT 4 FHD" tvg-logo="https://i.imgur.com/OZJ2x11.png" group-title="TOKEN",TNT 4 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529760
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234134
+#EXTINF:-1 tvg-name="НТВ +2" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ +2
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234135
+#EXTINF:-1 tvg-name="НТВ +8" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ +8
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234138
+#EXTINF:-1 tvg-name="НТВ Право" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ Право
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234139
+#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ Стиль
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234140
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="THT HD" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",THT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234162
+#EXTINF:-1 tvg-id="tntmusic.ru" tvg-name="THT" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",THT
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234163
+#EXTINF:-1 tvg-name="RU : REN TV" tvg-logo="https://i.imgur.com/8imVGiN.png" group-title="TOKEN",RU : REN TV
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234127
+#EXTINF:-1 tvg-id="rutv.ru" tvg-name="RU TV" tvg-logo="https://i.imgur.com/SaACGno.png" group-title="TOKEN",RU TV
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234175
+#EXTINF:-1 tvg-name="Россия 1 +2" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +2
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117203
+#EXTINF:-1 tvg-name="Пятница +2" tvg-logo="https://i.imgur.com/ZqIgtXI.png" group-title="TOKEN",Пятница +2
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117204
+#EXTINF:-1 tvg-name="Пятница +6" tvg-logo="https://i.imgur.com/ZqIgtXI.png" group-title="TOKEN",Пятница +6
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117205
+#EXTINF:-1 tvg-name="Россия 1 +4" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +4
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117206
+#EXTINF:-1 tvg-name="Россия 1 +6" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +6
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117207
+#EXTINF:-1 tvg-name="Россия 1 +8" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",Россия 1 +8
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117208
+#EXTINF:-1 tvg-name="Россия К" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия К
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117211
+#EXTINF:-1 tvg-name="8 KANAL RU" tvg-logo="https://i.imgur.com/h3rBO3H.png" group-title="TOKEN",8 KANAL RU
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234167
+#EXTINF:-1 tvg-name="Санкт‑Петербург" tvg-logo="https://i.imgur.com/8UjeHky.png" group-title="TOKEN",Санкт‑Петербург
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234141
+#EXTINF:-1 tvg-name="Сарафан" tvg-logo="https://i.imgur.com/0K7lBsV.png" group-title="TOKEN",Сарафан
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234143
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://i.imgur.com/PMN6XWy.png" group-title="TOKEN",КВН ТВ
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234145
+#EXTINF:-1 tvg-name="КтоКуда" tvg-logo="https://i.imgur.com/dB0k7ZF.png" group-title="TOKEN",КтоКуда
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234148
+#EXTINF:-1 tvg-name="Наша Тема HD" tvg-logo="https://i.imgur.com/sXGAyYa.png" group-title="TOKEN",Наша Тема HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234152
+#EXTINF:-1 tvg-name="Наша Тема HD" tvg-logo="https://i.imgur.com/sXGAyYa.png" group-title="TOKEN",Наша Тема HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117432
+#EXTINF:-1 tvg-name="ЗВЕЗДА Плюс" tvg-logo="https://i.imgur.com/3gVuzqQ.png" group-title="TOKEN",ЗВЕЗДА Плюс
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234153
+#EXTINF:-1 tvg-name="Радость моя" tvg-logo="https://i.imgur.com/jmO9Kzh.png" group-title="TOKEN",Радость моя
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234161
+#EXTINF:-1 tvg-name="ЗВЕЗДА Плюс" tvg-logo="https://i.imgur.com/XNQvT7o.png" group-title="TOKEN",ЗВЕЗДА Плюс
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234168
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://i.imgur.com/eRzhCz5.png" group-title="TOKEN",Пятница
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234170
+#EXTINF:-1 tvg-name="РЕН ТВ FHD" tvg-logo="https://i.imgur.com/Q4efJdS.png" group-title="TOKEN",РЕН ТВ FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234171
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",ТНТ
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234173
+#EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://i.imgur.com/CucfBV1.png" group-title="TOKEN",Москва 24
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234174
+#EXTINF:-1 tvg-name="МИР 24" tvg-logo="https://i.imgur.com/qzimiN9.png" group-title="TOKEN",МИР 24
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234131
+#EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://i.imgur.com/CucfBV1.png" group-title="TOKEN",Москва 24
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234128
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="NTV FHD" tvg-logo="https://i.imgur.com/YdMhwCp.png" group-title="TOKEN",NTV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234176
+#EXTINF:-1 tvg-name="360° HD+" tvg-logo="https://i.imgur.com/LLGJCZh.png" group-title="TOKEN",360° HD+
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234164
+#EXTINF:-1 tvg-name="НТВ Право" tvg-logo="https://i.imgur.com/u9S27Yv.png" group-title="TOKEN",НТВ Право
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117217
+#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/ViFPBu0.png" group-title="TOKEN",НТВ Стиль
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117218
+#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/IO2dNWN.png" group-title="TOKEN",РЕН ТВ
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117220
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://i.imgur.com/aM2eAv6.png" group-title="TOKEN",СТС
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117221
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="https://i.imgur.com/9KW9aAL.png" group-title="TOKEN",Домашний
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117222
+#EXTINF:-1 tvg-name="ТВ‑3" tvg-logo="https://i.imgur.com/eO6gx3V.png" group-title="TOKEN",ТВ‑3
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117223
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/qzimiN9.png" group-title="TOKEN",Мир
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117225
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/o9oWD0w.png" group-title="TOKEN",Звезда
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117226
+#EXTINF:-1 tvg-name="Ю" tvg-logo="https://i.imgur.com/GTsqQjC.png" group-title="TOKEN",Ю
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117230
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="https://i.imgur.com/NgYcNDX.png" group-title="TOKEN",ТНТ4
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117239
+#EXTINF:-1 tvg-name="Конный мир (HD)" tvg-logo="https://i.imgur.com/Ltt6xwP.png" group-title="TOKEN",Конный мир (HD)
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117249
+#EXTINF:-1 tvg-name="Усадьба‑ТВ" tvg-logo="https://i.imgur.com/xdglTwB.png" group-title="TOKEN",Усадьба‑ТВ
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117422
+#EXTINF:-1 tvg-name="ENGLISH CLUB" tvg-logo="https://i.imgur.com/Lq1oFF6.png" group-title="TOKEN",ENGLISH CLUB
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234151
+#EXTINF:-1 tvg-name="English Club" tvg-logo="https://i.imgur.com/Lq1oFF6.png" group-title="TOKEN",English Club
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117429
+#EXTINF:-1 tvg-name="STYLE FHD" tvg-logo="https://i.imgur.com/hvt46ec.png" group-title="TOKEN",STYLE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529756
+#EXTINF:-1 tvg-name="STS BALTIC FHD" tvg-logo="https://i.imgur.com/itYnJ5m.png" group-title="TOKEN",STS BALTIC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529755
+#EXTINF:-1 tvg-name="STS FHD" tvg-logo="https://i.imgur.com/itYnJ5m.png" group-title="TOKEN",STS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529754
+#EXTINF:-1 tvg-name="STRASHNOE FHD" tvg-logo="https://i.imgur.com/nLqrnCj.png" group-title="TOKEN",STRASHNOE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529753
+#EXTINF:-1 tvg-name="STRANA FHD" tvg-logo="https://i.imgur.com/bW5nnEA.png" group-title="TOKEN",STRANA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529752
+#EXTINF:-1 tvg-name="SOVERSHENNO SEKRETNO HD" tvg-logo="https://i.imgur.com/jJE2n4E.png" group-title="TOKEN",SOVERSHENNO SEKRETNO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529751
+#EXTINF:-1 tvg-name="SHANSON TV FHD" tvg-logo="https://i.imgur.com/TwgGBDO.png" group-title="TOKEN",SHANSON TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529750
+#EXTINF:-1 tvg-name="SET HD" tvg-logo="https://i.imgur.com/O76WlzQ.png" group-title="TOKEN",SET HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529749
+#EXTINF:-1 tvg-name="SARAFAN FHD" tvg-logo="https://i.imgur.com/FV58GUH.png" group-title="TOKEN",SARAFAN FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529748
+#EXTINF:-1 tvg-name="SAINT PETERBURG FHD" tvg-logo="https://i.imgur.com/8tvaFzW.png" group-title="TOKEN",SAINT PETERBURG FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529747
+#EXTINF:-1 tvg-name="PAYTNITSA! FHD" tvg-logo="https://i.imgur.com/aLjdguX.png" group-title="TOKEN",PAYTNITSA! FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529746
+#EXTINF:-1 tvg-name="PSIHOLOGIA 21 FHD" tvg-logo="https://i.imgur.com/V6kLovX.png" group-title="TOKEN",PSIHOLOGIA 21 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529745
+#EXTINF:-1 tvg-name="PRODVIJENIE FHD" tvg-logo="https://i.imgur.com/y0gFA94.png" group-title="TOKEN",PRODVIJENIE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529744
+#EXTINF:-1 tvg-name="PRIKLYUCHENIYA HD" tvg-logo="https://i.imgur.com/DFyEg9j.png" group-title="TOKEN",PRIKLYUCHENIYA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529743
+#EXTINF:-1 tvg-name="PRAVO FHD" tvg-logo="https://i.imgur.com/iyXMlxo.png" group-title="TOKEN",PRAVO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529742
+#EXTINF:-1 tvg-name="RUTV FHD" tvg-logo="https://i.imgur.com/wJaTozt.png" group-title="TOKEN",RUTV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529741
+#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="https://i.imgur.com/CcnfVjs.png" group-title="TOKEN",TV5 MONDE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529740
+#EXTINF:-1 tvg-name="PYATNICA! INTERNATIONAL FHD" tvg-logo="https://i.imgur.com/hcMIUwq.png" group-title="TOKEN",PYATNICA! INTERNATIONAL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529739
+#EXTINF:-1 tvg-name="SPAS TV FHD" tvg-logo="https://i.imgur.com/FO4khmk.png" group-title="TOKEN",SPAS TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529738
+#EXTINF:-1 tvg-name="STS FHD" tvg-logo="https://i.imgur.com/sTXi874.png" group-title="TOKEN",STS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529736
+#EXTINF:-1 tvg-name="O! FHD" tvg-logo="https://i.imgur.com/xansEp1.png" group-title="TOKEN",O! FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529735
+#EXTINF:-1 tvg-name="NAUKA 2 0 FHD" tvg-logo="https://i.imgur.com/1pvbwng.png" group-title="TOKEN",NAUKA 2 0 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529734
+#EXTINF:-1 tvg-name="MYZEN TV HD" tvg-logo="https://i.imgur.com/c0Xbj9s.png" group-title="TOKEN",MYZEN TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529733
+#EXTINF:-1 tvg-name="Moskva-Doveriye" tvg-logo="https://i.imgur.com/8GzCatS.png" group-title="TOKEN",Moskva-Doveriye
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529732
+#EXTINF:-1 tvg-name="LIFE HD" tvg-logo="https://i.imgur.com/aK1Xa5q.png" group-title="TOKEN",LIFE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529731
+#EXTINF:-1 tvg-name="KVN TV FHD" tvg-logo="https://i.imgur.com/RBJWlEj.png" group-title="TOKEN",KVN TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529730
+#EXTINF:-1 tvg-name="KUHNYA TV HD" tvg-logo="https://i.imgur.com/lwfSQNO.png" group-title="TOKEN",KUHNYA TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529729
+#EXTINF:-1 tvg-name="KUCHNIA TV FHD" tvg-logo="https://i.imgur.com/r7X93KT.png" group-title="TOKEN",KUCHNIA TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529728
+#EXTINF:-1 tvg-name="JIVI TV FHD" tvg-logo="https://i.imgur.com/tYGECXf.png" group-title="TOKEN",JIVI TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529727
+#EXTINF:-1 tvg-name="ILLUZION PLUS FHD" tvg-logo="https://i.imgur.com/nrIYKw9.png" group-title="TOKEN",ILLUZION PLUS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529726
+#EXTINF:-1 tvg-name="ICONCERTS FHD" tvg-logo="https://i.imgur.com/r9HnIFn.png" group-title="TOKEN",ICONCERTS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529725
+#EXTINF:-1 tvg-name="HTB FHD" tvg-logo="https://i.imgur.com/Y8anX9X.png" group-title="TOKEN",HTB FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529724
+#EXTINF:-1 tvg-name="GOSTIAH U SKAZKI FHD" tvg-logo="https://i.imgur.com/1ezMakR.png" group-title="TOKEN",GOSTIAH U SKAZKI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529723
+#EXTINF:-1 tvg-name="FASHION TELEVISION FHD" tvg-logo="https://i.imgur.com/vqQLH6G.png" group-title="TOKEN",FASHION TELEVISION FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529722
+#EXTINF:-1 tvg-name="EUREKA HD" tvg-logo="https://i.imgur.com/gVBg6Jc.png" group-title="TOKEN",EUREKA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529721
+#EXTINF:-1 tvg-name="ENGLISH CLUB FHD" tvg-logo="https://i.imgur.com/zqxb9Cz.png" group-title="TOKEN",ENGLISH CLUB FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529720
+#EXTINF:-1 tvg-name="EDA HD" tvg-logo="https://i.imgur.com/AgPLQyY.png" group-title="TOKEN",EDA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529719
+#EXTINF:-1 tvg-name="E TV FHD" tvg-logo="https://i.imgur.com/heYVorP.png" group-title="TOKEN",E TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529718
+#EXTINF:-1 tvg-name="DOZD FHD" tvg-logo="https://i.imgur.com/z3DBib9.png" group-title="TOKEN",DOZD FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529717
+#EXTINF:-1 tvg-name="DOMASHNIY +7 FHD" tvg-logo="https://i.imgur.com/tScPCrV.png" group-title="TOKEN",DOMASHNIY +7 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529716
+#EXTINF:-1 tvg-name="DOMASHNIY FHD" tvg-logo="https://i.imgur.com/tScPCrV.png" group-title="TOKEN",DOMASHNIY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529715
+#EXTINF:-1 tvg-name="DOMASHNIE JIVOTNIE" tvg-logo="https://i.imgur.com/NcazsXR.png" group-title="TOKEN",DOMASHNIE JIVOTNIE
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529714
+#EXTINF:-1 tvg-name="CURRENTTINE HD" tvg-logo="https://i.imgur.com/2fYgBLf.png" group-title="TOKEN",CURRENTTINE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529713
+#EXTINF:-1 tvg-name="CTC LOVE FHD" tvg-logo="https://i.imgur.com/hfFExBD.png" group-title="TOKEN",CTC LOVE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529712
+#EXTINF:-1 tvg-name="CHE HD" tvg-logo="https://i.imgur.com/1cgllDX.png" group-title="TOKEN",CHE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529711
+#EXTINF:-1 tvg-name="CHANNEL ONE FHD" tvg-logo="https://i.imgur.com/t1aQA6b.png" group-title="TOKEN",CHANNEL ONE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529710
+#EXTINF:-1 tvg-name="BOX TV HD" tvg-logo="https://i.imgur.com/03JM4JG.png" group-title="TOKEN",BOX TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529709
+#EXTINF:-1 tvg-name="360 PODMOSKOVIE FHD" tvg-logo="https://i.imgur.com/s6wFvTo.png" group-title="TOKEN",360 PODMOSKOVIE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529707
+#EXTINF:-1 tvg-name="Start Tv" tvg-logo="https://i.imgur.com/EgYAiqS.png" group-title="TOKEN",Start Tv
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529706
+#EXTINF:-1 tvg-name="RBK TV FHD" tvg-logo="https://i.imgur.com/E5Ex0Gl.png" group-title="TOKEN",RBK TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529705
+#EXTINF:-1 tvg-name="SAPHIRE FHD" tvg-logo="https://i.imgur.com/v27HhMf.png" group-title="TOKEN",SAPHIRE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529704
+#EXTINF:-1 tvg-name="U TV FHD" tvg-logo="https://i.imgur.com/f5Hk7xv.png" group-title="TOKEN",U TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529703
+#EXTINF:-1 tvg-name="U HD" tvg-logo="https://i.imgur.com/m6U5czh.png" group-title="TOKEN",U HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529702
+#EXTINF:-1 tvg-name="NTV HD" tvg-logo="https://i.imgur.com/YdMhwCp.png" group-title="TOKEN",NTV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529699
+#EXTINF:-1 tvg-name="MOYA PLANETA FHD" tvg-logo="https://i.imgur.com/c8z4iiW.png" group-title="TOKEN",MOYA PLANETA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529698
+#EXTINF:-1 tvg-name="IZVESTIYA HD" tvg-logo="https://i.imgur.com/CjvMFBT.png" group-title="TOKEN",IZVESTIYA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529697
+#EXTINF:-1 tvg-name="✦●✦ NEWS ✦●✦" tvg-logo="https://i.imgur.com/MLL75qX.png" group-title="TOKEN",✦●✦ NEWS ✦●✦
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50601
+#EXTINF:-1 tvg-name="MOSKVA 24 FHD" tvg-logo="https://i.imgur.com/kFBwbZ3.png" group-title="TOKEN",MOSKVA 24 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529402
+#EXTINF:-1 tvg-name="ROSSIYA 1 HD" tvg-logo="https://i.imgur.com/lAIXCmW.png" group-title="TOKEN",ROSSIYA 1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529401
+#EXTINF:-1 tvg-name="ROSSIYA 1 HD" tvg-logo="https://i.imgur.com/lAIXCmW.png" group-title="TOKEN",ROSSIYA 1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529400
+#EXTINF:-1 tvg-name="ROSSIYA 24 HD" tvg-logo="https://i.imgur.com/1QKtjrm.png" group-title="TOKEN",ROSSIYA 24 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529399
+#EXTINF:-1 tvg-name="EURONEWS HD" tvg-logo="https://i.imgur.com/lWmfol7.png" group-title="TOKEN",EURONEWS HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529397
+#EXTINF:-1 tvg-name="MIR24 FHD" tvg-logo="https://i.imgur.com/kqI3wMD.png" group-title="TOKEN",MIR24 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529685
+#EXTINF:-1 tvg-name="MIR HD" tvg-logo="https://i.imgur.com/k4BDohN.png" group-title="TOKEN",MIR HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529396
+#EXTINF:-1 tvg-name="MIR FHD" tvg-logo="https://i.imgur.com/V3F9Ksy.png" group-title="TOKEN",MIR FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529395
+#EXTINF:-1 tvg-name="HIT HD" tvg-logo="https://i.imgur.com/HE83Naa.png" group-title="TOKEN",HIT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529394
+#EXTINF:-1 tvg-name="RT HD" tvg-logo="https://i.imgur.com/OxVpbQ0.png" group-title="TOKEN",RT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529393
+#EXTINF:-1 tvg-name="ZVEZDA FHD" tvg-logo="https://i.imgur.com/RdZWP72.png" group-title="TOKEN",ZVEZDA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529392
+#EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://i.imgur.com/Mjm2VjG.png" group-title="TOKEN",360 Новости
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234165
+#EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://i.imgur.com/2OENbaN.png" group-title="TOKEN",360 Новости
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117426
+#EXTINF:-1 tvg-name="✦●✦ DOCUMENTATION ●✦●" tvg-logo="https://i.imgur.com/MLL75qX.png" group-title="TOKEN",✦●✦ DOCUMENTATION ●✦●
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50610
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/a2vlZz8.png" group-title="TOKEN",HISTORY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529528
+#EXTINF:-1 tvg-name="HISTORY FHD" tvg-logo="https://i.imgur.com/NArz6mo.png" group-title="TOKEN",HISTORY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529527
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/gcXLQ0U.png" group-title="TOKEN",NATIONAL GEOGRAPHIC HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529526
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/BXfDPyf.png" group-title="TOKEN",NATIONAL GEOGRAPHIC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529525
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/vb29K1W.png" group-title="TOKEN",NAT GEO WILD HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529524
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/naDjjzH.png" group-title="TOKEN",NAT GEO WILD FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529523
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/6b4kTIR.png" group-title="TOKEN",ANIMAL PLANET HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529522
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/Mzfaxnl.png" group-title="TOKEN",ANIMAL PLANET FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529521
+#EXTINF:-1 tvg-name="ANIMAL FAMILY HD" tvg-logo="https://i.imgur.com/OrLEork.png" group-title="TOKEN",ANIMAL FAMILY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529520
+#EXTINF:-1 tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/WdWwlxe.png" group-title="TOKEN",TLC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529519
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="https://i.imgur.com/LqanavP.png" group-title="TOKEN",TLC HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529518
+#EXTINF:-1 tvg-name="TERRA HD" tvg-logo="https://i.imgur.com/OrJbPTL.png" group-title="TOKEN",TERRA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529517
+#EXTINF:-1 tvg-name="TERRA FHD" tvg-logo="https://i.imgur.com/4aQRXzb.png" group-title="TOKEN",TERRA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529516
+#EXTINF:-1 tvg-name="VIJU NATURE HD" tvg-logo="https://i.imgur.com/1ionu2N.png" group-title="TOKEN",VIJU NATURE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529515
+#EXTINF:-1 tvg-name="VIJU NATURE HD" tvg-logo="https://i.imgur.com/1ionu2N.png" group-title="TOKEN",VIJU NATURE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529514
+#EXTINF:-1 tvg-name="VIJU + HISTORY HD" tvg-logo="https://i.imgur.com/3pUVkxA.png" group-title="TOKEN",VIJU + HISTORY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529513
+#EXTINF:-1 tvg-name="VIJU + HISTORY FHD" tvg-logo="https://i.imgur.com/9qn0GpT.png" group-title="TOKEN",VIJU + HISTORY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529512
+#EXTINF:-1 tvg-name="VIJU EXPLORE HD" tvg-logo="https://i.imgur.com/5L6SXKo.png" group-title="TOKEN",VIJU EXPLORE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529511
+#EXTINF:-1 tvg-name="VIJU EXPLORE FHD" tvg-logo="https://i.imgur.com/rdoD6dv.png" group-title="TOKEN",VIJU EXPLORE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529510
+#EXTINF:-1 tvg-name="TRAVEL+ADVENTURE HD" tvg-logo="https://i.imgur.com/UHwKlQ6.png" group-title="TOKEN",TRAVEL+ADVENTURE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529509
+#EXTINF:-1 tvg-name="DOCTOR HD" tvg-logo="https://i.imgur.com/yC6mjsv.png" group-title="TOKEN",DOCTOR HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529508
+#EXTINF:-1 tvg-name="ID XTRA FHD" tvg-logo="https://i.imgur.com/WxkXFI8.png" group-title="TOKEN",ID XTRA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529507
+#EXTINF:-1 tvg-name="ID INVESTIGATOIN DISCOVERY FHD" tvg-logo="https://i.imgur.com/cuPeKHs.png" group-title="TOKEN",ID INVESTIGATOIN DISCOVERY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529506
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/B5ljb2e.png" group-title="TOKEN",DISCOVERY SCIENCE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529505
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://i.imgur.com/qN00oeG.png" group-title="TOKEN",DISCOVERY SCIENCE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529504
+#EXTINF:-1 tvg-name="DISCOVERY ID XTRA HD" tvg-logo="https://i.imgur.com/Vzbwxxu.png" group-title="TOKEN",DISCOVERY ID XTRA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529503
+#EXTINF:-1 tvg-name="DISCOVERY DTX FHD" tvg-logo="https://i.imgur.com/i9ycXBz.png" group-title="TOKEN",DISCOVERY DTX FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529502
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/Apvkst5.png" group-title="TOKEN",DISCOVERY CHANNEL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529501
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/yBRLcDT.png" group-title="TOKEN",DISCOVERY CHANNEL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529500
+#EXTINF:-1 tvg-name="PERVIY AVTOMOBILNIY HD" tvg-logo="https://i.imgur.com/ytpsSNy.png" group-title="TOKEN",PERVIY AVTOMOBILNIY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529499
+#EXTINF:-1 tvg-name="ABTO24 FHD" tvg-logo="https://i.imgur.com/2XB8L4K.png" group-title="TOKEN",ABTO24 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529498
+#EXTINF:-1 tvg-name="AUTO PLUS HD" tvg-logo="https://i.imgur.com/KSgK2is.png" group-title="TOKEN",AUTO PLUS HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529497
+#EXTINF:-1 tvg-name="AUTO 24 FHD" tvg-logo="https://i.imgur.com/2XB8L4K.png" group-title="TOKEN",AUTO 24 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529496
+#EXTINF:-1 tvg-name="TRAVEL HD" tvg-logo="https://i.imgur.com/xXP1bFz.png" group-title="TOKEN",TRAVEL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529495
+#EXTINF:-1 tvg-name="TRAVEL ADVENTURE HD" tvg-logo="https://i.imgur.com/ZWSR1U3.png" group-title="TOKEN",TRAVEL ADVENTURE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529494
+#EXTINF:-1 tvg-name="TRAVEL HD" tvg-logo="https://i.imgur.com/xXP1bFz.png" group-title="TOKEN",TRAVEL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529493
+#EXTINF:-1 tvg-name="RTR PLANETA FHD" tvg-logo="https://i.imgur.com/ikRNs51.png" group-title="TOKEN",RTR PLANETA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529491
+#EXTINF:-1 tvg-name="PERVIY AVTOMOBILNIY HD" tvg-logo="https://i.imgur.com/ytpsSNy.png" group-title="TOKEN",PERVIY AVTOMOBILNIY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529490
+#EXTINF:-1 tvg-name="VIJU + PLANET HD" tvg-logo="https://i.imgur.com/HKL5ED3.png" group-title="TOKEN",VIJU + PLANET HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529489
+#EXTINF:-1 tvg-name="HD LIFE FHD" tvg-logo="https://i.imgur.com/rORNxLJ.png" group-title="TOKEN",HD LIFE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529488
+#EXTINF:-1 tvg-name="TERRA HD" tvg-logo="https://i.imgur.com/hCBFXEu.png" group-title="TOKEN",TERRA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529487
+#EXTINF:-1 tvg-name="DOCUBOX HD" tvg-logo="https://i.imgur.com/zF64cqH.png" group-title="TOKEN",DOCUBOX HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529486
+#EXTINF:-1 tvg-name="DAVINCI LEARNING HD" tvg-logo="https://i.imgur.com/Prh2UOc.png" group-title="TOKEN",DAVINCI LEARNING HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529485
+#EXTINF:-1 tvg-name="GLAZELLA HD" tvg-logo="https://i.imgur.com/LKGD95N.png" group-title="TOKEN",GLAZELLA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529484
+#EXTINF:-1 tvg-name="GLAZAMI TURISTA FHD" tvg-logo="https://i.imgur.com/lPRmspg.png" group-title="TOKEN",GLAZAMI TURISTA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529483
+#EXTINF:-1 tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/pylc62g.png" group-title="TOKEN",H2 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529482
+#EXTINF:-1 tvg-name="GULLI FHD" tvg-logo="https://i.imgur.com/Y45Mx4V.png" group-title="TOKEN",GULLI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529481
+#EXTINF:-1 tvg-name="RT DOC FHD" tvg-logo="https://i.imgur.com/juaua37.png" group-title="TOKEN",RT DOC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529480
+#EXTINF:-1 tvg-name="RTG TV HD" tvg-logo="https://i.imgur.com/ys11cFq.png" group-title="TOKEN",RTG TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529479
+#EXTINF:-1 tvg-name="USADBA TV FHD" tvg-logo="https://i.imgur.com/YA9bUK2.png" group-title="TOKEN",USADBA TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529477
+#EXTINF:-1 tvg-name="OHOTA I RYBALKA FHD" tvg-logo="https://i.imgur.com/50xPftT.png" group-title="TOKEN",OHOTA I RYBALKA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529476
+#EXTINF:-1 tvg-name="DIKAYA RYBALKA HD" tvg-logo="https://i.imgur.com/aAKlpMA.png" group-title="TOKEN",DIKAYA RYBALKA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529475
+#EXTINF:-1 tvg-name="DIALOGI O RYBALKE" tvg-logo="https://i.imgur.com/cI6EuBO.png" group-title="TOKEN",DIALOGI O RYBALKE
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529474
+#EXTINF:-1 tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/OcMloOt.png" group-title="TOKEN",FOOD NETWORK FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529473
+#EXTINF:-1 tvg-name="MUSEUM FHD" tvg-logo="https://i.imgur.com/iDUuZC7.png" group-title="TOKEN",MUSEUM FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529472
+#EXTINF:-1 tvg-name="DIKATA OKHOTA HD" tvg-logo="https://i.imgur.com/ZulQZmK.png" group-title="TOKEN",DIKATA OKHOTA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529471
+#EXTINF:-1 tvg-name="MUZYKA PERVOGO FHD" tvg-logo="https://i.imgur.com/6pfsXNB.png" group-title="TOKEN",MUZYKA PERVOGO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529470
+#EXTINF:-1 tvg-name="ZAGORODNOJA JIZN" tvg-logo="https://i.imgur.com/ZNewN4Q.png" group-title="TOKEN",ZAGORODNOJA JIZN
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529469
+#EXTINF:-1 tvg-name="ZAGORODNIY HD" tvg-logo="https://i.imgur.com/kPiODH4.png" group-title="TOKEN",ZAGORODNIY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529468
+#EXTINF:-1 tvg-name="VOPROSI OTVETI FHD" tvg-logo="https://i.imgur.com/Ii20x5H.png" group-title="TOKEN",VOPROSI OTVETI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529467
+#EXTINF:-1 tvg-name="ZOO PARK" tvg-logo="https://i.imgur.com/WOWbQ3r.png" group-title="TOKEN",ZOO PARK
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529466
+#EXTINF:-1 tvg-name="✦●✦ KIDS ✦●✦" tvg-logo="https://i.imgur.com/ZwoRckY.png" group-title="TOKEN",✦●✦ KIDS ✦●✦
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50609
+#EXTINF:-1 tvg-name="TIJI FHD" tvg-logo="https://i.imgur.com/oeo8sFx.png" group-title="TOKEN",TIJI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529568
+#EXTINF:-1 tvg-name="STS KIDS HD" tvg-logo="https://i.imgur.com/pet5vn8.png" group-title="TOKEN",STS KIDS HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529567
+#EXTINF:-1 tvg-name="CTC KIDS HD" tvg-logo="https://i.imgur.com/pet5vn8.png" group-title="TOKEN",CTC KIDS HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529566
+#EXTINF:-1 tvg-name="BOOMERANG TV HD" tvg-logo="https://i.imgur.com/NzbwiFL.png" group-title="TOKEN",BOOMERANG TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529565
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/IeAskOm.png" group-title="TOKEN",DISNEY CHANNEL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529564
+#EXTINF:-1 tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/Cgr2w5d.png" group-title="TOKEN",CARTOON NETWORK FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529563
+#EXTINF:-1 tvg-name="MAMA FHD" tvg-logo="https://i.imgur.com/rB3IZNT.png" group-title="TOKEN",MAMA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529562
+#EXTINF:-1 tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/jA5Jja5.png" group-title="TOKEN",NICKELODEON HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529561
+#EXTINF:-1 tvg-name="NICKELODEON FHD" tvg-logo="https://i.imgur.com/Pgz4n1l.png" group-title="TOKEN",NICKELODEON FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529560
+#EXTINF:-1 tvg-name="NICK JUNIOR HD" tvg-logo="https://i.imgur.com/LW7rAkv.png" group-title="TOKEN",NICK JUNIOR HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529559
+#EXTINF:-1 tvg-name="MULTIMANIA FHD" tvg-logo="https://i.imgur.com/DNjYcsp.png" group-title="TOKEN",MULTIMANIA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529558
+#EXTINF:-1 tvg-name="2X2 FHD" tvg-logo="https://i.imgur.com/a1317cC.png" group-title="TOKEN",2X2 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529557
+#EXTINF:-1 tvg-name="JIMJAM FHD" tvg-logo="https://i.imgur.com/ldRlsqJ.png" group-title="TOKEN",JIMJAM FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529556
+#EXTINF:-1 tvg-name="JIM JAM HD" tvg-logo="https://i.imgur.com/GHIyXzq.png" group-title="TOKEN",JIM JAM HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529555
+#EXTINF:-1 tvg-name="KAPITAN FANTASTIKA FHD" tvg-logo="https://i.imgur.com/09oTSSw.png" group-title="TOKEN",KAPITAN FANTASTIKA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529553
+#EXTINF:-1 tvg-name="MULT FHD" tvg-logo="https://i.imgur.com/KRedZaZ.png" group-title="TOKEN",MULT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529552
+#EXTINF:-1 tvg-name="Mulytimaniya" tvg-logo="https://i.imgur.com/DNjYcsp.png" group-title="TOKEN",Mulytimaniya
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529551
+#EXTINF:-1 tvg-name="ANI" tvg-logo="https://i.imgur.com/mUxMR6S.png" group-title="TOKEN",ANI
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529550
+#EXTINF:-1 tvg-name="UNIKOM FHD" tvg-logo="https://i.imgur.com/il8fjKH.png" group-title="TOKEN",UNIKOM FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529549
+#EXTINF:-1 tvg-name="TLUM HD" tvg-logo="https://i.imgur.com/oJRd8jE.png" group-title="TOKEN",TLUM HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529548
+#EXTINF:-1 tvg-name="DETSKIJ FHD" tvg-logo="https://i.imgur.com/UDVaJci.png" group-title="TOKEN",DETSKIJ FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529547
+#EXTINF:-1 tvg-name="В гостях у сказки" tvg-logo="https://i.imgur.com/j2ppFJI.png" group-title="TOKEN",В гостях у сказки
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234159
+#EXTINF:-1 tvg-name="✦●✦ CINEMA ✦●✦" tvg-logo="https://i.imgur.com/GdDoEEu.png" group-title="TOKEN",✦●✦ CINEMA ✦●✦
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50575
+#EXTINF:-1 tvg-name="AMEDIA PREMIUM HD" tvg-logo="https://i.imgur.com/XSLuaSn.png" group-title="TOKEN",AMEDIA PREMIUM HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529684
+#EXTINF:-1 tvg-name="AMEDIA PREMIUM FHD" tvg-logo="https://i.imgur.com/tynJhET.png" group-title="TOKEN",AMEDIA PREMIUM FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529683
+#EXTINF:-1 tvg-name="AMEDIA HIT HD" tvg-logo="https://i.imgur.com/Ynqb5Gh.png" group-title="TOKEN",AMEDIA HIT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529682
+#EXTINF:-1 tvg-name="AMEDIA 1 FHD" tvg-logo="https://i.imgur.com/qIENrGG.png" group-title="TOKEN",AMEDIA 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529678
+#EXTINF:-1 tvg-name="AMEDIA 2 FHD" tvg-logo="https://i.imgur.com/Ccon7cq.png" group-title="TOKEN",AMEDIA 2 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529681
+#EXTINF:-1 tvg-name="BOLLYWOOD HD" tvg-logo="https://i.imgur.com/A21mgbN.png" group-title="TOKEN",BOLLYWOOD HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529680
+#EXTINF:-1 tvg-name="BOLLYWOOD HD" tvg-logo="https://i.imgur.com/A21mgbN.png" group-title="TOKEN",BOLLYWOOD HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529679
+#EXTINF:-1 tvg-name="VIP SERIAL HD" tvg-logo="https://i.imgur.com/hoozcGQ.png" group-title="TOKEN",VIP SERIAL HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529677
+#EXTINF:-1 tvg-name="VIP PREMIERE HD" tvg-logo="https://i.imgur.com/Ll68urz.png" group-title="TOKEN",VIP PREMIERE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529676
+#EXTINF:-1 tvg-name="VIP MEGAHIT HD" tvg-logo="https://i.imgur.com/ha8AR7J.png" group-title="TOKEN",VIP MEGAHIT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529675
+#EXTINF:-1 tvg-name="VIP COMEDY HD" tvg-logo="https://i.imgur.com/IzkjHsq.png" group-title="TOKEN",VIP COMEDY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529674
+#EXTINF:-1 tvg-name="VIJU TV1000 HD" tvg-logo="https://i.imgur.com/kNv1V3q.png" group-title="TOKEN",VIJU TV1000 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529673
+#EXTINF:-1 tvg-name="TV1000 RUSSKOJE KINO FHD" tvg-logo="https://i.imgur.com/rnmPZAu.png" group-title="TOKEN",TV1000 RUSSKOJE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529672
+#EXTINF:-1 tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://i.imgur.com/ha8AR7J.png" group-title="TOKEN",VIJU+ MEGAHIT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529671
+#EXTINF:-1 tvg-name="TV1000 COMEDY HD" tvg-logo="https://i.imgur.com/t74AC6Q.png" group-title="TOKEN",TV1000 COMEDY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529670
+#EXTINF:-1 tvg-name="TV1000 ACTION HD" tvg-logo="https://i.imgur.com/2haByQe.png" group-title="TOKEN",TV1000 ACTION HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529669
+#EXTINF:-1 tvg-name="VIJU TV1000 HD" tvg-logo="https://i.imgur.com/kNv1V3q.png" group-title="TOKEN",VIJU TV1000 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529668
+#EXTINF:-1 tvg-name="SONY TURBO HD" tvg-logo="https://i.imgur.com/oXekx4K.png" group-title="TOKEN",SONY TURBO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529667
+#EXTINF:-1 tvg-name="SCI-FI FHD" tvg-logo="https://i.imgur.com/RUyhXgE.png" group-title="TOKEN",SCI-FI FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529665
+#EXTINF:-1 tvg-name="SONY TURBO BLACK FHD" tvg-logo="https://i.imgur.com/MxcKaB8.png" group-title="TOKEN",SONY TURBO BLACK FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529664
+#EXTINF:-1 tvg-name="RUSSKIY EXTRIM HD" tvg-logo="https://i.imgur.com/ARFTodU.png" group-title="TOKEN",RUSSKIY EXTRIM HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529663
+#EXTINF:-1 tvg-name="Russkiy Detektiv" tvg-logo="https://i.imgur.com/UGhFQjs.png" group-title="TOKEN",Russkiy Detektiv
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529662
+#EXTINF:-1 tvg-name="RUSSIAN ILLUZION FHD" tvg-logo="https://i.imgur.com/dUJmQMi.png" group-title="TOKEN",RUSSIAN ILLUZION FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529661
+#EXTINF:-1 tvg-name="RUSSKIJ ROMAN FHD" tvg-logo="https://i.imgur.com/9uPRbzb.png" group-title="TOKEN",RUSSKIJ ROMAN FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529660
+#EXTINF:-1 tvg-name="RUSSKYAYA KOMEDIA FHD" tvg-logo="https://i.imgur.com/4y5EkcU.png" group-title="TOKEN",RUSSKYAYA KOMEDIA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529658
+#EXTINF:-1 tvg-name="VIJU SERIAL FHD" tvg-logo="https://i.imgur.com/957qTjz.png" group-title="TOKEN",VIJU SERIAL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529656
+#EXTINF:-1 tvg-name="SONY RED FHD" tvg-logo="https://i.imgur.com/p1MRtD1.png" group-title="TOKEN",SONY RED FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529655
+#EXTINF:-1 tvg-name="BCU ACTION FHD" tvg-logo="https://i.imgur.com/qFPBo7c.png" group-title="TOKEN",BCU ACTION FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529654
+#EXTINF:-1 tvg-name="BCU CINEMA FHD" tvg-logo="https://i.imgur.com/lJ9OtEI.png" group-title="TOKEN",BCU CINEMA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529653
+#EXTINF:-1 tvg-name="BCU CINEMA PLUS FHD" tvg-logo="https://i.imgur.com/A8lWTTa.png" group-title="TOKEN",BCU CINEMA PLUS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529652
+#EXTINF:-1 tvg-name="BCU COMEDY FHD" tvg-logo="https://i.imgur.com/g9uiP7v.png" group-title="TOKEN",BCU COMEDY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529651
+#EXTINF:-1 tvg-name="BCU KINORATING FHD" tvg-logo="https://i.imgur.com/I87gxeZ.png" group-title="TOKEN",BCU KINORATING FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529649
+#EXTINF:-1 tvg-name="BCU PREMIER 1 FHD" tvg-logo="https://i.imgur.com/5UrB3CR.png" group-title="TOKEN",BCU PREMIER 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529648
+#EXTINF:-1 tvg-name="BCU MULTSERIAL FHD" tvg-logo="https://i.imgur.com/H9BMadq.png" group-title="TOKEN",BCU MULTSERIAL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529644
+#EXTINF:-1 tvg-name="BCU ROMANTIC FHD" tvg-logo="https://i.imgur.com/DMg3tv7.png" group-title="TOKEN",BCU ROMANTIC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529643
+#EXTINF:-1 tvg-name="BCU SSSR FHD" tvg-logo="https://i.imgur.com/0k1LdNX.png" group-title="TOKEN",BCU SSSR FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529641
+#EXTINF:-1 tvg-name="KINEKO FHD" tvg-logo="https://i.imgur.com/hZp2Mv1.png" group-title="TOKEN",KINEKO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529638
+#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-logo="https://i.imgur.com/3aMfnuJ.png" group-title="TOKEN",HOLLYWOOD FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529637
+#EXTINF:-1 tvg-name="NASHE RODNOE KINO FHD" tvg-logo="https://i.imgur.com/X9LxVdN.png" group-title="TOKEN",NASHE RODNOE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529636
+#EXTINF:-1 tvg-name="NASHE NOVOE KINO FHD" tvg-logo="https://i.imgur.com/9usKrP0.png" group-title="TOKEN",NASHE NOVOE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529635
+#EXTINF:-1 tvg-name="NASHE LIUBIMOJE KINO FHD" tvg-logo="https://i.imgur.com/qmscf1u.png" group-title="TOKEN",NASHE LIUBIMOJE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529634
+#EXTINF:-1 tvg-name="NASH KINOROMAN FHD" tvg-logo="https://i.imgur.com/lp1Tjsz.png" group-title="TOKEN",NASH KINOROMAN FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529633
+#EXTINF:-1 tvg-name="PARAMOUNT COMEDY FHD" tvg-logo="https://i.imgur.com/WCXG7r3.png" group-title="TOKEN",PARAMOUNT COMEDY FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529632
+#EXTINF:-1 tvg-name="OSTROSYUZHETNOYE KINO HD" tvg-logo="https://i.imgur.com/P0i3aqQ.png" group-title="TOKEN",OSTROSYUZHETNOYE KINO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529631
+#EXTINF:-1 tvg-name="MUZHSKOE KINO FHD" tvg-logo="https://i.imgur.com/5eLM5kV.png" group-title="TOKEN",MUZHSKOE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529630
+#EXTINF:-1 tvg-name="INDIJSKOE KINO FHD" tvg-logo="https://i.imgur.com/DdphcFY.png" group-title="TOKEN",INDIJSKOE KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529629
+#EXTINF:-1 tvg-name="NST TV HD" tvg-logo="https://i.imgur.com/NhdtCMM.png" group-title="TOKEN",NST TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529628
+#EXTINF:-1 tvg-name="NASHE KRUTE HD" tvg-logo="https://i.imgur.com/nYCoN5A.png" group-title="TOKEN",NASHE KRUTE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529626
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/6qYXBE7.png" group-title="TOKEN",AMC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529625
+#EXTINF:-1 tvg-name="A1 HD" tvg-logo="https://i.imgur.com/pZoZPQj.png" group-title="TOKEN",A1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529624
+#EXTINF:-1 tvg-name="KINOKOMEDIA HD" tvg-logo="https://i.imgur.com/rQHPKJt.png" group-title="TOKEN",KINOKOMEDIA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529622
+#EXTINF:-1 tvg-name="KINOUJAS FHD" tvg-logo="https://i.imgur.com/AKBaGaW.png" group-title="TOKEN",KINOUJAS FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529621
+#EXTINF:-1 tvg-name="SHOKIRUYUSCHEE FHD" tvg-logo="https://i.imgur.com/0oNvUKe.png" group-title="TOKEN",SHOKIRUYUSCHEE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529620
+#EXTINF:-1 tvg-name="ZEE TV FHD" tvg-logo="https://i.imgur.com/0dpy1DO.png" group-title="TOKEN",ZEE TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529619
+#EXTINF:-1 tvg-name="SHOT TV FHD" tvg-logo="https://i.imgur.com/FwGmmz2.png" group-title="TOKEN",SHOT TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529618
+#EXTINF:-1 tvg-name="SERIAL FHD" tvg-logo="https://i.imgur.com/VNujodr.png" group-title="TOKEN",SERIAL FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529617
+#EXTINF:-1 tvg-name="MIR SERIALA FHD" tvg-logo="https://i.imgur.com/VDEpOkd.png" group-title="TOKEN",MIR SERIALA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529616
+#EXTINF:-1 tvg-name="KONNIY MIR HD" tvg-logo="https://i.imgur.com/yeibjKj.png" group-title="TOKEN",KONNIY MIR HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529615
+#EXTINF:-1 tvg-name="KOMEDIJA TV FHD" tvg-logo="https://i.imgur.com/5xNoa7K.png" group-title="TOKEN",KOMEDIJA TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529614
+#EXTINF:-1 tvg-name="KINOSVIDANIE HD" tvg-logo="https://i.imgur.com/OJpx6JK.png" group-title="TOKEN",KINOSVIDANIE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529613
+#EXTINF:-1 tvg-name="KINOSERIJA HD" tvg-logo="https://i.imgur.com/5tVueX9.png" group-title="TOKEN",KINOSERIJA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529612
+#EXTINF:-1 tvg-name="KINOSERIJA HD" tvg-logo="https://i.imgur.com/5tVueX9.png" group-title="TOKEN",KINOSERIJA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529611
+#EXTINF:-1 tvg-name="KINOPREMIERA HD" tvg-logo="https://i.imgur.com/IjvHlHg.png" group-title="TOKEN",KINOPREMIERA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529610
+#EXTINF:-1 tvg-name="KINOPOKAZ 2 HD" tvg-logo="https://i.imgur.com/2tI6Zu1.png" group-title="TOKEN",KINOPOKAZ 2 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529609
+#EXTINF:-1 tvg-name="KINOMIX FHD" tvg-logo="https://i.imgur.com/Q2C8uHF.png" group-title="TOKEN",KINOMIX FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529608
+#EXTINF:-1 tvg-name="KINOKOMEDIA TV HD" tvg-logo="https://i.imgur.com/UliHCeC.png" group-title="TOKEN",KINOKOMEDIA TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529607
+#EXTINF:-1 tvg-name="KINOHIT FHD" tvg-logo="https://i.imgur.com/fdXmT8U.png" group-title="TOKEN",KINOHIT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529606
+#EXTINF:-1 tvg-name="KINO TV HD" tvg-logo="https://i.imgur.com/N4CXakx.png" group-title="TOKEN",KINO TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529605
+#EXTINF:-1 tvg-name="FENIX + KINO FHD" tvg-logo="https://i.imgur.com/3n5rudb.png" group-title="TOKEN",FENIX + KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529604
+#EXTINF:-1 tvg-name="FENIKS+KINO HD" tvg-logo="https://i.imgur.com/RWhxQi9.png" group-title="TOKEN",FENIKS+KINO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529603
+#EXTINF:-1 tvg-name="EVROKINO HD" tvg-logo="https://i.imgur.com/vKM6cxU.png" group-title="TOKEN",EVROKINO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529602
+#EXTINF:-1 tvg-name="DOM_KINO PREMIUM HD" tvg-logo="https://i.imgur.com/2O3ItZR.png" group-title="TOKEN",DOM_KINO PREMIUM HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529601
+#EXTINF:-1 tvg-name="SCARRY MOVIE HD" tvg-logo="https://i.imgur.com/BzI9OMO.png" group-title="TOKEN",SCARRY MOVIE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529600
+#EXTINF:-1 tvg-name="DOM KINO FHD" tvg-logo="https://i.imgur.com/cHvMP8z.png" group-title="TOKEN",DOM KINO FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529599
+#EXTINF:-1 tvg-name="DORAMA FHD" tvg-logo="https://i.imgur.com/l1dCa9f.png" group-title="TOKEN",DORAMA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529598
+#EXTINF:-1 tvg-name="✦●✦ SPORT ✦●✦" tvg-logo="https://pxpicon.xyz/parsx/parsxcountrypicons/Russland.png" group-title="TOKEN",✦●✦ SPORT ✦●✦
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529569
+#EXTINF:-1 tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/xZVMSlJ.png" group-title="TOKEN",EUROSPORT 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529590
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/9WUtt5r.png" group-title="TOKEN",EUROSPORT 1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529591
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/Ux87hkW.png" group-title="TOKEN",EUROSPORT 2 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529592
+#EXTINF:-1 tvg-name="VIJU + SPORT HD" tvg-logo="https://i.imgur.com/d3XVAv1.png" group-title="TOKEN",VIJU + SPORT HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529597
+#EXTINF:-1 tvg-name="VIJU + SPORT FHD" tvg-logo="https://i.imgur.com/cOHRDKo.png" group-title="TOKEN",VIJU + SPORT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529596
+#EXTINF:-1 tvg-name="SETANTA SPORT 2 FHD" tvg-logo="https://i.imgur.com/g40DYwA.png" group-title="TOKEN",SETANTA SPORT 2 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529594
+#EXTINF:-1 tvg-name="SETANTA SPORTS 1 FHD" tvg-logo="https://i.imgur.com/g40DYwA.png" group-title="TOKEN",SETANTA SPORTS 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529593
+#EXTINF:-1 tvg-name="MOTORSPORT TV FHD" tvg-logo="https://i.imgur.com/Utc14A9.png" group-title="TOKEN",MOTORSPORT TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529589
+#EXTINF:-1 tvg-name="MATCH_BOEC" tvg-logo="https://i.imgur.com/eA4BWU8.png" group-title="TOKEN",MATCH_BOEC
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529588
+#EXTINF:-1 tvg-name="MIR BASKETBOLA FHD" tvg-logo="https://i.imgur.com/jaGT6BB.png" group-title="TOKEN",MIR BASKETBOLA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529587
+#EXTINF:-1 tvg-name="MATCH PREMIER FHD" tvg-logo="https://i.imgur.com/0yWjKWb.png" group-title="TOKEN",MATCH PREMIER FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529586
+#EXTINF:-1 tvg-name="Match! Premiere FHD" tvg-logo="https://i.imgur.com/0yWjKWb.png" group-title="TOKEN",Match! Premiere FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529585
+#EXTINF:-1 tvg-name="MATCH TV FHD" tvg-logo="https://i.imgur.com/yPHZUa5.png" group-title="TOKEN",MATCH TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529584
+#EXTINF:-1 tvg-name="MATCH STRANA HD" tvg-logo="https://i.imgur.com/mo9RIdQ.png" group-title="TOKEN",MATCH STRANA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529583
+#EXTINF:-1 tvg-name="MATCH NASH SPORT FHD" tvg-logo="https://i.imgur.com/IzCPSr2.png" group-title="TOKEN",MATCH NASH SPORT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529582
+#EXTINF:-1 tvg-name="MATCH IGRA HD" tvg-logo="https://i.imgur.com/Mqtrfrz.png" group-title="TOKEN",MATCH IGRA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529581
+#EXTINF:-1 tvg-name="MATCH IGRA FHD" tvg-logo="https://i.imgur.com/opHNe9A.png" group-title="TOKEN",MATCH IGRA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529580
+#EXTINF:-1 tvg-name="MATCH ARENA HD" tvg-logo="https://i.imgur.com/LNNLyoH.png" group-title="TOKEN",MATCH ARENA HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529573
+#EXTINF:-1 tvg-name="MATCH ARENA FHD" tvg-logo="https://i.imgur.com/419yZYK.png" group-title="TOKEN",MATCH ARENA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529572
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 1 FHD" tvg-logo="https://i.imgur.com/yAcdFPN.png" group-title="TOKEN",MATCH FOOTBALL 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529575
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 1 FHD" tvg-logo="https://i.imgur.com/yAcdFPN.png" group-title="TOKEN",MATCH FOOTBALL 1 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529574
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 2 FHD" tvg-logo="https://i.imgur.com/Dj1hFu8.png" group-title="TOKEN",MATCH FOOTBALL 2 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529577
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 2 HD" tvg-logo="https://i.imgur.com/6Q3Q7dG.png" group-title="TOKEN",MATCH FOOTBALL 2 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529576
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 3 FHD" tvg-logo="https://i.imgur.com/54F5s5A.png" group-title="TOKEN",MATCH FOOTBALL 3 FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529579
+#EXTINF:-1 tvg-name="MATCH FOOTBALL 3 HD" tvg-logo="https://i.imgur.com/Oeiawbr.png" group-title="TOKEN",MATCH FOOTBALL 3 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529578
+#EXTINF:-1 tvg-name="Match Football 1" tvg-logo="https://i.imgur.com/ysFpPDp.png" group-title="TOKEN",Match Football 1
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50591
+#EXTINF:-1 tvg-name="Match Football 2" tvg-logo="https://i.imgur.com/6Q3Q7dG.png" group-title="TOKEN",Match Football 2
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50590
+#EXTINF:-1 tvg-name="Match Football 3" tvg-logo="https://i.imgur.com/Oeiawbr.png" group-title="TOKEN",Match Football 3
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/50589
+#EXTINF:-1 tvg-name="BOKS TV FHD" tvg-logo="https://i.imgur.com/JbuD07X.png" group-title="TOKEN",BOKS TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529570
+#EXTINF:-1 tvg-name="✦●✦ MUSIC ✦●✦" tvg-logo="" group-title="TOKEN",✦●✦ MUSIC ✦●✦
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/53462
+#EXTINF:-1 tvg-name="TNT MUSIC FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/TNTMUSIC.png" group-title="TOKEN",TNT MUSIC FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529545
+#EXTINF:-1 tvg-name="RUSSIAN MUSICBOX FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/russianmusci.png" group-title="TOKEN",RUSSIAN MUSICBOX FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529544
+#EXTINF:-1 tvg-name="BRIDGE TV HITS HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/BridgeHits2021.png" group-title="TOKEN",BRIDGE TV HITS HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529543
+#EXTINF:-1 tvg-name="BRIDGE TV RUSSKIY HIT FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/BridgeHits2021.png" group-title="TOKEN",BRIDGE TV RUSSKIY HIT FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529542
+#EXTINF:-1 tvg-name="BRIDGE TV DANCE FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/bridgetv.png" group-title="TOKEN",BRIDGE TV DANCE FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529541
+#EXTINF:-1 tvg-name="BRIDGE TV HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/btv.png" group-title="TOKEN",BRIDGE TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529540
+#EXTINF:-1 tvg-name="MULT I MUZIKA FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/myumuzika.png" group-title="TOKEN",MULT I MUZIKA FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529539
+#EXTINF:-1 tvg-name="EUROPA PLUS TV FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/europa-plus-tv.png" group-title="TOKEN",EUROPA PLUS TV FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529538
+#EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/mtvlive.png" group-title="TOKEN",MTV LIVE HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529537
+#EXTINF:-1 tvg-name="FIRST MUSIC CHANNEL 1BY HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/1_music_channel.logo.png" group-title="TOKEN",FIRST MUSIC CHANNEL 1BY HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529536
+#EXTINF:-1 tvg-name="RUSSIAN MUSIC BOX FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/musicbox.png" group-title="TOKEN",RUSSIAN MUSIC BOX FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529535
+#EXTINF:-1 tvg-name="MEZZO HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/mezzo%20(1).png" group-title="TOKEN",MEZZO HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529534
+#EXTINF:-1 tvg-name="MCM TOP FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/MCM_Top.png" group-title="TOKEN",MCM TOP FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529533
+#EXTINF:-1 tvg-name="JARA TV HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/jaratv.jpg" group-title="TOKEN",JARA TV HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529532
+#EXTINF:-1 tvg-name="1 HD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/onelog.jpg" group-title="TOKEN",1 HD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529531
+#EXTINF:-1 tvg-name="LA MINOR FHD" tvg-logo="http://onecentcdn.com/newpicon/russia_logo/lamino.png" group-title="TOKEN",LA MINOR FHD
+http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529529
+
+
+
+
 
 
 
