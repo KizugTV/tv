@@ -6625,7 +6625,7 @@ http://57.129.52.16/8991/index.m3u8
 http://57.129.52.16/8807/index.m3u8
 #EXTINF:0 tvg-id="cineman-simps" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-simps.png",CineMan Симпсоны
 http://57.129.52.16/8833/index.m3u8
-#EXTINF:0 tvg-id="cinema-ru" group-title="🧩Кино Сериал🧩" tvg-logo="https://ip-tv.dev/epg/icon/cinema.png",Cinema
+#EXTINF:0 tvg-id="cinema-ru" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/epg/icon/cinema.png",Cinema
 http://57.129.52.16/8949/index.m3u8
 #EXTINF:0 tvg-id="cineman-thriller" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-thriller.png",CineMan Thriller
 http://57.129.52.16/8954/index.m3u8
