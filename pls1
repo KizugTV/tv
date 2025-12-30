@@ -110,8 +110,13 @@ https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
 
 
 
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/W2qz5a4.png",TV Sinamo
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/YzkwTHb.png",TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8
 
-
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/WWPIziG.png",Dushanbe
+https://live.teleradiocom.tj/7/3m.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:-1 group-title="ТЕСТ",VB Новогодний
@@ -1044,6 +1049,42 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B14/DaVinchiLearningNTV/video.m3u8?token=
 
 
 
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Christian Youth Channel
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Clan
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",ČT:D/ČT art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Minimax
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Spacetoon Arabic
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Taha TV
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
@@ -1386,6 +1427,9 @@ http://190.83.9.222:4022/udp/234.0.0.88:2078
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://tvradioo.ru/wp-content/uploads/2023/01/icon-tv-white.png", Manas
 #EXTVLCOPT:http-user-agent=KizugTV
 http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music",YAAAS!
+https://jmp2.uk/stvp-GB340000289
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music", BOM CHANNEL
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
@@ -3961,6 +4005,8 @@ http://213.169.39.30:5211
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Eurosport_2 🇨🇿
 http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-logo="https://i.imgur.com/RngmCDn.png",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Fox Sports 501
 http://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Fox Sports 502
@@ -6532,6 +6578,198 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.
 
 
 
+
+
+
+
+
+
+
+#EXTINF:0 tvg-name="kernel-newmovies" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-newmovies.png",Kernel TV Новинки
+http://57.129.52.16/9077/index.m3u8
+#EXTINF:0 tvg-id="kernel-zvezdnyevojny" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-zvezdnyevojny.png",Kernel TV Интерны
+http://57.129.52.16/9061/index.m3u8
+#EXTINF:0 tvg-id="kernel-marveldc" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-marveldc.png",Kernel TV Сваты
+http://57.129.52.16/9080/index.m3u8
+#EXTINF:0 tvg-id="kernel-marvelser" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-marvelser.png",Kernel TV Мервел сериалы
+http://57.129.52.16/9073/index.m3u8
+#EXTINF:0 tvg-id="kernel-komedia" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-komedia.png",Kernel TV Комедия
+http://57.129.52.16/9063/index.m3u8
+#EXTINF:0 tvg-id="kernel-doktor" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-doktor.png",Kernel TV Доктор
+http://57.129.52.16/9058/index.m3u8
+#EXTINF:0 tvg-id="kernel-kosmos" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-kosmos.png",Kernel TV Космос
+http://57.129.52.16/9064/index.m3u8
+#EXTINF:0 tvg-id="kernel-vremia" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-vremia.png",Kernel TV Время
+http://57.129.52.16/9054/index.m3u8
+#EXTINF:0 tvg-id="kernel-geroj" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/kernel-geroj.png",Kernel TV Герой
+http://57.129.52.16/9055/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm-ru" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilmru.png",MM NewFilm RU HD
+http://57.129.52.16/8706/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm1" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm1.png",MM NewFilm 1 HD
+http://57.129.52.16/8741/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm2" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm2.png",MM NewFilm 2 HD
+http://57.129.52.16/8742/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm3" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm3.png",MM NewFilm 3 HD
+http://57.129.52.16/8743/index.m3u8
+#EXTINF:0 tvg-id="nashe-muzhskoe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png",Наше Мужское HD
+http://57.129.52.16/8740/index.m3u8
+#EXTINF:0 tvg-id="minimax-honey" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-honey.png",MM Honey HD
+http://57.129.52.16/8895/index.m3u8
+#EXTINF:0 tvg-id="minimax-drama" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-drama.png",MM Драма HD
+http://57.129.52.16/8634/index.m3u8
+#EXTINF:0 tvg-id="minimax-makromir" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-makromir.png",MM Макромир HD
+http://57.129.52.16/8636/index.m3u8
+#EXTINF:0 tvg-id="minimax-celebrity" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-celebrity.png",MM Celebrity HD
+http://57.129.52.16/8991/index.m3u8
+#EXTINF:0 tvg-id="cineman-vhs" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-vhs.png",CineMan VHS
+http://57.129.52.16/8807/index.m3u8
+#EXTINF:0 tvg-id="cineman-simps" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-simps.png",CineMan Симпсоны
+http://57.129.52.16/8833/index.m3u8
+#EXTINF:0 tvg-id="cinema-ru" group-title="🧩Кино Сериал🧩" tvg-logo="https://ip-tv.dev/epg/icon/cinema.png",Cinema
+http://57.129.52.16/8949/index.m3u8
+#EXTINF:0 tvg-id="cineman-thriller" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-thriller.png",CineMan Thriller
+http://57.129.52.16/8954/index.m3u8
+#EXTINF:0 tvg-id="cineman-miniseries" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-miniseries.png",CineMan MiniSerie
+http://57.129.52.16/8961/index.m3u8
+#EXTINF:0 tvg-id="cineman-rukino" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png",CineMan РуКино
+http://57.129.52.16/8871/index.m3u8
+#EXTINF:0 tvg-id="box-zombie" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-zombie.png",BOX Zombie HD
+http://57.129.52.16/8418/index.m3u8
+#EXTINF:0 tvg-id="box-stories" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-stories.png",BOX Stories HD
+http://57.129.52.16/8429/index.m3u8
+#EXTINF:0 tvg-id="box-gangster" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-gangster.png",BOX Gangster HD
+http://57.129.52.16/8985/index.m3u8
+#EXTINF:0 tvg-id="box-serial" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-serial4k.png",BOX Serial HD
+http://57.129.52.16/8988/index.m3u8
+#EXTINF:0 tvg-id="bcu-kids-plus" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-kids-plus.png",BCU Kids+ HD
+http://57.129.52.16/8454/index.m3u8
+#EXTINF:0 tvg-id="bcu-kinorating" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-kinorating.png",BCU Kinorating HD
+http://57.129.52.16/8455/index.m3u8
+#EXTINF:0 tvg-id="bcu-catastrophe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-catastrophe.png",BCU Catastrophe HD
+http://57.129.52.16/8877/index.m3u8
+#EXTINF:0 tvg-id="bcu-romantic" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-romantic.png",BCU Romantic HD
+http://57.129.52.16/8884/index.m3u8
+#EXTINF:0 tvg-id="bcu-svaty" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png",BCU СВАТЫ HD
+http://57.129.52.16/8889/index.m3u8
+#EXTINF:0 tvg-id="box-spy" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-spy.png",BOX Spy HD
+http://57.129.52.16/8354/index.m3u8
+#EXTINF:0 tvg-id="box-travel" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-travel.png",BOX Travel HD
+http://57.129.52.16/8416/index.m3u8
+#EXTINF:0 tvg-id="box-zombie" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-zombie.png",BOX Zombie HD
+http://57.129.52.16/8418/index.m3u8
+#EXTINF:0 tvg-id="box-stories" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-stories.png",BOX Stories HD
+http://57.129.52.16/8429/index.m3u8
+#EXTINF:0 tvg-id="box-gangster" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-gangster.png",BOX Gangster HD
+http://57.129.52.16/8985/index.m3u8
+#EXTINF:0 tvg-id="box-serial" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-serial4k.png",BOX Serial HD
+http://57.129.52.16/8988/index.m3u8
+#EXTINF:0 tvg-id="bcu-kids-plus" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-kids-plus.png",BCU Kids+ HD
+http://57.129.52.16/8454/index.m3u8
+#EXTINF:0 tvg-id="bcu-kinorating" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-kinorating.png",BCU Kinorating HD
+http://57.129.52.16/8455/index.m3u8
+#EXTINF:0 tvg-id="bcu-catastrophe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-catastrophe.png",BCU Catastrophe HD
+http://57.129.52.16/8877/index.m3u8
+#EXTINF:0 tvg-id="bcu-romantic" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-romantic.png",BCU Romantic HD
+http://57.129.52.16/8884/index.m3u8
+#EXTINF:0 tvg-id="bcu-svaty" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png",BCU СВАТЫ HD
+http://57.129.52.16/8889/index.m3u8
+#EXTINF:0 tvg-id="nashe-muzhskoe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png",Наше Мужское HD
+http://57.129.52.16/8740/index.m3u8
+#EXTINF:0 tvg-id="minimax-honey" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-honey.png",MM Honey HD
+http://57.129.52.16/8895/index.m3u8
+#EXTINF:0 tvg-id="minimax-drama" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-drama.png",MM Драма HD
+http://57.129.52.16/8634/index.m3u8
+#EXTINF:0 tvg-id="minimax-makromir" group-title=""🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-makromir.png",MM Макромир HD
+http://57.129.52.16/8636/index.m3u8
+#EXTINF:0 tvg-id="minimax-celebrity" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-celebrity.png",MM Celebrity HD
+http://57.129.52.16/8991/index.m3u8
+#EXTINF:0 tvg-id="cineman-vhs" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-vhs.png",CineMan VHS
+http://57.129.52.16/8807/index.m3u8
+#EXTINF:0 tvg-id="cineman-simps" group-title="🎄Kинозалы_TEST"" tvg-logo="https://ip-tv.dev/images/ico/cineman-simps.png",CineMan Симпсоны
+http://57.129.52.16/8833/index.m3u8
+#EXTINF:0 tvg-id="cineman-thriller" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-thriller.png",CineMan Thriller
+http://57.129.52.16/8954/index.m3u8
+#EXTINF:0 tvg-id="cineman-miniseries" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-miniseries.png",CineMan MiniSerie
+http://57.129.52.16/8961/index.m3u8
+#EXTINF:0 tvg-id="cineman-rukino" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png",CineMan РуКино
+http://57.129.52.16/8871/index.m3u8
+#EXTINF:0 tvg-id="box-spy" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-spy.png",BOX Spy HD
+http://57.129.52.16/8354/index.m3u8
+#EXTINF:0 tvg-id="box-travel" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-travel.png",BOX Travel HD
+http://57.129.52.16/8416/index.m3u8
+#EXTINF:0 tvg-id="box-zombie" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-zombie.png",BOX Zombie HD
+http://57.129.52.16/8418/index.m3u8
+#EXTINF:0 tvg-id="box-stories" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-stories.png",BOX Stories HD
+http://57.129.52.16/8429/index.m3u8
+#EXTINF:0 tvg-id="box-gangster" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-gangster.png",BOX Gangster HD
+http://57.129.52.16/8985/index.m3u8
+#EXTINF:0 tvg-id="box-serial" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/box-serial4k.png",BOX Serial HD
+http://57.129.52.16/8988/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm-ru" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilmru.png",MM NewFilm RU HD
+http://57.129.52.16/8706/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm1" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm1.png",MM NewFilm 1 HD
+http://57.129.52.16/8741/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm2" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm2.png",MM NewFilm 2 HD
+http://57.129.52.16/8742/index.m3u8
+#EXTINF:0 tvg-id="mm-newfilm3" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm3.png",MM NewFilm 3 HD
+http://57.129.52.16/8743/index.m3u8
+#EXTINF:0 audio-track="ru" tvg-id="no_epg_cinema" group-title="🎄Kинозалы_TEST" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Kinoteatr
+http://57.129.52.16/8222/index.m3u8
+#EXTINF:0 audio-track="ru" tvg-id="filmzone-lv" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/filmzone.png",FilmZone HD
+http://57.129.52.16/9032/index.m3u8
+#EXTINF:0 audio-track="ru" tvg-id="sony-turbo-baltic" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/duo6tv.png",Duo 6
+http://57.129.52.16/8756/index.m3u8
+#EXTINF:0 audio-track="ru" tvg-id="etv-plus-ee" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/epg/6973.png", Plus HD
+http://57.129.52.16/9219/index.m3u8
+
+
+#EXTINF:0 tvg-id="bcu-kinorating" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-kinorating.png",BCU Kinorating HD
+http://57.129.52.16/8455/index.m3u8
+#EXTINF:0 tvg-id="bcu-catastrophe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-catastrophe.png",BCU Catastrophe HD
+http://57.129.52.16/8877/index.m3u8
+#EXTINF:0 tvg-id="bcu-romantic" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-romantic.png",BCU Romantic HD
+http://57.129.52.16/8884/index.m3u8
+#EXTINF:0 tvg-id="bcu-svaty" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png",BCU СВАТЫ HD
+http://57.129.52.16/8889/index.m3u8
+#EXTINF:0 group-title="🎄Kинозалы_TEST" tvg-id="prodvizhenie" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Продвижение 
+http://57.129.52.16/8665/index.m3u8
+#EXTINF:0 tvg-id="nashe-muzhskoe" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png",Наше Мужское HD
+http://57.129.52.16/8740/index.m3u8
+#EXTINF:0 tvg-id="minimax-honey" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-honey.png",MM Honey HD
+http://57.129.52.16/8895/index.m3u8
+#EXTINF:0 tvg-id="minimax-drama" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-drama.png",MM Драма HD
+http://57.129.52.16/8634/index.m3u8
+#EXTINF:0 tvg-id="minimax-makromir" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-makromir.png",MM Макромир HD
+http://57.129.52.16/8636/index.m3u8
+#EXTINF:0 tvg-id="minimax-celebrity" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/minimax-celebrity.png",MM Celebrity HD
+http://57.129.52.16/8991/index.m3u8
+#EXTINF:0 tvg-id="cineman-vhs" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-vhs.png",CineMan VHS
+http://57.129.52.16/8807/index.m3u8
+#EXTINF:0 tvg-id="cineman-thriller" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-thriller.png",CineMan Thriller
+http://57.129.52.16/8954/index.m3u8
+#EXTINF:0 tvg-id="cineman-miniseries" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-miniseries.png",CineMan MiniSerie
+http://57.129.52.16/8961/index.m3u8
+#EXTINF:0 tvg-id="cineman-rukino" group-title="🎄Kинозалы_TEST" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png",CineMan РуКино
+http://57.129.52.16/8871/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="INFOLADA",МАШИНА ВРЕМЕНИ
 http://178.163.12.221:4022/udp/234.0.0.190:2000
 #EXTINF:-1 group-title="INFOLADA",Калейдоскоп
@@ -8911,12 +9149,17 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4
+http://cdn.voka.tv/live/2012-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Могилев
 http://cdn.voka.tv/live/2097-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Витебск
 http://cdn.voka.tv/live/2012-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Брест
 http://cdn.voka.tv/live/2013-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 ГОМЕЛЬ
+http://cdn.voka.tv/live/2011-req_5k_v5.m3u8
 
 #EXTINF:-1 group-title="Беларусь 🇧🇾", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
@@ -8948,7 +9191,8 @@ http://cdn.voka.tv/live/6239-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ2 Могилев
 http://cdn.voka.tv/live/1013-req_5k_v5.m3u8
 
-
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ-21M
+http://cdn.voka.tv/live/2018-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
 http://cdn.voka.tv/live/2023-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",МУви ТВ
@@ -8965,7 +9209,22 @@ http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
 http://cdn.voka.tv/live/7001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",8 канал Беларусь
 http://cdn.voka.tv/live/962-req_5k_v5.m3u8
-
+#EXTINF:-1 group-title="Беларусь 🇧🇾",НТВ СЕРИАЛ
+http://cdn.voka.tv/live/2065-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",CINEMA
+http://cdn.voka.tv/live/2092-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",MMA-TV
+http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ДОМАШНИЕ ЖИВОТНЫЕ
+http://cdn.voka.tv/live/2112-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ДИКАЯ РЫБАЛКА HD
+http://cdn.voka.tv/live/2324-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ДИКАЯ ОХОТА HD
+http://cdn.voka.tv/live/2325-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЛЁВА
+http://cdn.voka.tv/live/2424-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ТЕЛЕКАФЕ
+http://cdn.voka.tv/live/2812-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",СТС KIDS
 http://cdn.voka.tv/live/1448-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
