@@ -108,7 +108,8 @@ https://homtv.ru/wp-content/uploads/2025/12/iowa-ulybajsya.mp4
 
 
 
-
+#EXTINF:-1 group-title="ТЕСТ", BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/W2qz5a4.png",TV Sinamo
 https://live.teleradiocom.tj/6/3m.m3u8
@@ -124,6 +125,8 @@ http://hls.goodgame.ru:8080/hls/198088.m3u8
 #EXTINF:-1 group-title="ТЕСТ",BCU Christmas
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 
+#EXTINF:-1 group-title="ТЕСТ",Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://s2.radikal.cloud/2025/12/14/STREAM51f7085d92054c33.png",Dimpon HD
 http://hls.goodgame.ru:8080/hls/210470.m3u8
@@ -152,8 +155,7 @@ http://cdn.admuspeh.my/8643/video.m3u8?token=gsVBYSARJmsVxpVF
 http://cdn.admuspeh.my/8647/video.m3u8?token=gsVBYSARJmsVxpVF
 #EXTINF:-1 group-title="ТЕСТ" ,Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ",Epic
-http://193.25.8.59:8000/dtx
+
 #EXTINF:-1 group-title="ТЕСТ",Exclusiv TV Comrat
 http://188.138.130.175:5004/
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал❄️1
@@ -371,60 +373,6 @@ http://hls.goodgame.ru:8080/hls/177016.m3u8
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Концерт
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Deep House
-http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Драмы
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Fantastic HD
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Gamefilm
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Кино Франшизы
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Путешествие
-http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Семейный
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Русский сериал
-http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4K Walt Disney
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k World Music
-http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 group-title="ТЕСТ", Clarity4k Звериный мир
-http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ", VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
@@ -697,6 +645,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6002
 
 #EXTINF:-1 group-title="✅Новости", Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
+
 #EXTINF:-1 group-title="✅Новости", Про Бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 
@@ -820,6 +769,9 @@ http://178.163.12.221:4022/udp/234.0.0.210:2000
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 
+#EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
+http://95.66.188.74/RYZHIY/mono.m3u8
+
 #EXTINF:-1 group-title="👶Детские", Капитан Фантастика
 https://jekalich.github.io/smtk/channels/ginger-hd.m3u8
 
@@ -891,10 +843,10 @@ http://158.101.222.193:88/georgia_play.php?id=unikum
 http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
-
+https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="nickelodeon-ru", Nickelodeon
-
+https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="👶Детские", СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
@@ -3010,7 +2962,7 @@ https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 
 
 #EXTINF:-1 group-title="⚡Познавательные", Ep!c
-https://stream-msk-19.ott.tricolor.tv/dtv/id1011_MSKSG-PVR-1--Epic_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
+http://193.25.8.59:8000/dtx
 
 #EXTINF:-1 tvg-id="bobior" group-title="⚡Познавательные", Бобёр
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -3059,6 +3011,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m
 http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="eda", Еда
 http://stream-msk-01.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
+
+#EXTINF:-1 group-title="⚡Познавательные", Еда Премиум Международный
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="eda-hd", FoodTime
 http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -3139,9 +3094,11 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3
 #EXTINF:-1 group-title="⚡Познавательные", Глазами туриста HD
 https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
+#EXTINF:-1 group-title="⚡Познавательные", Глазами Туриста HD
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+
 #EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://masterpiecer-images.s3.yandex.net/7967a04a458a11eeaa77b29646062438:upscaled",По горам по полям
 https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
-
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="CGTN-Русский", CGTN русский
 http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -3173,7 +3130,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c438
 http://2.57.217.85:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные", CURIOSITY STREAM HD orig
-
+http://cdn.voka.tv/live/994-req_5k_v5.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные",Терра Инкогнита HD
 http://178.124.153.123:44400/terra
@@ -3208,17 +3165,23 @@ https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:-1 group-title="⚡Познавательные", Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
 
+#EXTINF:-1 group-title="⚡Познавательные", National Geographic Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
 #EXTINF:-1 group-title="⚡Познавательные", Nat Geo
 http://185.164.82.18:9010/ykMHqK_NatGeo
+
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="discovery-channel", Discovery Channel
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="discovery-channel", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 
 #EXTINF:-1 group-title="⚡Познавательные",National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 
-
-#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet
-http://146.120.14.239:3001/play/a06z
+#EXTINF:-1 group-title="⚡Познавательные" tvg-logo="http://only4.tv/ch/801.png", Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные",Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
@@ -3281,8 +3244,8 @@ https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/pl
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", Охота и рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные", Дикий
-
+#EXTINF:-1 group-title="⚡Познавательные", Дикий охота и рыбалка
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -3442,7 +3405,7 @@ http://85.88.175.48:2020/udp/239.4.10.79:2020
 http://178.212.71.253:8000/play/118/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт",Окко.Прайм Спорт
-
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", МЯЧ
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -3452,6 +3415,9 @@ http://195.26.83.96:7007/play/4/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
 http://85.88.175.48:2020/udp/239.4.10.80:2020
+
+#EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
+http://195.158.223.132:8009/KHL
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
@@ -3491,6 +3457,9 @@ https://stream-msk-07.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/04/pl
 #EXTINF:-1 group-title="🏆Спорт", СТАРТ HD
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 
+#EXTINF:-1 group-title="🏆Спорт", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+
 #EXTINF:-1 group-title="🏆Спорт", Старт Триумф
 
 
@@ -3504,7 +3473,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png", FightBox
-
+http://193.25.8.59:8000/box
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png",Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
@@ -3539,6 +3508,7 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="Extreme Sports" ,Extreme Sports HD
+http://45.11.139.43:8555/extsport/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", SETANTA SPORT 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
@@ -3582,6 +3552,15 @@ http://7pal.short.gy/eusport4k
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 
@@ -3591,12 +3570,11 @@ http://85.88.175.48:2020/udp/239.4.10.83:2020
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 
-
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-
+http://vod1.stb.tvime.ru/MATCh_Premer_HD/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер HD
-
+http://vod1.stb.tvime.ru/MATCh_Premer_HD/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч!
 http://tv.tuva.ru/machtv/index.m3u8
@@ -4122,6 +4100,8 @@ http://185.188.188.237:5000/live/novasport1/playlist.m3u8
 http://185.188.188.237:5000/live/novasport2/playlist.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Nova Sport 3 🇨🇿
 http://185.188.188.237:5000/live/novasport3/playlist.m3u8
+#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Nova Sport 4
+http://176.116.105.82/NovaSport4_HD/index.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Nova Sport 4 🇨🇿
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃", Nova Sport 5 🇨🇿
@@ -4409,179 +4389,132 @@ http://185.188.188.237:5000/live/jojsport/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042020/tv1000ruskino.png?wFRyTzcTQCDOabo_Ep4uLUZ.Ad4bQv.q&itok=jLewpygd", TV 1000 Ruskino
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042020/tv1000ruskino.png?wFRyTzcTQCDOabo_Ep4uLUZ.Ad4bQv.q&itok=jLewpygd", TV 1000 русское
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=230825&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png",1000 TV Rus Kino
+#EXTINF:-1 group-title="✪RU-TOKEN",1000 TV action
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30890&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/2048px-Logo_of_Kanal_5.svg.png",5 Kanal
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/2048px-Logo_of_Kanal_5.svg.png",Пятый канал
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30891&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/AMEDIA1.png",Amedia 1
+#EXTINF:-1 group-title="✪RU-TOKEN",Еврокино
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30892&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/AmediaPremium.png",Amedia Premium ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",HOLLYWOOD HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30893&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png",Animal Planet
+#EXTINF:-1 group-title="✪RU-TOKEN",FOOD NETWORK
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30894&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.png",ArenaTV
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU+SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30895&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png",Arte ᴴᴰ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30896&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://www.playcine-ogn.com/images/galaxy/content/9772449/9772449_cover_square.png?_ts=1717560361&width=1200",Avto Plus
+#EXTINF:-1 group-title="✪RU-TOKEN",АВТО ПЛЮС
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30897&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://s3.eu-west-1.amazonaws.com/gc-media-assets.gc.southendutdfcservices.co.uk/f0e0ecea-6be7-45ef-9afd-6f9f8d3f2de9.jpg",BluesTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30898&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/ALBANIA/CARTONNETWORK.png",Cartoon Network
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30900&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/scratch-television/images/6/6e/Chetv.svg/revision/latest/thumbnail/width/360/height/450?cb=20220418133146",CheTV
+#EXTINF:-1 group-title="✪RU-TOKEN",ПЕРЕЦ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30901&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://viamedia.tv/wp-content/uploads/2024/03/cine_plus_hit.png",Cine + HIT ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://viamedia.tv/wp-content/uploads/2024/03/cine_plus_hit.png",Cine+ Hit HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269908&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cine%2B_Legend.png",Cine + LEGEND
+#EXTINF:-1 group-title="✪RU-TOKEN",Cine+ Legend
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269907&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png",CNN ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",Bridge TV Русский хит
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30899&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png",CTC HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1176145&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUM6ecAffQ6Pvu-21WSMN_hoWNtF7NJKaVQ&s",CTC LOVE
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1176146&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png",Discovery Channel ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",Discovery Channel
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30902&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png",Discovery Science ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",Наука 2.0
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30903&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/DOMKINOPREMIUM.png",Dom Kino
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30905&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/886px-Domashniy_tv_logo.svg.png",DomashniyTV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30906&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3ywbY7qF1Nrlwel9eGOhSbKBpvkhf9cYEYZThGSRuHw8kRmaeDkL9Jrztoi9_dSegjk&usqp=CAU",Dozhd TV
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3ywbY7qF1Nrlwel9eGOhSbKBpvkhf9cYEYZThGSRuHw8kRmaeDkL9Jrztoi9_dSegjk&usqp=CAU",ДОЖДЬ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30907&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/AMERICA/USA/DUCKTV.png",DUCK TV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269917&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/EUROPAPLUSTV.png",Europa Plus TV
+#EXTINF:-1 group-title="✪RU-TOKEN",RUTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30909&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/ALBANIA/EUROSPORT1.png",Eurosport
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/ALBANIA/EUROSPORT1.png",Setanta Sports 1 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231489&extension=ts
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/ALBANIA/EUROSPORT1.png",Setanta Sports 2 HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30910&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe60BpcJ8F2RFT_bjx3qs_E3i6OF69aXvCag&s",Fashion TV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30911&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/ALBANIA/FOXLIFE.png",Fox Life
+#EXTINF:-1 group-title="✪RU-TOKEN",RTG HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30912&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/USA/HISTORY.png",History
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU HISTORY
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30913&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp",Istoriya
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp",ИСТОРИЯ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30914&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Karusel
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30915&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Kinokomedia
+#EXTINF:-1 group-title="✪RU-TOKEN",КИНОХИТ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30916&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Kinomix
+#EXTINF:-1 group-title="✪RU-TOKEN",МУЖСКОЕ КИНО
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30917&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Kinopremiera
+#EXTINF:-1 group-title="✪RU-TOKEN",КИНОКОМЕДИЯ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30918&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Kinosvidanie
+#EXTINF:-1 group-title="✪RU-TOKEN",КИНОПРЕМЬЕРА
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30919&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/KINOPREMIERA.png",Kinoxit
+#EXTINF:-1 group-title="✪RU-TOKEN",КИНОМИКС
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30920&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://toplogos.ru/images/logo-kuhnya-tv.png",Kuhnya TV
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://toplogos.ru/images/logo-kuhnya-tv.png",Кухня ТВ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30921&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH!FOOTBALL1.png",Match Football 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30861&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH!FOOTBALL2_2.png",Match Football 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30860&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH!FOOTBALL3.png",Match Football 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30859&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",Match Planeta
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",МАТЧ! ПЛАНЕТА
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30857&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",Match Premier
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",МАТЧ! ПРЕМЬЕР
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30858&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",MatchTV
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MATCH.png",МАТЧ!
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30856&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/moskva_doverie.jpg",Morskoe TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30855&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://seeklogo.com/images/M/moya-planeta-logo-4E69D0BEDA-seeklogo.com.gif",Moya Planeta
+#EXTINF:-1 group-title="✪RU-TOKEN",MUSEUM TV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30854&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/220px-MTV_00s_remaster.png",MTV 00s
+#EXTINF:-1 group-title="✪RU-TOKEN",BRIDGE TV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269914&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",MTV 80s
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269916&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png",MTV 90s
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269913&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/MTVHD.png",MTV Hits
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30923&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/MTVRUSSIA.png",MTV Russia
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30924&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Multi_TV_Logo.png/revision/latest?cb=20211125101851",Mult TV
+#EXTINF:-1 group-title="✪RU-TOKEN",СУПЕР ГЕРОИ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30853&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png",Nat Geo
+#EXTINF:-1 group-title="✪RU-TOKEN",GALAXY
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30887&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png",Nat Geo Wild
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30886&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/USA/NICKJR.png",Nick Jr
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30885&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/NTV.png",NTV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30888&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Пятница_%28с_2013%29.svg/220px-Пятница_%28с_2013%29.svg.png",Pyatnica
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Пятница_%28с_2013%29.svg/220px-Пятница_%28с_2013%29.svg.png",Пятница!
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30884&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://logowik.com/content/uploads/images/rbk-tv-rbk9452.jpg",RBK TV
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://logowik.com/content/uploads/images/rbk-tv-rbk9452.jpg",РБК
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30883&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://seeklogo.com/images/R/rentv-logo-0F5840B29B-seeklogo.com.png",RenTV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30880&extension=ts
+
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/690/860/non_2x/vinyl-record-and-lettering-retro-music-on-a-white-background-music-retro-icon-vintage-logo-vector.jpg",RetroMusic TV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30879&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Логотип_телеканала_RT_Doc.png",RT Doc TV
+#EXTINF:-1 group-title="✪RU-TOKEN",DOCUBOX
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30882&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-rtr-planeta.png",RTR PLANETA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1063850&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/2560px-Russia-1.svg.png",Russia 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30878&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsR6fnuwd1g3wmOBh5dw6P9VKzybdUZfLFA&s",Russia Today
+#EXTINF:-1 group-title="✪RU-TOKEN",DOCUBOX
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30877&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Rossiya-24_Logo.svg",Russia24
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Rossiya-24_Logo.svg",РОССИЯ 24
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30876&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/SHANTONTV.png",Shanson TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30875&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UbuSHbP5Fg-FUc9m_yqKe-MVYKDu6gy7HQ&s",Star Family ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UbuSHbP5Fg-FUc9m_yqKe-MVYKDu6gy7HQ&s",Star Family Россия
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269910&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_teleputeshestviya.jpg",Teleputeshestvya ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",ПОЕХАЛИ!
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30870&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TNT.png",TNT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30874&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT Russia
+#EXTINF:-1 group-title="✪RU-TOKEN",VIIB
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30852&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TNT.png",TNT4
+#EXTINF:-1 group-title="✪RU-TOKEN",ТНТ4
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30873&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png",Travel and Adventure
+#EXTINF:-1 group-title="✪RU-TOKEN",ПРИКЛЮЧЕНИЯ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30869&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Center-logo.png",TV Center
+#EXTINF:-1 group-title="✪RU-TOKEN",ТВЦ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30872&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/tv1000_worldkino.png?SPKa2FMBuIjuaakgtK7FFnVxb6O2D7XA&itok=5QTJaj3D",TV1000 World
+#EXTINF:-1 group-title="✪RU-TOKEN",КИНОСЕМЬЯ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=269904&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TV3.png",TV3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30871&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png",TVCI
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30849&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TV1000.png",Viasat 1000 Action
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU TV1000 Action
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30864&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/VIASATHISTORY.png",Viasat History
+#EXTINF:-1 group-title="✪RU-TOKEN",Viasat History
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30851&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/VIASATNATURE.png",Viasat Nature
+#EXTINF:-1 group-title="✪RU-TOKEN",Viasat Nature
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30863&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TV1000COMEDY.png",ViP Comedy ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU+ Comedy
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30867&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TV1000MEGAHIT.png",ViP Megahit ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU+ Megahit
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30866&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/RUSSIA/TV1000PREMIUM.png",ViP Premiere ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",KHL
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30865&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Ю_33.png/revision/latest?cb=20180908063118",Yu TV
+#EXTINF:-1 group-title="✪RU-TOKEN",8 канал International
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30862&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png",ZvezdaTV
+#EXTINF:-1 group-title="✪RU-TOKEN",ЗВЕЗДА
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30850&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYCHTVCfl3bxinqEI83Ziek3UvbKVbKX89gIQtCFR90zv3vIcLIcNLouSD5zPvF17ckI&usqp=CAU",||RU|S| Mosfilm FHD
+#EXTINF:-1 group-title="✪RU-TOKEN",МОСФИЛЬМ.ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1076490&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYCHTVCfl3bxinqEI83Ziek3UvbKVbKX89gIQtCFR90zv3vIcLIcNLouSD5zPvF17ckI&usqp=CAU",||RU|S| Mosfilm HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1076601&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg",2x2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231472&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360 Podmoskovie
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231473&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/Ex-Yu/kanal8.png",8 Kanal
+#EXTINF:-1 group-title="✪RU-TOKEN",8 канал (Россия)
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231474&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/05/14113943/A1-Logo.png",A1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231475&extension=ts
@@ -4593,128 +4526,39 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231477&extens
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231479&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Amedia_Premium_2017.svg/revision/latest?cb=20220724120939",Amedia Premium
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231480&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5K4UTfpz0hIhq3kwN39w4M81NZ-BYJTsiw&s",Ani
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231481&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png",Animal Planet
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231482&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCf_IHsNu6eBF-hZf-uJ4KqvWPZ9A12OX-IfFY2_lmN4SfB3F0X1ILnr9aPcOB9U6e4rY&usqp=CAU",Bollywood ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",Bollywood HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231485&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231486&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/btv_.png?ZNqGoMcOaWjielxdh2BbPy9v3du26kIJ&itok=O22CA5kh",Bridge
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231488&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231489&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0df35d10338701.560e347419d06.jpg",Detskiy
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231493&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png",Discovery Channel
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231494&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/AUSTRALIA/Investigation_Discovery.png",DISCOVERY ID EXTRA HD
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/AUSTRALIA/Investigation_Discovery.png",ID Investigation Discovery Европа
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231510&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png",Discovery Science
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231495&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/640px-Euronews._2016_alternative_logo.png",Euro News ᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",Eurosport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231499&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/640px-Euronews._2016_alternative_logo.png",Euronews
+#EXTINF:-1 group-title="✪RU-TOKEN",Eurosport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231500&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png",EuroSport 2 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231501&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231503&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",FOX
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231505&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",Fox Life
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231504&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg",Hollywood
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231508&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlW0cX4RHD3iwJr64-v0cs8F6zfTeSPPMFg&s",IZ ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231511&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KHL_2021.svg/revision/latest/scale-to-width-down/200?cb=20210904092228",KHL TV ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231514&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png",Kino TV
+#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png",КИНО ТВ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231515&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://i.imgur.com/RH6hTWG.png",LA Minor
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231517&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match Footboal 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231519&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match Footbol 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231520&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match Footbol 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231521&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match Sports ᵁᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",МАТЧ! ПРЕМЬЕР
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231522&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match! Arena ᵁᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",МАТЧ! АРЕНА
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231523&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2gg6sl1642095135.png",Match! Igra ᵁᴴᴰ
+#EXTINF:-1 group-title="✪RU-TOKEN",МАТЧ! ИГРА
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231525&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Match! ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231524&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Мир_ТВ_logo.svg",Mir ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231526&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlnIAgiU5F2wk49AFRxfGNjOGJnT-lyuNQ&s",MTV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231530&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png",Nat Geo Wild
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231537&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png",National Geographic
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231538&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",Nick Jr.
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231539&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",Nickelodeon
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231540&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ae560c196186391.661e59a42635a.jpg",NTV Serial
+#EXTINF:-1 group-title="✪RU-TOKEN",НТВ СЕРИАЛ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231542&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ae560c196186391.661e59a42635a.jpg",NTV Styl
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231543&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg",Paramount Channel
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231545&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://i.blogs.es/e0da52/imagenes_paramount_comedy_ok_72bd9a6e/450_1000.jpg",Paramount Comedy
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231546&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN",RTVI
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1251105&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMsfbNWsuSzV8B7c5OiNZk8Vspxl0xCCPAQ&s",Russkaya Komediya
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231555&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY53XSwP3Nc6z8LRkq7W6YnoZEeokrZJwkmw&s",Russkiy Bestseller
+#EXTINF:-1 group-title="✪RU-TOKEN",Русский бестселлер
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231556&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuuK9BynD_0Py93zsi2lAIVnDHyfvFXdhBQ&s",Russkiy Roman
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231557&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Sarafan_%28TV-channel%29_%28Russia%29_%282007%29.svg/revision/latest/scale-to-width-down/300?cb=20190702173921",Sarafan
+#EXTINF:-1 group-title="✪RU-TOKEN",САРАФАН
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231558&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/1/1b/Sony-Sci-Fi.png/revision/latest?cb=20230622053605",Sony Sci-Fi
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231559&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e6/Sony_Turbo_2019.svg/revision/latest/scale-to-width-down/281?cb=20210107223540",Sony Turbo
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231560&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Sony-Logo-1957.png",Sony TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231561&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxi2cGG5OrdWJHLRzj503JbyimhnzIecwQnl4ogGBn_-Ww0UhCNyYi-xwxYuz2BK_y8M&usqp=CAU",THT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231564&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRxi2cGG5OrdWJHLRzj503JbyimhnzIecwQnl4ogGBn_-Ww0UhCNyYi-xwxYuz2BK_y8M&usqp=CAU",THT Music
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231563&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://i.pinimg.com/originals/d4/03/96/d403966c6276e85feaf0e3753146b71e.png",TLC
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231567&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231568&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/TV1000_logga.png",TV1000
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231574&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TV1000_Action_2014.png",TV1000 Action
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231571&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ1HGA28nIrk0G2rlnIkRt_HNDnGloRi0bg&s",TV1000 Megahit
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231572&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f7/TV1000_Premium_HD.png/revision/latest?cb=20130815111839&path-prefix=ru",TV1000 Premium ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231573&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://www.viasatworld.com/media/1438/history-vw.png",Viasat History
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231576&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png",Viasat Nature
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231577&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://img.kooora.com/?i=logo_sports%2Fviasatsport.jpg",Viasat Sport
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231578&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231579&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/M24_Square.png",Москва 24
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231587&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/2560px-Russia-1.svg.png",Россия 1  6 (Чита)
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231596&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Rossiya-24_Logo.svg",Россия 24 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231597&extension=ts
+
 
 
 
@@ -6241,6 +6085,9 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы", Bolt
 https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 
+#EXTINF:-1 group-title="🎬Кино и сериалы", Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы", Start Air
 https://stream-msk-02.ott.tricolor.tv/dtv/id863_MSKSG-PVR-1--Start_Air/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 
@@ -6286,8 +6133,15 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/pls
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 #EXTINF:-1 group-title="🎬Кино и сериалы",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Fox Life HD
 http://188.237.47.212:6008
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -6314,6 +6168,10 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://contact-tv.ru/assets/images/tv/14.png?ver=1740722792",Russian Extreme
 http://195.26.83.96:7029/play/a008
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://contact-tv.ru/assets/images/tv/14.png?ver=1740722792",Russian Extreme
+http://85.208.223.249:8888/play/a004
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Russian Extreme HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 #EXTINF:-1 group-title="🎬Кино и сериалы",SagaTV
@@ -6336,7 +6194,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=9PI3tRhit90hplIXfoTJ9g&e=1767154334&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",TV 1000
 http://2.57.217.85:8000/play/a09x/index.m3u8
@@ -6361,8 +6219,10 @@ http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
-#EXTINF:-1 group-title="🎬Кино и сериалы",TV 1000 Русское кино HD
+#EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Русское кино HD
 http://2.57.217.85:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 новелла HD
+http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Comedy HD
 http://2.57.217.85:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Megahit HD
@@ -6370,9 +6230,9 @@ http://2.57.217.85:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ premiere HD
 http://2.57.217.85:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",VIJU+ SERIAL
-
+http://188.208.197.173:8888/vijuserial/video.m3u8?token=loganet
 #EXTINF:-1 group-title="🎬Кино и сериалы",plan B
-
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Suspense
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Блокбастер HD
@@ -6565,6 +6425,66 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1 group-title="🎬Кино и сериалы",Шокирующее HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
 #EXTINF:-1 group-title="🎬Кино и сериалы",COMEDY CENTRAL
+http://188.225.31.197/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",FilmUADrama HD
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Deep House
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Fantastic HD
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Кино Франшизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Путешествие
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k World Music
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Clarity_VPN", Clarity4k Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+
 
 
 
