@@ -15,8 +15,7 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
-#EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Авария - Новогодняя
-https://www.dropbox.com/scl/fi/g37ink61b5luctinnrfq6/_.mp4?rlkey=8qy2ijpyozwkepcpjg6s46wsv&st=rn0gywie&dl=1
+
 #EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Андрей Губин - Зима холода
 https://homtv.ru/wp-content/uploads/2025/12/andrej-gubin-zima-holoda.mp4
 #EXTINF:-1 group-title="❄️СПОЁМ?❄️" tvg-logo="https://i.pinimg.com/736x/3f/09/94/3f09944bd91b8d508e8cc8ff9f3b79b5.jpg" tvg-id="no_epg_music", Натали - О Боже какой мужчина!
@@ -120,8 +119,8 @@ rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkN
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://polinka.top/uploads/posts/2023-06/1686658317_polinka-top-p-griffini-kartinki-krasivo-10.jpg", ГРИФФИНЫ
 rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-
-
+#EXTINF:-1 group-title="ТЕСТ", 9 КАНАЛ ИЗРАИЛЬ
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6013
 
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/W2qz5a4.png",TV Sinamo
@@ -137,6 +136,132 @@ http://hls.goodgame.ru:8080/hls/198088.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",BCU Christmas
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ",VF Тайны следствия
+https://tinyurl.com/aleks-u-romki-39/13082/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Воронены
+https://tinyurl.com/aleks-u-romki-39/13083/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Универ
+https://tinyurl.com/aleks-u-romki-39/13084/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Клиника
+https://tinyurl.com/aleks-u-romki-39/13094/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Наша победа
+https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Фильмы СССР
+https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
+
+
+#EXTINF:-1 group-title="ТЕСТ",VF Два с половиной человека
+https://tinyurl.com/SaSha-32/10062/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",The X-Files
+https://tinyurl.com/SaSha-32/11055/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",StrahTV СССР
+https://tinyurl.com/SaSha-32/11061/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",TOP: USSR
+https://tinyurl.com/SaSha-32/13005/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF New Year
+https://tinyurl.com/SaSha-32/15522/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Музыкальный Новый год!
+https://tinyurl.com/SaSha-32/16140/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Новогодний
+https://tinyurl.com/SaSha-32/17035/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кино 1
+https://tinyurl.com/SaSha-32/18069/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Кино 2
+https://tinyurl.com/SaSha-32/18070/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Военное кино HD
+https://tinyurl.com/SaSha-32/18072/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Ленфильм
+https://tinyurl.com/SaSha-32/18121/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Киностудия им. Горького
+https://tinyurl.com/SaSha-32/18122/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Уральские пельмени
+https://tinyurl.com/SaSha-32/18198/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",VF Кухня
+https://tinyurl.com/SaSha-32/18199/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",Fresh VHS
+https://tinyurl.com/SaSha-32/19293/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ТЕСТ",CineMan СССР
+http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Top
+http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Сваты
+http://ott.server-iptv.live/684/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan VHS
+http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Thriller
+http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan РуКино
+http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Action
+http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Катастрофы
+http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="ТЕСТ",CineMan Скорая помощь
+http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
+
+
+
+#EXTINF:-1 group-title="ТЕСТ",MM 007
+http://cdn.admuspeh.my/8327/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM UFO
+http://cdn.admuspeh.my/8410/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Боевик Classic HD
+http://cdn.admuspeh.my/8411/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Киберпанк HD
+http://cdn.admuspeh.my/8545/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",CineMan Военные Сериалы
+http://cdn.admuspeh.my/8574/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR 1941-1945 HD
+http://cdn.admuspeh.my/8614/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Приключения HD
+http://cdn.admuspeh.my/8615/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Сказки HD
+http://cdn.admuspeh.my/8616/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Агата Кристи HD
+http://cdn.admuspeh.my/8618/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Фантастика HD
+http://cdn.admuspeh.my/8631/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Experiment HD
+http://cdn.admuspeh.my/8643/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM ОТКРЫТИЯ
+http://cdn.admuspeh.my/8647/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Детектив HD
+http://cdn.admuspeh.my/8656/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Комедия HD
+http://cdn.admuspeh.my/8744/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Боевик
+http://cdn.admuspeh.my/8745/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Катастрофа
+http://cdn.admuspeh.my/8746/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",CineMan Криминальные Сериалы FHD
+http://cdn.admuspeh.my/8772/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Комедия Classic HD
+http://cdn.admuspeh.my/8789/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",CineMan CCCP 4K
+http://cdn.admuspeh.my/8795/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",CineMan Ментовские войны FHD
+http://cdn.admuspeh.my/8802/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",CineMan VHS
+http://cdn.admuspeh.my/8807/video.m3u8?token=ToweDwaDbykTurD5
+
+
+#EXTINF:-1 group-title="ТЕСТ", DISCOVERY CHANNEL
+http://185.129.1.242:80/discoverychannelhd/mpegts?token=1755ecb795cd5a70e154737a51fe047e
+#EXTINF:-1 group-title="ТЕСТ", NATIONAL GEOGRAPHIC
+http://185.129.1.242:80/nationalgeographichd/mpegts?token=193667595774dc3edea727bcff8eef48
+
+#EXTINF:-1 group-title="ТЕСТ",MM Сваты HD
+http://cdn.admuspeh.my/8893/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Драма HD
+http://cdn.admuspeh.my/8894/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:-1 group-title="ТЕСТ",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -620,6 +745,9 @@ http://185.229.235.30:8005/udp/225.15.3.149:2345
 
 #EXTINF:-1 group-title="✅Новости" tvg-id="Настоящее время", Настоящее время HD (ИНОАГЕНТ) VPN
 https://clck.ru/3F6ZUq
+
+#EXTINF:-1 group-title="✅Новости" tvg-logo="data:image/png;base64,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", ХОДОРКОВСКИЙ LIVE (ИНОАГЕНТ)
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6002
 
 #EXTINF:-1 group-title="✅Новости" tvg-id="rtd-ru", RT Д
 https://stream-msk-01.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzU0MDI4MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTM1NDgxLCJzZXNzaW9uX2lkIjoiMGVjNWZjYjVjMzBkZTk5NmY5ZjYwNGU4ZDYwZjZiMjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BXl3GsiFkcOxhm1H2FYSPObeNRGW84n2d5N1c5hJU8M
@@ -1364,6 +1492,7 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTVLCOPT:http-user-agent=KizugTV
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка", Now 70's
+#EXTVLCOPT:http-user-agent=KizugTV
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка", Now 80's
 #EXTVLCOPT:http-user-agent=KizugTV
@@ -3379,7 +3508,8 @@ http://104.255.88.155/motortrend/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🏆Спорт",Спорт ТВ [BY]
+http://cdn.voka.tv/live/8112-req_5k_v5.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", Viasat sport
 http://2.57.217.85:8000/play/a0a0/index.m3u8
@@ -4400,7 +4530,7 @@ http://185.188.188.237:5000/live/jojsport/playlist.m3u8
 
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042020/tv1000ruskino.png?wFRyTzcTQCDOabo_Ep4uLUZ.Ad4bQv.q&itok=jLewpygd", TV 1000 русское
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=230825&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN",1000 TV action
+#EXTINF:-1 group-title="✪RU-TOKEN",TV 1000 action
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30890&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/2048px-Logo_of_Kanal_5.svg.png",Пятый канал
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30891&extension=ts
@@ -4410,10 +4540,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30892&extensi
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30893&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN",FOOD NETWORK
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30894&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN",VIJU+SPORT
+#EXTINF:-1 group-title="✪RU-TOKEN",VIJU+ SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30895&extension=ts
-#EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png",Arte ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30896&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN",АВТО ПЛЮС
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=30897&extension=ts
 #EXTINF:-1 group-title="✪RU-TOKEN" tvg-logo="https://s3.eu-west-1.amazonaws.com/gc-media-assets.gc.southendutdfcservices.co.uk/f0e0ecea-6be7-45ef-9afd-6f9f8d3f2de9.jpg",BluesTV
@@ -4583,53 +4711,39 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=231587&extens
 
 
 
-#EXTINF:-1 tvg-name="RUSSIA 1 HD" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",RUSSIA 1 HD
+#EXTINF:-1 tvg-name="RUSSIA 1 HD" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",РОССИЯ 1 HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234124
-#EXTINF:-1 tvg-name="RUSSIA 1" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",RUSSIA 1
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234125
-#EXTINF:-1 tvg-name="PERVIY KANAL FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",PERVIY KANAL FHD
+#EXTINF:-1 tvg-name="PERVIY KANAL FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",ПЕРВЫЙ КАНАЛ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529780
-#EXTINF:-1 tvg-name="PERVYJ KANAL HD" tvg-logo="https://i.imgur.com/Wn2C6mH.png" group-title="TOKEN",PERVYJ KANAL HD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234126
-#EXTINF:-1 tvg-name="PERVIY KANAL HD" tvg-logo="https://i.imgur.com/Km1aMxW.png" group-title="TOKEN",PERVIY KANAL HD
+#EXTINF:-1 tvg-name="PERVIY KANAL HD" tvg-logo="https://i.imgur.com/Km1aMxW.png" group-title="TOKEN",ПЕРВЫЙ КАНАЛ HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529782
-#EXTINF:-1 tvg-name="PERVIY KANAL EUROPE FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",PERVIY KANAL EUROPE FHD
+#EXTINF:-1 tvg-name="PERVIY KANAL EUROPE FHD" tvg-logo="https://i.imgur.com/9PWG9EX.png" group-title="TOKEN",ПЕРВЫЙ КАНАЛ EU
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529781
-#EXTINF:-1 tvg-name="PEH TB FHD" tvg-logo="https://i.imgur.com/DA3gAlg.png" group-title="TOKEN",PEH TB FHD
+#EXTINF:-1 tvg-name="PEH TB FHD" tvg-logo="https://i.imgur.com/DA3gAlg.png" group-title="TOKEN",PEH TB
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529779
-#EXTINF:-1 tvg-name="RUSSIA K FHD" tvg-logo="https://i.imgur.com/O7xrdlf.png" group-title="TOKEN",RUSSIA K FHD
+#EXTINF:-1 tvg-name="RUSSIA K FHD" tvg-logo="https://i.imgur.com/O7xrdlf.png" group-title="TOKEN",РОССИЯ К
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529778
 #EXTINF:-1 tvg-name="RU TV HD" tvg-logo="https://i.imgur.com/Dsm82y2.png" group-title="TOKEN",RU TV HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529777
-#EXTINF:-1 tvg-name="RTVI FHD" tvg-logo="https://i.imgur.com/Ce0DGum.png" group-title="TOKEN",RTVI FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529776
-#EXTINF:-1 tvg-name="RETRO TV HD" tvg-logo="https://i.imgur.com/RYJzxhb.png" group-title="TOKEN",RETRO TV HD
+#EXTINF:-1 tvg-name="RETRO TV HD" tvg-logo="https://i.imgur.com/RYJzxhb.png" group-title="TOKEN",РЕТРО
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529775
-#EXTINF:-1 tvg-name="REN TV HD" tvg-logo="https://i.imgur.com/nHJsFP7.png" group-title="TOKEN",REN TV HD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529774
-#EXTINF:-1 tvg-name="8 KANAL RU FHD" tvg-logo="https://i.imgur.com/JoMUHQw.png" group-title="TOKEN",8 KANAL RU FHD
+#EXTINF:-1 tvg-name="8 KANAL RU FHD" tvg-logo="https://i.imgur.com/JoMUHQw.png" group-title="TOKEN",8 КАНАЛ RU
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529773
-#EXTINF:-1 tvg-name="5 KANAL RU FHD" tvg-logo="https://i.imgur.com/ej9X5M0.png" group-title="TOKEN",5 KANAL RU FHD
+#EXTINF:-1 tvg-name="5 KANAL RU FHD" tvg-logo="https://i.imgur.com/ej9X5M0.png" group-title="TOKEN",ПЯТЫЙ КАНАЛ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529772
-#EXTINF:-1 tvg-name="ZAGORODNIY FHD" tvg-logo="https://i.imgur.com/bqEyaXH.png" group-title="TOKEN",ZAGORODNIY FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529771
-#EXTINF:-1 tvg-name="ZAGORODNAYA ZHIZN FHD" tvg-logo="https://i.imgur.com/tSwie0A.png" group-title="TOKEN",ZAGORODNAYA ZHIZN FHD
+#EXTINF:-1 tvg-name="ZAGORODNAYA ZHIZN FHD" tvg-logo="https://i.imgur.com/tSwie0A.png" group-title="TOKEN",ЗАГОРОДНАЯ ЖИЗНЬ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529770
-#EXTINF:-1 tvg-name="KTNO TV FHD" tvg-logo="https://i.imgur.com/fY1xr7e.png" group-title="TOKEN",KTNO TV FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529768
-#EXTINF:-1 tvg-name="KHL HD" tvg-logo="https://i.imgur.com/Hg5c1kr.png" group-title="TOKEN",KHL HD
+#EXTINF:-1 tvg-name="KHL HD" tvg-logo="https://i.imgur.com/Hg5c1kr.png" group-title="TOKEN",KHL PRIME
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529766
-#EXTINF:-1 tvg-name="KHL FHD" tvg-logo="https://i.imgur.com/TR0M8JM.png" group-title="TOKEN",KHL FHD
+#EXTINF:-1 tvg-name="KHL FHD" tvg-logo="https://i.imgur.com/TR0M8JM.png" group-title="TOKEN",KHL
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529765
-#EXTINF:-1 tvg-name="TV 3" tvg-logo="https://i.imgur.com/DlfevRP.png" group-title="TOKEN",TV 3
+#EXTINF:-1 tvg-name="TV 3" tvg-logo="https://i.imgur.com/DlfevRP.png" group-title="TOKEN",ТВ3
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529764
-#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",TNT FHD
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",ТНТ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529763
-#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",TNT FHD
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/DSc2pSS.png" group-title="TOKEN",ТНТ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529762
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://i.imgur.com/fwaMD9f.png" group-title="TOKEN",TNT HD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529761
-#EXTINF:-1 tvg-name="TNT 4 FHD" tvg-logo="https://i.imgur.com/OZJ2x11.png" group-title="TOKEN",TNT 4 FHD
+#EXTINF:-1 tvg-name="TNT 4 FHD" tvg-logo="https://i.imgur.com/OZJ2x11.png" group-title="TOKEN",ТНТ 4
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529760
 #EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234134
@@ -4641,37 +4755,15 @@ http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234138
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234139
 #EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/uJ7lzQF.png" group-title="TOKEN",НТВ Стиль
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234140
-#EXTINF:-1 tvg-id="tnt.ru" tvg-name="THT HD" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",THT HD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234162
-#EXTINF:-1 tvg-id="tntmusic.ru" tvg-name="THT" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",THT
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234163
-#EXTINF:-1 tvg-name="RU : REN TV" tvg-logo="https://i.imgur.com/8imVGiN.png" group-title="TOKEN",RU : REN TV
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234127
 #EXTINF:-1 tvg-id="rutv.ru" tvg-name="RU TV" tvg-logo="https://i.imgur.com/SaACGno.png" group-title="TOKEN",RU TV
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234175
-#EXTINF:-1 tvg-name="Россия 1 +2" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +2
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117203
-#EXTINF:-1 tvg-name="Пятница +2" tvg-logo="https://i.imgur.com/ZqIgtXI.png" group-title="TOKEN",Пятница +2
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117204
-#EXTINF:-1 tvg-name="Пятница +6" tvg-logo="https://i.imgur.com/ZqIgtXI.png" group-title="TOKEN",Пятница +6
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117205
-#EXTINF:-1 tvg-name="Россия 1 +4" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +4
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117206
-#EXTINF:-1 tvg-name="Россия 1 +6" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия 1 +6
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117207
-#EXTINF:-1 tvg-name="Россия 1 +8" tvg-logo="https://i.imgur.com/nnWbHg3.png" group-title="TOKEN",Россия 1 +8
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117208
-#EXTINF:-1 tvg-name="Россия К" tvg-logo="https://i.imgur.com/Z9GLZCu.png" group-title="TOKEN",Россия К
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117211
-#EXTINF:-1 tvg-name="8 KANAL RU" tvg-logo="https://i.imgur.com/h3rBO3H.png" group-title="TOKEN",8 KANAL RU
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234167
-#EXTINF:-1 tvg-name="Санкт‑Петербург" tvg-logo="https://i.imgur.com/8UjeHky.png" group-title="TOKEN",Санкт‑Петербург
+#EXTINF:-1 group-title="TOKEN",Санкт Петербург
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234141
 #EXTINF:-1 tvg-name="Сарафан" tvg-logo="https://i.imgur.com/0K7lBsV.png" group-title="TOKEN",Сарафан
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234143
-#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://i.imgur.com/PMN6XWy.png" group-title="TOKEN",КВН ТВ
+#EXTINF:-1 group-title="TOKEN",КВН ТВ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234145
-#EXTINF:-1 tvg-name="КтоКуда" tvg-logo="https://i.imgur.com/dB0k7ZF.png" group-title="TOKEN",КтоКуда
+#EXTINF:-1 tvg-name="КтоКуда" tvg-logo="https://i.imgur.com/dB0k7ZF.png" group-title="TOKEN",Кто Куда
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234148
 #EXTINF:-1 tvg-name="Наша Тема HD" tvg-logo="https://i.imgur.com/sXGAyYa.png" group-title="TOKEN",Наша Тема HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234152
@@ -4685,131 +4777,89 @@ http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234161
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234168
 #EXTINF:-1 tvg-name="Пятница" tvg-logo="https://i.imgur.com/eRzhCz5.png" group-title="TOKEN",Пятница
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234170
-#EXTINF:-1 tvg-name="РЕН ТВ FHD" tvg-logo="https://i.imgur.com/Q4efJdS.png" group-title="TOKEN",РЕН ТВ FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234171
-#EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://i.imgur.com/wppcnXg.png" group-title="TOKEN",ТНТ
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234173
-#EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://i.imgur.com/CucfBV1.png" group-title="TOKEN",Москва 24
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234174
 #EXTINF:-1 tvg-name="МИР 24" tvg-logo="https://i.imgur.com/qzimiN9.png" group-title="TOKEN",МИР 24
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234131
-#EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://i.imgur.com/CucfBV1.png" group-title="TOKEN",Москва 24
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234128
-#EXTINF:-1 tvg-id="ntv.ru" tvg-name="NTV FHD" tvg-logo="https://i.imgur.com/YdMhwCp.png" group-title="TOKEN",NTV FHD
+#EXTINF:-1 group-title="TOKEN",НТВ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234176
-#EXTINF:-1 tvg-name="360° HD+" tvg-logo="https://i.imgur.com/LLGJCZh.png" group-title="TOKEN",360° HD+
+#EXTINF:-1 group-title="TOKEN",360°
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234164
-#EXTINF:-1 tvg-name="НТВ Право" tvg-logo="https://i.imgur.com/u9S27Yv.png" group-title="TOKEN",НТВ Право
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117217
-#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="https://i.imgur.com/ViFPBu0.png" group-title="TOKEN",НТВ Стиль
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117218
-#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/IO2dNWN.png" group-title="TOKEN",РЕН ТВ
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117220
-#EXTINF:-1 tvg-name="СТС" tvg-logo="https://i.imgur.com/aM2eAv6.png" group-title="TOKEN",СТС
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117221
 #EXTINF:-1 tvg-name="Домашний" tvg-logo="https://i.imgur.com/9KW9aAL.png" group-title="TOKEN",Домашний
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117222
-#EXTINF:-1 tvg-name="ТВ‑3" tvg-logo="https://i.imgur.com/eO6gx3V.png" group-title="TOKEN",ТВ‑3
+#EXTINF:-1 tvg-name="ТВ‑3" tvg-logo="https://i.imgur.com/eO6gx3V.png" group-title="TOKEN",ТВ3
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117223
-#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/qzimiN9.png" group-title="TOKEN",Мир
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/qzimiN9.png" group-title="TOKEN",Мир24
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117225
-#EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/o9oWD0w.png" group-title="TOKEN",Звезда
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/o9oWD0w.png" group-title="TOKEN",Звезда ПЛЮС
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117226
 #EXTINF:-1 tvg-name="Ю" tvg-logo="https://i.imgur.com/GTsqQjC.png" group-title="TOKEN",Ю
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117230
 #EXTINF:-1 tvg-name="ТНТ4" tvg-logo="https://i.imgur.com/NgYcNDX.png" group-title="TOKEN",ТНТ4
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117239
-#EXTINF:-1 tvg-name="Конный мир (HD)" tvg-logo="https://i.imgur.com/Ltt6xwP.png" group-title="TOKEN",Конный мир (HD)
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117249
-#EXTINF:-1 tvg-name="Усадьба‑ТВ" tvg-logo="https://i.imgur.com/xdglTwB.png" group-title="TOKEN",Усадьба‑ТВ
+#EXTINF:-1 group-title="TOKEN",Усадьба
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117422
 #EXTINF:-1 tvg-name="ENGLISH CLUB" tvg-logo="https://i.imgur.com/Lq1oFF6.png" group-title="TOKEN",ENGLISH CLUB
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/234151
-#EXTINF:-1 tvg-name="English Club" tvg-logo="https://i.imgur.com/Lq1oFF6.png" group-title="TOKEN",English Club
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/117429
-#EXTINF:-1 tvg-name="STYLE FHD" tvg-logo="https://i.imgur.com/hvt46ec.png" group-title="TOKEN",STYLE FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529756
-#EXTINF:-1 tvg-name="STS BALTIC FHD" tvg-logo="https://i.imgur.com/itYnJ5m.png" group-title="TOKEN",STS BALTIC FHD
+#EXTINF:-1 group-title="TOKEN",СТС
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529755
-#EXTINF:-1 tvg-name="STS FHD" tvg-logo="https://i.imgur.com/itYnJ5m.png" group-title="TOKEN",STS FHD
+#EXTINF:-1 group-title="TOKEN",СТС HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529754
-#EXTINF:-1 tvg-name="STRASHNOE FHD" tvg-logo="https://i.imgur.com/nLqrnCj.png" group-title="TOKEN",STRASHNOE FHD
+#EXTINF:-1 group-title="TOKEN",СТРАШНОЕ HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529753
-#EXTINF:-1 tvg-name="STRANA FHD" tvg-logo="https://i.imgur.com/bW5nnEA.png" group-title="TOKEN",STRANA FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529752
-#EXTINF:-1 tvg-name="SOVERSHENNO SEKRETNO HD" tvg-logo="https://i.imgur.com/jJE2n4E.png" group-title="TOKEN",SOVERSHENNO SEKRETNO HD
+#EXTINF:-1 group-title="TOKEN",СОВЕРШЕННО СЕКРЕТНО
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529751
-#EXTINF:-1 tvg-name="SHANSON TV FHD" tvg-logo="https://i.imgur.com/TwgGBDO.png" group-title="TOKEN",SHANSON TV FHD
+#EXTINF:-1 group-title="TOKEN",ШАНСОН ТВ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529750
-#EXTINF:-1 tvg-name="SET HD" tvg-logo="https://i.imgur.com/O76WlzQ.png" group-title="TOKEN",SET HD
+#EXTINF:-1 group-title="TOKEN",.RED
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529749
-#EXTINF:-1 tvg-name="SARAFAN FHD" tvg-logo="https://i.imgur.com/FV58GUH.png" group-title="TOKEN",SARAFAN FHD
+#EXTINF:-1 group-title="TOKEN",САРАФАН
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529748
-#EXTINF:-1 tvg-name="SAINT PETERBURG FHD" tvg-logo="https://i.imgur.com/8tvaFzW.png" group-title="TOKEN",SAINT PETERBURG FHD
+#EXTINF:-1 group-title="TOKEN",САНКТ-ПЕТЕРБУРГ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529747
-#EXTINF:-1 tvg-name="PAYTNITSA! FHD" tvg-logo="https://i.imgur.com/aLjdguX.png" group-title="TOKEN",PAYTNITSA! FHD
+#EXTINF:-1 group-title="TOKEN",ПЯТНИЦА!
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529746
-#EXTINF:-1 tvg-name="PSIHOLOGIA 21 FHD" tvg-logo="https://i.imgur.com/V6kLovX.png" group-title="TOKEN",PSIHOLOGIA 21 FHD
+#EXTINF:-1 group-title="TOKEN",ПСИХОЛОГИЯ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529745
-#EXTINF:-1 tvg-name="PRODVIJENIE FHD" tvg-logo="https://i.imgur.com/y0gFA94.png" group-title="TOKEN",PRODVIJENIE FHD
+#EXTINF:-1 group-title="TOKEN",ПРОДВИЖЕНИЕ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529744
-#EXTINF:-1 tvg-name="PRIKLYUCHENIYA HD" tvg-logo="https://i.imgur.com/DFyEg9j.png" group-title="TOKEN",PRIKLYUCHENIYA HD
+#EXTINF:-1 group-title="TOKEN",ПРИКЛЮЧЕНИЯ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529743
-#EXTINF:-1 tvg-name="PRAVO FHD" tvg-logo="https://i.imgur.com/iyXMlxo.png" group-title="TOKEN",PRAVO FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529742
-#EXTINF:-1 tvg-name="RUTV FHD" tvg-logo="https://i.imgur.com/wJaTozt.png" group-title="TOKEN",RUTV FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529741
-#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="https://i.imgur.com/CcnfVjs.png" group-title="TOKEN",TV5 MONDE HD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529740
-#EXTINF:-1 tvg-name="PYATNICA! INTERNATIONAL FHD" tvg-logo="https://i.imgur.com/hcMIUwq.png" group-title="TOKEN",PYATNICA! INTERNATIONAL FHD
+#EXTINF:-1 group-title="TOKEN",ПЯТНИЦА!
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529739
-#EXTINF:-1 tvg-name="SPAS TV FHD" tvg-logo="https://i.imgur.com/FO4khmk.png" group-title="TOKEN",SPAS TV FHD
+#EXTINF:-1 group-title="TOKEN",СПАС
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529738
-#EXTINF:-1 tvg-name="STS FHD" tvg-logo="https://i.imgur.com/sTXi874.png" group-title="TOKEN",STS FHD
+#EXTINF:-1 group-title="TOKEN",СТС
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529736
-#EXTINF:-1 tvg-name="O! FHD" tvg-logo="https://i.imgur.com/xansEp1.png" group-title="TOKEN",O! FHD
+#EXTINF:-1 group-title="TOKEN",О!
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529735
-#EXTINF:-1 tvg-name="NAUKA 2 0 FHD" tvg-logo="https://i.imgur.com/1pvbwng.png" group-title="TOKEN",NAUKA 2 0 FHD
+#EXTINF:-1 group-title="TOKEN",НАУКА 2.0
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529734
 #EXTINF:-1 tvg-name="MYZEN TV HD" tvg-logo="https://i.imgur.com/c0Xbj9s.png" group-title="TOKEN",MYZEN TV HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529733
-#EXTINF:-1 tvg-name="Moskva-Doveriye" tvg-logo="https://i.imgur.com/8GzCatS.png" group-title="TOKEN",Moskva-Doveriye
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529732
-#EXTINF:-1 tvg-name="LIFE HD" tvg-logo="https://i.imgur.com/aK1Xa5q.png" group-title="TOKEN",LIFE HD
+#EXTINF:-1 group-title="TOKEN",ТОЧКА.РФ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529731
-#EXTINF:-1 tvg-name="KVN TV FHD" tvg-logo="https://i.imgur.com/RBJWlEj.png" group-title="TOKEN",KVN TV FHD
+#EXTINF:-1 group-title="TOKEN",КВН ТВ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529730
-#EXTINF:-1 tvg-name="KUHNYA TV HD" tvg-logo="https://i.imgur.com/lwfSQNO.png" group-title="TOKEN",KUHNYA TV HD
+#EXTINF:-1 group-title="TOKEN",КУХНЯ ТВ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529729
-#EXTINF:-1 tvg-name="KUCHNIA TV FHD" tvg-logo="https://i.imgur.com/r7X93KT.png" group-title="TOKEN",KUCHNIA TV FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529728
-#EXTINF:-1 tvg-name="JIVI TV FHD" tvg-logo="https://i.imgur.com/tYGECXf.png" group-title="TOKEN",JIVI TV FHD
+#EXTINF:-1 group-title="TOKEN",ЖИВИ!
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529727
-#EXTINF:-1 tvg-name="ILLUZION PLUS FHD" tvg-logo="https://i.imgur.com/nrIYKw9.png" group-title="TOKEN",ILLUZION PLUS FHD
+#EXTINF:-1  group-title="TOKEN",ИЛЛЮЗИОН+
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529726
-#EXTINF:-1 tvg-name="ICONCERTS FHD" tvg-logo="https://i.imgur.com/r9HnIFn.png" group-title="TOKEN",ICONCERTS FHD
+#EXTINF:-1 group-title="TOKEN",ICONCERTS
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529725
-#EXTINF:-1 tvg-name="HTB FHD" tvg-logo="https://i.imgur.com/Y8anX9X.png" group-title="TOKEN",HTB FHD
+#EXTINF:-1 group-title="TOKEN",HTB
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529724
-#EXTINF:-1 tvg-name="GOSTIAH U SKAZKI FHD" tvg-logo="https://i.imgur.com/1ezMakR.png" group-title="TOKEN",GOSTIAH U SKAZKI FHD
+#EXTINF:-1 group-title="TOKEN",В ГОСТЯХ У СКАЗКИ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529723
-#EXTINF:-1 tvg-name="FASHION TELEVISION FHD" tvg-logo="https://i.imgur.com/vqQLH6G.png" group-title="TOKEN",FASHION TELEVISION FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529722
-#EXTINF:-1 tvg-name="EUREKA HD" tvg-logo="https://i.imgur.com/gVBg6Jc.png" group-title="TOKEN",EUREKA HD
+#EXTINF:-1 group-title="TOKEN",КОСМИЧЕСКИЙ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529721
-#EXTINF:-1 tvg-name="ENGLISH CLUB FHD" tvg-logo="https://i.imgur.com/zqxb9Cz.png" group-title="TOKEN",ENGLISH CLUB FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529720
-#EXTINF:-1 tvg-name="EDA HD" tvg-logo="https://i.imgur.com/AgPLQyY.png" group-title="TOKEN",EDA HD
+#EXTINF:-1 group-title="TOKEN",FOOD TIME
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529719
-#EXTINF:-1 tvg-name="E TV FHD" tvg-logo="https://i.imgur.com/heYVorP.png" group-title="TOKEN",E TV FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529718
-#EXTINF:-1 tvg-name="DOZD FHD" tvg-logo="https://i.imgur.com/z3DBib9.png" group-title="TOKEN",DOZD FHD
+#EXTINF:-1 group-title="TOKEN",ДОЖДЬ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529717
-#EXTINF:-1 tvg-name="DOMASHNIY +7 FHD" tvg-logo="https://i.imgur.com/tScPCrV.png" group-title="TOKEN",DOMASHNIY +7 FHD
+#EXTINF:-1 group-title="TOKEN",ДОМАШНИЙ +7
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529716
-#EXTINF:-1 tvg-name="DOMASHNIY FHD" tvg-logo="https://i.imgur.com/tScPCrV.png" group-title="TOKEN",DOMASHNIY FHD
-http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529715
-#EXTINF:-1 tvg-name="DOMASHNIE JIVOTNIE" tvg-logo="https://i.imgur.com/NcazsXR.png" group-title="TOKEN",DOMASHNIE JIVOTNIE
+#EXTINF:-1 group-title="TOKEN",ДОМАШНИЕ ЖИВОТНЫЕ
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529714
 #EXTINF:-1 tvg-name="CURRENTTINE HD" tvg-logo="https://i.imgur.com/2fYgBLf.png" group-title="TOKEN",CURRENTTINE HD
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/529713
@@ -9240,6 +9290,32 @@ http://cdn.voka.tv/live/5123-req_5k_v5.m3u8
 http://cdn.voka.tv/live/5127-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",УНИКУМ
 http://cdn.voka.tv/live/5512-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЗВЯЗДА
+http://cdn.voka.tv/live/6238-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БОБРУЙСК 360 HD
+http://cdn.voka.tv/live/6239-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 1
+http://cdn.voka.tv/live/8000-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 2
+http://cdn.voka.tv/live/8008-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 3
+http://cdn.voka.tv/live/8006-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 5
+http://cdn.voka.tv/live/8007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",МИР
+http://cdn.voka.tv/live/8004-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",НТВ Беларусь
+http://cdn.voka.tv/live/8005-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ Беларусь
+http://cdn.voka.tv/live/8001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый информационный Беларусь
+http://cdn.voka.tv/live/8009-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",РТР-Беларусь HD
+http://cdn.voka.tv/live/8003-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
+http://cdn.voka.tv/live/8002-req_5k_v5.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Беларусь 🇧🇾",трансляция
