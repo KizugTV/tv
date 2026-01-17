@@ -1,7 +1,87 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="🎅ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление❄11.01.2026❄
+#EXTINF:-1 group-title="ИНФО"  tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" tvg-id="no_epg_cinema", Обновление: 17.01.2026
 #EXTVLCOPT:http-user-agent=KizugTV
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Снеговик
+https://go6.utorr.cc/torrenti/8/5b/Snegovik.2025.WEB-DL.1080p_57712_32.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2023-12/thumbs/1703172847_3a422a248a.jpg", Баба Мороз и тайна Нового года
+https://go6.utorr.cc/torrenti/9/0e/Baba.Moroz.i.tayna.Novogo.goda.2023.WEBRip.1080_50584.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Лысый нянь
+https://go6.utorr.cc/torrenti/6/8a/Lyisyiy.nyan.2025.KP.WEB-DL.1080p.ELEKTRI4KA_57672_74.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Плагиатор
+https://go6.utorr.cc/torrenti/2/e3/Plagiator.2025.WEB-DL_720p.Files-x.mkv_56411_37.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Соловей против Муромца
+https://go6.utorr.cc/torrenti/7/3e/Solovey.protiv.Muromtsa.2025.WEB-DL.1080p.ELEKT_56192_58.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  На деревню дедушке
+https://go6.utorr.cc/torrenti/b/67/Na.derevnyu.dedushke.2025.WEB-DL.1080p.mkv_56502_87.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Зверополис 2
+https://go6.utorr.cc/torrenti/3/ee/Zveropolis.2.2025.WEBRip.1080p.mkv_57532_20.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Зверопоезд
+https://go6.utorr.cc/torrenti/3/d4/Falcon.Express.1080p.WEB-DL.mkv_56811_74.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Элио
+https://go6.utorr.cc/torrenti/b/a7/Elio.2025.720p.BluRay.DD.5.1.x264-MegaPeer.mkv_56405_54.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Алиса в Стране чудес
+https://go6.utorr.cc/torrenti/4/b7/Alisa.v.Strane.chudes.2025.WEBRip.1080p.mkv_57660_79.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-03/thumbs/1740998409_e1671dd5ad.jpg", Волшебник Изумрудного города. Дорога из желтого кирпича 
+https://go6.utorr.cc/torrenti/7/89/The.Wizard.of.the.Emerald.City.2024.1080p.WEB-D_55176_97.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-02/thumbs/1740218449_1a185211e9.jpg", Финист. Первый богатырь
+https://go6.utorr.cc/torrenti/a/16/Finist.Pervyy.bogatyr.2024.WEB-DL.1080p.ExKinoR_55085_4.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-02/thumbs/1739115504_3476c23487.jpg", Домовенок Кузя 
+https://go6.utorr.cc/torrenti/d/44/Domovenok.Kuzya.2024.AC3.6.ch.WEB-DL.1080p.ELEKTRI4KA_54903_40.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-02/thumbs/1739109663_bc808bc58d.jpg",  Постучись в мою Тверь
+https://go6.utorr.cc/torrenti/e/68/Postuchis.v.moyu.Tver.2024.WEB-DL.1080p.ExKinoR_54895_99.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2023-11/thumbs/1700453145_0d2cef73cc.jpg", Вася не в себе
+https://go6.utorr.cc/torrenti/9/bf/Vasya.ne.v.sebe.2023.WEB-DL.1080p.ELEKTRI4KA_50142.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2023-10/thumbs/1696269186_8f3ba73dd8.jpg",  Вызов
+https://go6.utorr.cc/torrenti/1/e1/Vizov.2023.WEB-DLRip.AVC.ExKInoRay.mkv_48714.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  По-братски
+https://go6.utorr.cc/torrenti/9/26/Po-bratski.2025.WEBRip.1080p.mkv_57701_59.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Все, что тебя касается
+https://go6.utorr.cc/torrenti/c/76/Vse.chto.tebia.kasaetsia.2025.WEB-DL.1080p.ExKi_55972_27.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Мышиный переполох
+https://go6.utorr.cc/torrenti/e/2a/A.Mouse.Hunt.for.Christmas.2025.WEB-DL.1080p.mk_57691_59.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Невероятные приключения Шурика
+https://go6.utorr.cc/torrenti/3/af/Neverojatnye.prikljuchenija.SHurika.2025.WEB-DL_57722_73.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Пять ночей с Фредди 2
+https://go6.utorr.cc/torrenti/9/d4/Five_Nights_at_Freddys_2_2025_WEB-DL_1080p_ot_N_57542_40.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  Август
+https://go6.utorr.cc/torrenti/e/71/Avgust.2025.WEB-DL.720p.ExKinoRay.mkv_57456_9.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png",  В списках не значился
+https://go6.utorr.cc/torrenti/8/50/V.Spiskah.Ne.Znachilsya.2025.WEB-DL.1080p.ExKin_56072_6.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png", Первый на Олимпе
+https://go6.utorr.cc/torrenti/3/2a/Pervyiy.na.Olimpe.2025.WEB-DL.1080p.ELEKTRI4KA_57402_74.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png", Беги
+https://go6.utorr.cc/torrenti/1/90/Begi_2025_WEB-DL_1080p_56781_94.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png", F1
+https://go6.utorr.cc/torrenti/5/d5/F1.The.Movie.2025.DUB.BDRip.2.18Gb.MegaPeer_56423_20.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png", Туда
+https://go6.utorr.cc/torrenti/8/a0/Tuda.2025.WEB-DL.1080p.mkv_56124_15.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://proxys.io/files/blog/torrent/torrent.png", Кракен
+https://go6.utorr.cc/torrenti/f/13/Kraken.2025.WEB-DL.1080p.seleZen.mkv_56035_6.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2022-05/thumbs/1653164154_0a9645d.jpg", Батя
+https://go6.utorr.cc/torrenti/3/05/BatyaWEBDL1080p.mkv_39026.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-05/thumbs/1747383224_40012eb5ee.jpg", Батя 2. Дед
+https://go6.utorr.cc/torrenti/6/db/Batya.2.Ded.2025.WEB-DL.1080p.mkv_55863_16.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-05/thumbs/1746268101_7507eb5e82.jpg", Один хороший день
+https://go6.utorr.cc/torrenti/2/e0/Odin.horoshiy.den.2025.WEB-DL.1080p.ExKinoRay.m_55770_19.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-04/thumbs/1744455197_1adf78fb41.jpg", Кончится лето
+https://go6.utorr.cc/torrenti/6/a8/Konchitsja_leto_2024_WEBRip.avi_55502_74.torrent
+#EXTINF:-1 group-title="AceStream_ФИЛЬМ" tvg-id="no_epg_cinema" tvg-logo="https://go6.utorr.cc/uploads/posts/2025-11/thumbs/1764168853_b15a53cec6.jpg", Хищник: Планета смерти
+https://go6.utorr.cc/torrenti/3/d3/Predator.Badlands.2025.1080p.AMZN.WEB-DL.H.264-EniaHD_57316_62.torrent
+
+
+
+
 
 
 
