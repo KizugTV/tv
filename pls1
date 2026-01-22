@@ -17,10 +17,14 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
-
+#EXTINF:-1 group-title="ТЕСТ",Кинозал
+http://185.57.68.33/237/mpegts
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://smotret.tv/images/scripach-tv.jpg",SCRIPACH TV
 https://kino-stream.online/hls/scripach.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOueiLoTZD4lDh5fLNEP5L0Agu_Xjx4LVPA&s",VHDV TV
+https://kino-stream.online/hls/vhdvtv.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mb-tv-vhs.jpg?itok=4Bus4WDa",MB TV
 https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
@@ -661,7 +665,8 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc
 
 
 
-
+#EXTINF:-1 group-title="KIDS CLUB" tvg-logo="https://i.ibb.co/GQwpvZ0S/images.jpg",ARM TOON TV
+http://185.57.68.33/236/mpegts
 #EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Looloo Kids TV
 http://86.124.20.15:50013
 #EXTINF:-1 group-title="KIDS CLUB" tvg-id="no_epg_mult",Amou Yazid TV
@@ -717,8 +722,7 @@ http://86.124.20.15:50001
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CLUB" tvg-logo="https://i.imgur.com/jcIprmt.png",Ryan and Friends
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="KIDS CLUB" tvg-logo="https://i.ibb.co/GQwpvZ0S/images.jpg",ARM TOON TV
-http://185.57.68.33/236/mpegts
+
 #EXTINF:-1 group-title="KIDS CLUB" tvg-logo="https://i.imgur.com/WxLHBwu.png",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="KIDS CLUB",Urban TV Kids
@@ -4838,6 +4842,9 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?
 #EXTINF:-1 group-title="🎬Кино и сериалы",Душевное HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
 
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",Еврокино
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="🎬Кино и сериалы",ЕВРОКИНО
 http://178.163.24.54:4022/udp/234.0.0.176:2000
 #EXTINF:-1 group-title="🎬Кино и сериалы",Еврокино
@@ -8474,7 +8481,8 @@ http://45.11.139.43:8555/fitnes/index.m3u8
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 group-title="Армения" tvg-logo="https://livemaralik.do.am/icon/highvision.png",Շանթ High Vision
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Армения",Азатутюн ТВ (Свобода ТВ)
+http://185.57.68.33/240/mpegts
 
 
 
@@ -8547,8 +8555,10 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="Україна(VPN)" tvg-logo="http://epg.one/img/8917.png",Твоє Кіно ACTION HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1 group-title="Україна(VPN)" tvg-logo="http://epg.one/img/8919.png",Твоє Кіно HIT HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",Viasat Kino Comedy HD
@@ -8799,10 +8809,7 @@ http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",ТВА tva*in-ua
 http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Україна(VPN)" tvg-logo="http://epg.one/img/8917.png",Твоє Кіно ACTION HD
-http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 group-title="Україна(VPN)" tvg-logo="http://epg.one/img/8919.png",Твоє Кіно HIT HD
-http://193.27.209.122/tvoje_kino_hit/index.m3u8
+
 #EXTINF:-1 group-title="Україна(VPN)",Тернопіль 1
 http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="Україна(VPN)",Тернопіль 1
@@ -9080,8 +9087,36 @@ http://stream.pervoe.fm:8000/
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://top-radio.ru/assets/image/radio/180/novoe-v2.png" tvg-id="no_epg_radio", Новое Радио
 http://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3
 
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://top-radio.ru/assets/image/radio/180/logo_DFM_kra.png" tvg-id="no_epg_radio", DFM
-http://195.128.153.151:8000/dfm_krasnodar
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c5ae944b.jpg",DFM FM (Уссурийск)
+https://stream06.pcradio.ru/dfm_ussur-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d790056e.jpg",DFM 101.2 (Москва)
+https://stream06.pcradio.ru/dfm_moscow-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09cf1a6dbf.jpg",DFM 104.7 (Казань)
+https://stream06.pcradio.ru/dfm_kazan-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09ce6100be.jpg",DFM 106.0 FM (Краснодар)
+https://stream06.pcradio.ru/dfm_krasnodar-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c56ceec1.jpg",DFM 106.6 (Бийск)
+https://stream06.pcradio.ru/dfm_biysk-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/6216125a2ff16.jpg",DFM Avicii
+https://stream06.pcradio.ru/rad_dfmvci-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c3d8b90d.jpg",DFM Chill
+https://stream06.pcradio.ru/rad_dfmchll-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/627dae2d5344e.jpg",DFM Gansta Deep
+https://stream06.pcradio.ru/rad_dfmgnstdp-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d417ff88.jpg",DFM Russian Dance
+https://stream06.pcradio.ru/dfm_russian_dance-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d41855af.jpg",DFM Trap
+https://stream06.pcradio.ru/dfm_trap-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c401d725.jpg",DFM Грустный Дэнс
+https://stream06.pcradio.ru/rad_rudfgrudnc-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09ce6af104.jpg",DFM Дискач 90-х
+https://stream06.pcradio.ru/dfm_diskach90s-med
+
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09cc870ff0.jpg",Legend FM - Game Radio
+https://stream06.pcradio.ru/legendfm_game-med
+
+#EXTINF:-1 group-title="📻Радио" tvg-logo="http://kharkov-z.ru/z-logo-line.png",Радио Харьков Z
+http://node1.craftradio.ru:8000/215_55AE795B
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://top-radio.ru/assets/image/radio/180/humorfm.jpg" tvg-id="no_epg_radio", Юмор FM
 https://srv21.gpmradio.ru:8443/stream/air/aac/64/102
@@ -9330,27 +9365,5 @@ https://stream.pcradio.ru/rad_rtrclbrdttr-med
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/65f5fac00ac67.jpg" tvg-id="no_epg_radio", Старый Портфель Радио
 https://stream.pcradio.ru/rad_oldportfl-med
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
