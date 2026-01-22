@@ -9072,7 +9072,7 @@ https://online.fefm.ru:8443/fefm
 #EXTINF:-1 group-title="📻Радио" tvg-id="no_epg_radio" tvg-logo="https://radio-volna.com/uploads/posts/2025-12/krasnodar-99_8-fm.webp", Краснодар FM
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 
-#EXTINF:-1 group-title="📻Радио",MCM HD
+#EXTINF:-1 group-title="📻Радио" tvg-id="no_epg_radio" tvg-logo="https://thumbs.dreamstime.com/b/mcm-logo-icon-monogram-letter-minimalist-circle-flat-unique-modern-abstract-design-390186340.jpg", MCM HD
 http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://kazak.fm/svg/logo.svg" tvg-id="no_epg_radio", Казак FM
@@ -9087,32 +9087,148 @@ http://stream.pervoe.fm:8000/
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://top-radio.ru/assets/image/radio/180/novoe-v2.png" tvg-id="no_epg_radio", Новое Радио
 http://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3
 
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c5ae944b.jpg",DFM FM (Уссурийск)
-https://stream06.pcradio.ru/dfm_ussur-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d790056e.jpg",DFM 101.2 (Москва)
-https://stream06.pcradio.ru/dfm_moscow-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09cf1a6dbf.jpg",DFM 104.7 (Казань)
-https://stream06.pcradio.ru/dfm_kazan-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09ce6100be.jpg",DFM 106.0 FM (Краснодар)
-https://stream06.pcradio.ru/dfm_krasnodar-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c56ceec1.jpg",DFM 106.6 (Бийск)
-https://stream06.pcradio.ru/dfm_biysk-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/6216125a2ff16.jpg",DFM Avicii
-https://stream06.pcradio.ru/rad_dfmvci-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c3d8b90d.jpg",DFM Chill
-https://stream06.pcradio.ru/rad_dfmchll-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/627dae2d5344e.jpg",DFM Gansta Deep
-https://stream06.pcradio.ru/rad_dfmgnstdp-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d417ff88.jpg",DFM Russian Dance
-https://stream06.pcradio.ru/dfm_russian_dance-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09d41855af.jpg",DFM Trap
-https://stream06.pcradio.ru/dfm_trap-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09c401d725.jpg",DFM Грустный Дэнс
-https://stream06.pcradio.ru/rad_rudfgrudnc-med
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09ce6af104.jpg",DFM Дискач 90-х
-https://stream06.pcradio.ru/dfm_diskach90s-med
 
-#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09cc870ff0.jpg",Legend FM - Game Radio
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09ce6100be.jpg" tvg-id="no_epg_radio",DFM
+https://stream06.pcradio.ru/dfm_krasnodar-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM Avicii
+https://stream06.pcradio.ru/rad_dfmvci-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM Грустный Дэнс
+https://stream06.pcradio.ru/rad_rudfgrudnc-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM Дискач 90-х
+https://stream06.pcradio.ru/dfm_diskach90s-med
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM LOFI
+https://hls-01-dfm.hostingradio.ru/lofi/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM IBIZA
+https://hls-01-dfm.hostingradio.ru/ibiza/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM RUSSIAN DANCE
+https://hls-01-dfm.hostingradio.ru/dfmrusdance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM GLOBAL DANCE
+https://hls-01-dfm.hostingradio.ru/globaldance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DISCO 90s
+https://hls-01-dfm.hostingradio.ru/disc90/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM POP DANCE
+https://hls-01-dfm.hostingradio.ru/popdance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DEEP
+https://hls-01-dfm.hostingradio.ru/dfmdeep/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM KALIAN RAP
+https://hls-01-dfm.hostingradio.ru/kalianrap/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM SAD DANCE
+https://hls-01-dfm.hostingradio.ru/saddance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM INSOMNIA
+https://hls-01-dfm.hostingradio.ru/insomnia/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM BASS HOUSE
+https://hls-01-dfm.hostingradio.ru/basshouse/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM RUSSIAN GOLD
+https://hls-01-dfm.hostingradio.ru/russiangold/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM PARTY
+https://hls-01-dfm.hostingradio.ru/dfmparty/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM TRANCE
+https://hls-01-dfm.hostingradio.ru/trance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM CLUB
+https://hls-01-dfm.hostingradio.ru/dfmclub/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM RUSSIAN RAVE
+https://hls-01-dfm.hostingradio.ru/russianrave/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DANCE HALL
+https://hls-01-dfm.hostingradio.ru/dancehall/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFMPSY TRANCE
+https://hls-01-dfm.hostingradio.ru/psytrance/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM SLAP BASS
+https://hls-01-dfm.hostingradio.ru/slapbass/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM TECHHOUSE
+https://hls-01-dfm.hostingradio.ru/techhouse/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM REMAKE
+https://hls-01-dfm.hostingradio.ru/remake/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DANCE GOLD 90s
+https://hls-01-dfm.hostingradio.ru/dancegold90/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM CHILL
+https://hls-01-dfm.hostingradio.ru/dfmchill/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM GANGSTA DEEP
+https://hls-01-dfm.hostingradio.ru/gangstadeep/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM HANDSUP
+https://hls-01-dfm.hostingradio.ru/handsup/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DRUM
+https://hls-01-dfm.hostingradio.ru/drum/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM TRAP
+https://hls-01-dfm.hostingradio.ru/dfmtrap/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM KPOP
+https://hls-01-dfm.hostingradio.ru/kpop/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM PRODIGY
+https://hls-01-dfm.hostingradio.ru/prodigy/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DISCO
+https://hls-01-dfm.hostingradio.ru/disco/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DANCE GOLD 2000s
+https://hls-01-dfm.hostingradio.ru/dancegold00/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DANCE GOLD 2020s
+https://hls-01-dfm.hostingradio.ru/dancegold20/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM PUMP
+https://hls-01-dfm.hostingradio.ru/pump/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM POP GOLD 2010s
+https://hls-01-dfm.hostingradio.ru/popgold10/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM POP GOLD 2000s
+https://hls-01-dfm.hostingradio.ru/popgold00/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DANCE GOLD 2010s
+https://hls-01-dfm.hostingradio.ru/dancegold10/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM ORGANIC CHOUSE
+https://hls-01-dfm.hostingradio.ru/organichouse/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM FUTURE BASS
+https://hls-01-dfm.hostingradio.ru/futurebass/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM SCOOTER
+https://hls-01-dfm.hostingradio.ru/scooter/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM POP GOLD 90s
+https://hls-01-dfm.hostingradio.ru/popgold90/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM POP GOLD 2020s
+https://hls-01-dfm.hostingradio.ru/popgold20/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM LIQUID
+https://hls-01-dfm.hostingradio.ru/liquid/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM GUETTA
+https://hls-01-dfm.hostingradio.ru/guetta/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM AVBURREN
+https://hls-01-dfm.hostingradio.ru/avburren/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM BREAKBEAT
+https://hls-01-dfm.hostingradio.ru/breakbeat/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM TIESTO
+https://hls-01-dfm.hostingradio.ru/tiesto/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM SKRILLEX
+https://hls-01-dfm.hostingradio.ru/skrillex/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM GARRIX
+https://hls-01-dfm.hostingradio.ru/garrix/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM HOUSE MAFIA
+https://hls-01-dfm.hostingradio.ru/housemafia/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM VESTIVAL GOLD
+https://hls-01-dfm.hostingradio.ru/festivalgold/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM SAVAN DEAT
+https://hls-01-dfm.hostingradio.ru/savanbeat/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM AFRO VIBES
+https://hls-01-dfm.hostingradio.ru/afrovibes/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM AVICII
+https://hls-01-dfm.hostingradio.ru/avicii/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM HARRIS
+https://hls-01-dfm.hostingradio.ru/harris/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM NEUROFLOW
+https://hls-01-dfm.hostingradio.ru/neuroflow/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM GORILLAZ
+https://hls-01-dfm.hostingradio.ru/gorillaz/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM DAFTPUNK
+https://hls-01-dfm.hostingradio.ru/daftpunk/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM PIONER
+https://hls-01-dfm.hostingradio.ru/pioneer/320/playlist.m3u8
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.ibb.co/ZpXKCmx7/f1cfe4ac-566b-4f20-b198-3307b6c13a0b.jpg" tvg-id="no_epg_radio",DFM IGROMANIA
+https://hls-01-dfm.hostingradio.ru/igromania/320/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="📻Радио" tvg-logo="https://pcradio.ru/images/stations/61b09cc870ff0.jpg" tvg-id="no_epg_radio",Legend FM - Game Radio
 https://stream06.pcradio.ru/legendfm_game-med
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="http://kharkov-z.ru/z-logo-line.png",Радио Харьков Z
