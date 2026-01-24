@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, http://epg.ru-tv.site/14.xml"
 
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление: 24.01.2026
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
@@ -867,13 +867,13 @@ https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russk
 #EXTINF:-1 group-title="🎶Музыка", Bridge TV Hits
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="Bridge TV Фрэш HD"tvg-logo="https://lighticons.art/storage/images/channels/f23ab4646bc62bc9b60ec31c870b1255.png?d=1746380565" catchup-days="0",Bridge TV Фрэш HD
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="Bridge TV Фрэш HD" tvg-logo="https://lighticons.art/storage/images/channels/f23ab4646bc62bc9b60ec31c870b1255.png?d=1746380565",Bridge TV Фрэш HD
 http://195.158.223.132:8004/Bridge_Fresh
 
-#EXTINF:-1 group-title="🎶Музыка",Bridge TV Classic
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTMzMTMxMSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NzI2NTExLCJzZXNzaW9uX2lkIjoiNDE5MzgwYjNmYjIzMGY4MWE1YTM4NjYyYTlkNDY1YTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.8KO1DQx8rc9XBft7r0zpmCDb5YQ6LoyS7y7r-UC2YPI
 
-#EXTINF:-1 group-title="🎶Музыка", Bridge TV Rock
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png", Bridge TV Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png", Bridge Classic
@@ -916,7 +916,7 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="🎶Музыка",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 
-#EXTINF:-1 group-title="🎶Музыка",Disco Mix
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RNmVXwxMzhDLSAwEZvdM3yBQTfzdgYNCSA&s" group-title="🎶Музыка",Disco Mix
 http://185.128.97.154:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка", 1HD music television
