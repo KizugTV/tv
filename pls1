@@ -14,11 +14,26 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
-
-
+#EXTINF:-1 group-title="ТЕСТ",VHS-ка
+http://cdn.admuspeh.my/8962/video.m3u8?token=w8AT5yczJA2WKHY3
+#EXTINF:-1 group-title="ТЕСТ",VHS-ка
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 group-title="ТЕСТ",Kino Mix
+https://kino-stream.online/hls/kinomix.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",Кинозал
 http://185.57.68.33/237/mpegts
+
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 1
+https://tinyurl.com/aleks-u-romki-53/13027/index.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 2
+https://tinyurl.com/aleks-u-romki-53/13028/index.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 3
+https://tinyurl.com/aleks-u-romki-53/13029/index.m3u8
+
+
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://smotret.tv/images/scripach-tv.jpg",SCRIPACH TV
 https://kino-stream.online/hls/scripach.m3u8
@@ -45,6 +60,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://grizly.club/uploads/posts/2023-02/1676061407_grizly-club-p-chaplin-klipart-4.jpg", Chaplin (vpn)
 http://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ",КИНОЗАЛЫ ! Rouge TV
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ТЕСТ",9 канал (Израиль)
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6013
 
@@ -95,10 +115,54 @@ rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQSc
 
 #EXTINF:-1 group-title="ТЕСТ",MiMiTV UZ
 https://fl.biztv.media/MiMiTV_720/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="ТЕСТ",MM КАТАСТРОФА
+https://tinyurl.com/aleks-u-romki-53/13034/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ИСТОРИЯ
+https://tinyurl.com/aleks-u-romki-53/13033/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ЗАТМЕНИЕ
+https://tinyurl.com/aleks-u-romki-53/13032/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM RELAX
+https://tinyurl.com/aleks-u-romki-53/13030/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ВОРОНИНЫ
+https://tinyurl.com/aleks-u-romki-53/13031/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM HONEY
+https://tinyurl.com/aleks-u-romki-53/13026/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM ГРАЙНД ХАУС
+https://tinyurl.com/aleks-u-romki-53/13025/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM Агата Кристи
+https://tinyurl.com/aleks-u-romki-53/13024/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM World
+https://tinyurl.com/aleks-u-romki-53/13023/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Комедия HD
+https://tinyurl.com/aleks-u-romki-53/13019/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Детектив HD
+https://tinyurl.com/aleks-u-romki-53/13096/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Драма HD
+https://tinyurl.com/aleks-u-romki-53/13022/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR 1941-1945 HD
+https://tinyurl.com/aleks-u-romki-53/13018/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Приключения HD
+https://tinyurl.com/aleks-u-romki-53/13060/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Сказки HD
+https://tinyurl.com/aleks-u-romki-53/13021/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ",MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-53/13020/index.m3u8
+
 #EXTINF:-1 group-title="ТЕСТ",MM USSR Мультфильм HD
 https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",MM Скорость HD
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+
+#EXTINF:-1 group-title="ТЕСТ",CineMan Top
+http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
+#EXTINF:-1 group-title="ТЕСТ",CineMan Premium
+http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
+#EXTINF:-1 group-title="ТЕСТ",CineMan Thriller
+http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
+#EXTINF:-1 group-title="ТЕСТ",CineMan Action
+http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 group-title="ТЕСТ",TDK42
 http://188.225.31.197/bpk-tv/000001507/tve/index.m3u8
@@ -833,7 +897,8 @@ http://94.236.201.122/ENGLISH_KIDS_APPS/tracks-v1a1/mono.m3u8
 http://212.102.38.45/live/test_kika_tizen/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CLUB",PLUS PLUS
 https://stream-13.mazana.tv/V2_emn.m3u8s?codec_id=1323&session=e12f55937e5b4ee17847dc4639ed3eec&offset=-0.02
-
+#EXTINF:-1 group-title="KIDS CLUB",Ekids
+http://78.108.244.134:8899/ekids
 
 
 
