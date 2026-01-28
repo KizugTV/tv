@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление: 28.01.2026
+#EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление: 29.01.2026
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://png.klev.club/uploads/posts/2024-04/png-klev-club-84q4-p-yelka-ikonka-png-18.png" tvg-id="no_epg", ПОДДЕРЖАТЬ ЛИСТ!!!
 https://zonam1.ddns.net/hls/stream1.m3u8
@@ -9,10 +9,8 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="ТЕСТ",Том и Джерри
+https://v2.catcast.tv/content/43075/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",VHS-ка
@@ -984,6 +982,12 @@ http://78.108.244.134:8899/ekids
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=uIcYrWFhCC14zHtuTel9RQ&e=2065265096&scheme=https
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://superdiskoteka90.ru/wp-content/uploads/2024/08/Logo.png" tvg-id="no_epg_music",Record Супердискотека 90х
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=U2PEhjCcYfM6F9E8AfMSAg&e=2065265096&scheme=https
+
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://www.myclubtees.com/wp-content/uploads/Trance_EDM_Red.jpg",Record Trance
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vpFz3v_5Gi71_uh6ZlXhOQ&e=2068506969&scheme=https
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aaxeuPPcFKkzuPuVyD6TQWFpG_qhiDuyxw&s",Record Megamix
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
 
 #EXTINF:-1 group-title="🎶Музыка", ТНТ Music
 http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
@@ -5207,6 +5211,513 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan FHD", CineMan FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8952/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-miniseries.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan MiniSeries FHD", CineMan MiniSeries FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8961/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-top.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan TOP FHD", CineMan TOP FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8959/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-marvel.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Marvel FHD", CineMan Marvel FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8951/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-uzhasy.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Ужасы FHD", CineMan Ужасы FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8960/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-thriller.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Триллер FHD", CineMan Триллер FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8954/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Катастрофы FHD", CineMan Катастрофы FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8957/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-premium.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Premium FHD", CineMan Premium FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8967/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-melodrama.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Мелодрама FHD", CineMan Мелодрама FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8955/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-komseri.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Комедийные сериалы FHD", CineMan Комедийные сериалы FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8958/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-musw.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Ментовские войны FHD", CineMan Ментовские войны FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8802/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D1%8B.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Симпсоны", CineMan Симпсоны
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8833/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-gluhar.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Криминальные Сериалы FHD", CineMan Криминальные Сериалы FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8772/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-vovserials.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Военные Сериалы", CineMan Военные Сериалы
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8574/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-aircrash.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Расследование авиакатастроф FHD", CineMan Расследование авиакатастроф FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8826/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-rukino.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan РуКино FHD", CineMan РуКино FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8871/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan СССР HD", CineMan СССР HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9121/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-pes.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan ПёС + ЛИХАЧ FHD", CineMan ПёС + ЛИХАЧ FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8824/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-lesnik.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Лесник FHD", CineMan Лесник FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8767/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-fitnes.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Фитнес FHD", CineMan Фитнес FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8771/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-vhs.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan VHS FHD", CineMan VHS FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8807/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20%D0%A1%D0%BA%D0%BE%D1%80%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Emergency Room FHD", CineMan Emergency Room FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8821/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-svaty.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Сваты FHD", CineMan Сваты FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8825/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%20Big.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Cartoons BIG FHD", CineMan Cartoons BIG FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8866/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%20Short.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Cartoons Short FHD", CineMan Cartoons Short FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8867/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%2090.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Cartoons 90 FHD", CineMan Cartoons 90 FHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8812/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan OLD 4K", CineMan OLD 4K
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8804/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan CCCP 4K", CineMan CCCP 4K
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8795/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/cineman-relax.png" catchup="flussonic" catchup-days="1" tvg-id="CineMan Relax 4K", CineMan Relax 4K
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8822/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%201%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Newfilm 1", MiniMax Newfilm 1
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8741/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%202%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Newfilm 2", MiniMax Newfilm 2
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8742/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%203%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Newfilm 3", MiniMax Newfilm 3
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8743/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%20RU%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax NewFilm RU HD", MiniMax NewFilm RU HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8706/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Семейный 1 HD", MiniMax Семейный 1 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8442/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%202%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Семейный 2 HD", MiniMax Семейный 2 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8449/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Боевик", MiniMax Боевик
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8745/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Ужасы", MiniMax Ужасы
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8725/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Love%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Love HD", MiniMax Love HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8328/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Комедия", MiniMax Комедия
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8708/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Фантастика HD", MiniMax Фантастика HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8631/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Триллер HD", MiniMax Триллер HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8778/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Ужастик HD", MiniMax Ужастик HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8325/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Фобия HD", MiniMax Фобия HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8994/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Драма HD", MiniMax Драма HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8634/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Катастрофа", MiniMax Катастрофа
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8746/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Вестерн HD", MiniMax Вестерн HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8619/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Грайндхаус HD", MiniMax Грайндхаус HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8621/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Криминал HD", MiniMax Криминал HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8624/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Супергерои", MiniMax Супергерои
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8710/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Синематограф HD", MiniMax Синематограф HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8627/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Нуар HD", MiniMax Нуар HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8733/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Затмение HD", MiniMax Затмение HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8685/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Погружение HD", MiniMax Погружение HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8799/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Киберпанк HD", MiniMax Киберпанк HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8545/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Кинофестиваль HD", MiniMax Кинофестиваль HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8658/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Translation%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Translation HD", MiniMax Translation HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8633/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20World%20Hits%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax World Hits HD", MiniMax World Hits HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8617/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Flip%20UHD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Flip UHD", MiniMax Flip UHD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8404/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Стивен Кинг HD", MiniMax Стивен Кинг HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8629/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20UFO%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax UFO HD", MiniMax UFO HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8410/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Скорость HD", MiniMax Скорость HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8916/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Спорт HD", MiniMax Спорт HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8652/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%83%D0%BD%D0%B3-%D0%A4%D1%83%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Кунг-Фу HD", MiniMax Кунг-Фу HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8559/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Роскино", MiniMax Роскино
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8709/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Квартирник HD", MiniMax Квартирник HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8622/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Крутые 90-е HD", MiniMax Крутые 90-е HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8547/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20OldSchool%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax OldSchool HD", MiniMax OldSchool HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8644/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Celebrity%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Celebrity HD", MiniMax Celebrity HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8991/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Ситком HD", MiniMax Ситком HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8628/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Ситком 2.0 HD", MiniMax Ситком 2.0 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8623/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Агата Кристи HD", MiniMax Агата Кристи HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8618/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax История HD", MiniMax История HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8933/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Воронины HD", MiniMax Воронины HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8620/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Сваты HD", MiniMax Сваты HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8893/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Полицейский с Рублёвки HD", MiniMax Полицейский с Рублёвки HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8626/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20007%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax 007 HD", MiniMax 007 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8327/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Classic%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Classic HD", MiniMax Classic HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8632/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Ужасы Classic HD", MiniMax Ужасы Classic HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8630/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20Classic%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Комедия Classic HD", MiniMax Комедия Classic HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8789/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Боевик Classic HD", MiniMax Боевик Classic HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8411/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax USSR Комедия HD", MiniMax USSR Комедия HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8744/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax USSR Драма HD", MiniMax USSR Драма HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8894/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax USSR Детектив HD", MiniMax USSR Детектив HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8656/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax USSR Сказки HD", MiniMax USSR Сказки HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8616/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%201941-1945%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax USSR 1941-1945 HD", MiniMax USSR 1941-1945 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8614/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax USSR Приключения HD", MiniMax USSR Приключения HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8615/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax USSR Мультфильм HD", MiniMax USSR Мультфильм HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8913/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Live%20Planet%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Live Planet HD", MiniMax Live Planet HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8599/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Relax%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Relax HD", MiniMax Relax HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8793/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Приключения HD", MiniMax Приключения HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8779/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Мифология HD", MiniMax Мифология HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8625/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Микромир HD", MiniMax Микромир HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8635/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Макромир HD", MiniMax Макромир HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8636/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Мегамир HD", MiniMax Мегамир HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8770/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Experiment%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Experiment HD", MiniMax Experiment HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8643/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Открытия HD", MiniMax Открытия HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8647/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Rock%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Rock HD", MiniMax Rock HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8679/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Walt%20Disney%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Walt Disney HD", MiniMax Walt Disney HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8914/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Tom%20and%20Jerry%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MiniMax Tom and Jerry HD", MiniMax Tom and Jerry HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8997/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Honey%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Honey HD", MiniMax Honey HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8895/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Lesson%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Lesson HD", MiniMax Lesson HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8597/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Family%20Guy%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Family Guy HD", MiniMax Family Guy HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8645/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MM%20Smile%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MiniMax Smile HD", MiniMax Smile HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8587/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20Animated%20HD.png" catchup="flussonic" catchup-days="1" tvg-id="MS ANIMATED HD", MS ANIMATED HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8993/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20TOONS%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MS TOONS HD", MS TOONS HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8639/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20CRIME%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MS CRIME HD", MS CRIME HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8637/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20PRISONS%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MS PRISONS HD", MS PRISONS HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8638/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20Young%20Blood%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MS YOUNG BLOOD HD", MS YOUNG BLOOD HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8642/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/MS%20MAGIC%20HD.png" catchup="flussonic" catchup-days="3" tvg-id="MS MAGIC 4K", MS MAGIC 4K
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8657/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Brief.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Brief", GoldLine Brief
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8568/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Evidence.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Evidence", GoldLine Evidence
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8569/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Exist.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Exist", GoldLine Exist
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8489/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Island.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Island", GoldLine Island
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8534/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Naked_and_Funny.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Голые и cмешные HD", GoldLine Голые и cмешные HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8570/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Psycho.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Psycho", GoldLine Psycho
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8483/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Series.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Series", GoldLine Series
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8533/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Survival.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Survival", GoldLine Survival
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8571/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Detektiv.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Детектив", GoldLine Детектив
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8573/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/GL_Nevskiy.png" catchup="flussonic" catchup-days="3" tvg-id="GoldLine Невский", GoldLine Невский
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/8501/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_aladdin.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Аладдин HD", Kernel TV Аладдин HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9021/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_alice.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Алиса HD", Kernel TV Алиса HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9031/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_anime.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Аниме HD", Kernel TV Аниме HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9048/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_barboskiny.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Барбоскины HD", Kernel TV Барбоскины HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9049/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_ben_ten.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Бен 10 HD", Kernel TV Бен 10 HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9050/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_buba.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Буба HD", Kernel TV Буба HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9051/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_vini_i_ego_druzya.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Винни и его друзья HD", Kernel TV Винни и его друзья HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9053/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_gravity_falls.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Гравити Фолз HD", Kernel TV Гравити Фолз HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9056/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_gubob.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Губка Боб Квадратные Штаны HD", Kernel TV Губка Боб Квадратные Штаны HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9057/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_dracony_i_vsadniki.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Драконы и всадники Олуха HD", Kernel TV Драконы и всадники Олуха HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9059/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_star_wars_the_clone_wars_series.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Звёздные войны HD", Kernel TV Звёздные войны HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9060/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_turbo.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Команда Турбо HD", Kernel TV Команда Турбо HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9062/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_lego.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Лего HD", Kernel TV Лего HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9065/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_ledi_bag.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Леди Баг и супер Кот HD", Kernel TV Леди Баг и супер Кот HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9066/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_lilo_i_stith.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Лило и Стич HD", Kernel TV Лило и Стич HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9067/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_luntik.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Лунтик и его друзья HD", Kernel TV Лунтик и его друзья HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9068/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_luk_time.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Люк путешественник во времени HD", Kernel TV Люк путешественник во времени HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9069/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_magik.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Магия HD", Kernel TV Магия HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9070/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_masha_i_medved.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Маша и Медведь HD", Kernel TV Маша и Медведь HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9072/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_marvser.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Марвел сериалы HD", Kernel TV Марвел сериалы HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9073/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_mimimihki.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Ми-ми-мишки HD", Kernel TV Ми-ми-мишки HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9074/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_miniforce.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV МиниФорс HD", Kernel TV МиниФорс HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9075/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_my_litle_pony.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Мой маленький Пони HD", Kernel TV Мой маленький Пони HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9076/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_puhustici.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Пушистики HD", Kernel TV Пушистики HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9078/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_rusalochka.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Русалочка HD", Kernel TV Русалочка HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9079/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_smeshariki.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Смешарики HD", Kernel TV Смешарики HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9081/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_sonic_bum.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Сонник Бум HD", Kernel TV Сонник Бум HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9082/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_super_wings.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Супер крылья HD", Kernel TV Супер крылья HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9083/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_timon_i_pumba.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Тимон и Пумба HD", Kernel TV Тимон и Пумба HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9085/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_tom_i_djerri.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Том и Джерри HD", Kernel TV Том и Джерри HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9033/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_ductles.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Утиные истории HD", Kernel TV Утиные истории HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9087/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_fixiki.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Фиксики HD", Kernel TV Фиксики HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9088/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_fines_i_ferb.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Финес и Ферб HD", Kernel TV Финес и Ферб HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9089/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_futurama.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Футурама HD", Kernel TV Футурама HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9090/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_carevny.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Царевны HD", Kernel TV Царевны HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9091/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_grand_spider_man.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Человек-паук HD", Kernel TV Человек-паук HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9092/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_turtles_ninja.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Черепашки ниндзя HD", Kernel TV Черепашки ниндзя HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9093/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_chip_i_deyl.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Чип и Дейл HD", Kernel TV Чип и Дейл HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9094/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_chernyy_plashch.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Чёрный плащ HD", Kernel TV Чёрный плащ HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9095/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_pups_patrol.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Щенячий патруль HD", Kernel TV Щенячий патруль HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9096/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_bum_dom.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Бумажный дом HD", Kernel TV Бумажный дом HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9052/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_time.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Время HD", Kernel TV Время HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9054/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_geroy.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Герой HD", Kernel TV Герой HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9055/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_doctor.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Доктор HD", Kernel TV Доктор HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9058/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Интерны HD", Kernel TV Интерны HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9061/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_comedy.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Комедия HD", Kernel TV Комедия HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9063/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_kosmoc.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Космос HD", Kernel TV Космос HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9064/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_new_movies.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Новинки HD", Kernel TV Новинки HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9077/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_svaty.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Сваты HD", Kernel TV Сваты HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9080/video.m3u8?token=BE7p6prsexSar3Qv
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/kernel_happy_new_year.png" catchup="flussonic" catchup-days="3" tvg-id="Kernel TV Счастливого нового года HD", Kernel TV Счастливого нового года HD
+#EXTGRP:USPEH_TOKEN
+http://cdn.admuspeh.my/9084/video.m3u8?token=BE7p6prsexSar3Qv
 
 
 
