@@ -9,8 +9,18 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
-#EXTINF:-1 group-title="ТЕСТ",Том и Джерри
-https://v2.catcast.tv/content/43075/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ТЕСТ",Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",VHS-ка
@@ -337,21 +347,21 @@ http://178.163.24.54:4022/udp/234.0.0.240:2000
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="📺Эфирные",РЕН ТВ International
-https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+http://178.134.1.158:8081/RENTV/index.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные", СТС HD
 http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 #EXTINF:-1 group-title="📺Эфирные", СТС International
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 group-title="📺Эфирные", Домашний
-http://178.163.121.127:4022/udp/234.0.0.191:2000
+http://178.163.24.54:4022/udp/234.0.0.191:2000
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ДОМАШНИЙ", ДОМАШНИЙ HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://federal.tv/i/tv3.png", ТВ3
-http://178.163.121.127:4022/udp/234.0.0.171:2000
+http://178.163.24.54:4022/udp/234.0.0.171:2000
 
 #EXTINF:-1 group-title="📺Эфирные",ТВ3 HD
 https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
@@ -387,8 +397,6 @@ http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_20000
 #EXTINF:-1 group-title="📺Эфирные",	ТНТ-International (СНГ)
 #EXTVLCOPT:http-user-agent=KizugTV
 http://178.134.1.158:8081/tnt/index.m3u8
-#EXTINF:-1 group-title="📺Эфирные",ТНТ-International (Европа)
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные", Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
@@ -447,8 +455,8 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/04/pls
 #EXTINF:-1 group-title="✅Новости" tvg-id="solovjinypomiot" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ed/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F.png/revision/latest/scale-to-width-down/1200?cb=20210301200256&path-prefix=ru", Новороссия ТВ
 http://185.229.235.30:8005/udp/225.15.3.149:2345
 
-#EXTINF:-1 group-title="✅Новости" tvg-id="Настоящее время", Настоящее время HD (ИНОАГЕНТ) VPN
-https://clck.ru/3F6ZUq
+#EXTINF:-1 group-title="✅Новости" tvg-id="Настоящее время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время HD (ИНОАГЕНТ) VPN
+http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 #EXTINF:-1 group-title="✅Новости" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEUbhtb///////wah9YAf9T8//8bhtj///3//f3///r9//0ahdQAgdQAe9UShdj7/v8AfdrZ6/fh7/Qbh9Lr9vrm9/oAfdQYiNIXht7f8ff/+//X6/gAf9kAfs7k7/jt9fw7ldbz/fsvjtPP4/Pe7Pzc6PE+l9UnkNonjdIpjt1cqeUAetlMmtvU5PHP4vbV7vgQmbyyAAAKBElEQVR4nO2dfXObOBDGES+SQSAHK0ftJiZpWl+b6137/b/daQG/gIUQNkVkZn8z91c7lMfSo5WWXZ3nIQiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIMjUUCmnfmTA+dSPvANKuZj8md52QRIDGUyu0JM8mPyZNyPSsnyY+JH88VtIp33mjfBPINAnm9CbbBzVlEgfGdsVYnJ730Cw9cKS+MTPw8l8UwkkK3bYiwXMVC6LMo4jRsgum2pW0fSFfGYRIfkSJqoI1RQlCYsTtpnIi8J7JCRerRNG8myaR94KeLAS2LB5loLe+atLKdK//Kh6XuL7h8ypF48ePPHtp3evGQMvffQjv3roKl6zfC8cxkXwoB9HyUkh24Uqit01ijR9JFEzhtHKZ+R36HC1qcIEOStkIFHepVB4L2rR8uuJkaxXSULyws1ywwOuPEiuKLPbd3BcCn704Im48uL0e6ZBPm1lWKoVtKtQxembfUPp2YOn5/lr/7B3MVMpLUpSxcE2kZpVtz5TiJeTB4+sP/ux8qKDMaQQJhISdxXeERcFf2GrowfPEpn6Z/LJdhN2VB7c+V1xJzY3eFEGNP0rjrTPi2J/l4X3rdHjqD3I9K8DlNlohbAXjSP/ak4A4MVduJ3Ti7SKg1cePJLcsKGEvajyoPaZyov+vF6s42Ci/b0B9aLlwziJagTJisRMP4ZrpoLuYS4v0qC1F+1jM2JFVR70VBw0PpSpuFjQOTZwlAbgwUGFYw5TgRAqDpofCl7M93SGmSp50N6L9pCwPLR+aHodB7tUcbH8NIdCIUr4RYcUMhUXLSdq5cF44IlsTRjL03nW04eNfx3pdYQ0GJypkJPpi4NtfBX3+TyLDQ1zMjhLbRWa4mBH4FN27/HaGh7uLJYaO4XCEAfbAg8Fp3ImiYJnm4kUggdZXxxs8VSoh801htSrJA6uNkMKlQfF1XlQA1ORZDYPHuFZfv8YKg++dM+DOtQcntGD1Zup/2RmOFxYKhQWcbAaQ7Vjm8+DQMA9Knixu1MhCCRX50Ed+ZwePKK8+FyyyLhCmBRWcdBi/BJIfc/twYaAZztifEWTQoiDVh5cwQHfhcBq+xTmxjc0KRzhwRnj4CW1F0NjXDQoVKcJ9fJ2HhTze/CChw1Jet+yT+EID7JqkXGKiou9r9qncIQHnwrhIJHYghf9B/4+hVSTF9VzUAcwFx5sv22qye0bFcL3weu8qA41gp6TdbQNBS9qzwY6haa86CUJhImbs+dTU5RMe17UKbQ9D1ZxULhcRFtkufUYNh60OF8eikC49uARSvfauKhRSKUhL9riyXEc7KC8yK4zxBqF4u/IhzBnFLdSf74cDzZA7uZq+dDNUvE9YT4blLgkDzaow9TVW+sUcvEd8oIDU3RJHjxCRXEVF7UKufjxhZjDPfu9LA+eeCg7XuyL+G8RS1hPwHeSk7Gm68W+XVv6njClURtDISdTLGAfo4cXG2aj0OPvUcz0MXH+nMwYBG3nUXvPFly8fen79PFUeIv0YAXkbjbs/OqmE/DbGmZ0exhhWJfrwQZeXGzgTFmMELyo5mrHg3m22PEDIHcTPJwlmhRy/r6Oo3bQWDnLydgCuZtt8LyzURh46Y8vcWeW5pmDvOhY6m8adVwcyggrL57iYlUS7DwnYwfnWTk8hkD4HpNjXIScTOY8J2MDeFEtN76NQs97h5MGa+Kg2osuqImklyqP2uRuBr89eenbl2PKrcqLLt6EZ6rcjc0X0reIJMkqqReZDwV40eorN8RFEufu86JjkUVupVDtUddqq5a5z4uOhYr0MbWpxeDpmxpBuYS86DgET78HHh2s8OGShv+kC9+LapFbuQ4tFMowffXLpaWdbKDyhdjUaIn0lflsEQ1O4xDpC7NSqASS9YqMrUd1TFUvGkfDa6kU6RupK8jK/UdaaqBeNI78wYgvt+lrROp9KaSf5nq/CWi+0Q/X07wx0uxLE1ba16O65lizPTiG4StUqtbpYTWSm4/hxapWrfk+aDwBq7+n9qSt/Oom/Qg778tv9EaFtQdbh3wGe5vFc1knY66nUWGi05QSkdJxV6wFdb1o843eqPAVykrbqX0fvDjn246m+kZ/8dGlVyHEwUhfK74J+d29xH+OoNM/2FsxpPHg2YvT9fVPD+3UqvUpFOl3EvU0hkVkl8k7e4n/GFCr1qoX7f32pOJg14NH4kiFfr5EhbpaNe0XUknVCJq/cm/2Szwv6mrVtPU0IYxgf7Vf7cWfC/Ri14N9CmkdB41juI5H9EzNRSsOmhSCwCQZ6FOLlhYXJdf3Lukqhv4lw1WXwKaY/mam2+mrVdOOYWnoH76kLBakUPTUqmkrhtJvVj1TCSnTxSyogvfUqukrhva99aiXqDkx9d1TN9LsRbXe0kf8qgbOahw3hVzALUp1HNSvjT17GrrP9bU0V+yeFzBRdXFwQKFHn62a+6CX2L0XjT28/efDwkqi+uEce5FT4Zlqtg0n4IfNQP/9kTKdVVIHtYl+MdVsm874qWUvMcmfHe5RIXVvqtk2KaSFRYsmgSqinbs9KsRBYqrZNuZLpV0vse8sj6ri4GAPr3EMqxq4/ttDLoHczZzaaqQ33MM7kPPmhaFnqjWOTnI3InxkQ71L5qovfW24jmjCOxmtgTg42MNrVFj1L2Z2e9Tp7mS0pJsXvUUhUHnRX9vtUZ/ldr48ajcveqtCb4QXSf4wY03Y5d2G9yhsauCsBCZw1d1ceVQrD1opBC9Ku204W7MylXNEDfXO/JF9Hoxj0D8YBla1atqeKR3lLBcLc0++MMJWQ28D/YOWtx3Sob7+s8Q5bojkW/6NraL10Musqh5ey2cO9PWf+G+WxYYHEKcHzwWs6h+0Y6iv/8jXbJbrzOBYcCAsWfXf91X10Y+qF6XGvv4a/+t8H4jFPid+vOqdqbf00Yc7cx41Ir9+/iE5GqRQxln7vasNu6GPnj+b46L/a9bLdgOaHZghX3ZTH31/Xz/wdfaETQZZCHY9Ue/o4X0oiT53w2b14BGx/01i//OVxOqigNt6eGnam0f95SDl1njx6lzA7ujhpc/6i5lm9uAR7hUHTZqN3dFHH0h9HlV50E12Xy03cBnr+Xw3Qf8g5FFbPxt40F1WWIS/iX/hxQn6BzV3Mrrw4BEZtr04xZ1O3TsZ/V8uS91EILLcPx+F2dP9/YPdOxkdTtEaOPlAXGRT3S/a3MlYezFyEQe7hGETF6e7XxQ2cI2359yL9rKtvDjZ/aJV7iarz4sqDk7wgvdCPZEd4phNdb9o1UtM6zs2vi5hBAH4jDTpXRbVnYxuw0QHsS+nvtuQF+V/7heZE5x+SqfsowcvCun0428XQfmUffTKi0KKRf3vAREEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDko/A/OeKJRmJSZ/cAAAAASUVORK5CYII=", ХОДОРКОВСКИЙ LIVE (ИНОАГЕНТ)
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6002
@@ -540,11 +548,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/euronewsru.png",Euronews HD
-http://portal.ott.pink/C4UK_EuronewsRU/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/dozhdsd.png",Дождь HD
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/dozhdsd.png",Дождь HD (ИНОАГЕНТ)
 http://portal.ott.pink/C5UK_DozhdSD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="✅Новости" tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время HD
-http://portal.ott.pink/C4UK_NastoyascheeVremyaHD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
 
 #EXTINF:-1 group-title="✅Новости" tvg-id="no_epg_news" tvg-logo="https://muzz.one/wp-content/uploads/2018/07/radio-rossii-online/Radio-Rossii-logotip-350x350.jpg", Радио России Веб
 http://a0925677.xsph.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
@@ -609,10 +615,7 @@ http://flussonic2.podryad.net/prim24/index.m3u8
 
 
 
-#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://tmsearch.onlinepatent.ru/images/34a/34ad2b69-e297-4db9-b698-e8a00c89aa58.jpg", Маша и Медведь
-https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=355eb677c89d80b913a4270ef8c0a74895e1e25f-4281133-images-thumbs&n=13", Маша и Медведь (Eng)
-https://live21.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult",Простоквашино
 http://tinyurl.com/tvzatak14/Anime_HD/video.m3u8?token=eih4RdVWbj&21yo=0
 #EXTINF:-1 group-title="👶Детские",Funny Kids
@@ -637,16 +640,8 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:-1 group-title="👶Детские", СУББОТА!
 http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
-
-
-#EXTINF:-1 group-title="👶Детские" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJp1tHeldgzgP-Qo9PVNStZL4q5J8LRkCjsw&s", СССР Мультфильмы
-https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="👶Детские",О!
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
-
-#EXTINF:-1 group-title="👶Детские",О!
-http://95.66.188.74/O/mono.m3u8
 
 #EXTINF:-1 group-title="👶Детские", BABY TIME
 
@@ -687,9 +682,6 @@ http://178.163.12.221:4022/udp/234.0.0.210:2000
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 
-#EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
-http://95.66.188.74/RYZHIY/mono.m3u8
-
 #EXTINF:-1 group-title="👶Детские", Капитан Фантастика
 https://jekalich.github.io/smtk/channels/ginger-hd.m3u8
 
@@ -720,11 +712,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTVLCOPT:http-user-agent=KizugTV
 http://s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://i.imgur.com/DnlngRZ.png", Carousel International
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-
 #EXTINF:-1 group-title="👶Детские", Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
+http://178.163.49.177:4022/udp/234.0.0.238:2000
 
 #EXTINF:-1 group-title="👶Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
@@ -752,7 +741,10 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=unikum
 
 #EXTINF:-1 group-title="👶Детские", Детский Мир
-http://178.212.71.253:8002/play/a00v/index.m3u8?token=test
+http://193.25.8.59:8005/detmir
+
+#EXTINF:-1 group-title="👶Детские", Детский Мир
+http://tv.ttk.mx:9063
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -3387,16 +3379,13 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDg6MDQ6MDkgQU0maGFzaF92YWx1ZT1SYU1BdWwzY2s3Vkg4TkxuV2dFYTd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://85.88.175.48:2020/udp/239.4.10.83:2020
-
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",МАТЧ ПРЕМЬЕР
-http://91.207.115.228:5000/c105
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч!
 http://tv.tuva.ru/machtv/index.m3u8
@@ -7037,474 +7026,6 @@ http://ott.server-iptv.live/237/video.m3u8?token=A37feb3eec
 
 
 
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Первый канал
-http://hls.peers.tv/streaming/1kanal/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Первый канал +4
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Россия 1
-http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Россия 1 (+4)
-http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Россия 24
-http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Россия К
-http://api.peers.tv/timeshift/kultura/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТВ HD
-http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТВ (+4)
-http://api.peers.tv/timeshift/ntv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТВ Право
-http://hls.peers.tv/streaming/ntv_pravo/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТВ Сериал
-http://hls.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТВ Стиль
-http://hls.peers.tv/streaming/ntv_stil/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТНТ HD
-http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТНТ
-http://api.peers.tv/timeshift/tnt/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",РЕН ТВ HD
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Рен ТВ (+4)
-http://api.peers.tv/timeshift/rentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТНТ4
-http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",The Explorers
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Viasat Explore
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Viasat Nature
-http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Viasat History
-http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Приключения HD
-http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Глазами Туриста HD
-http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TERRA
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TERRA HD
-http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Travel+Adventure
-http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Travel+Adventure HD
-http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Живая планета
-http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Живая природа HD
-http://hls.peers.tv/streaming/zhivaya_priroda_hd/16/h1080/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Моя планета
-http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Диалоги о рыбалке
-http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Galaxy TV
-http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Наша сибирь HD
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Т24
-http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Наука 2.0
-http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",.black
-http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",.red
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",.sci-fi
-http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",2x2 (+4)
-http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Cinema
-http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",DOCUBOX HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Fan HD
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",FILMBOX
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Filmbox Arthouse
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Star Family HD
-http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Star Cinema
-http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TV XXI
-http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TV1000 Русское кино
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",VIP Megahit HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",VIP Premiere HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",VIP Comedy HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",VIP Serial HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Дом кино Премиум
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Иллюзион+
-http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Капитан Фантастика
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",КИНЕКО
-http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Русский бестселлер
-http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Русский детектив
-http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Русский иллюзион
-http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Русский роман
-http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",САПФИР
-http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Дорама
-http://api.peers.tv/timeshift/dorama/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НСТ
-http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Любимое кино
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Timeless Dizi Channel
-http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Советское кино
-http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",КиноХит
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кинокомедия
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киномикс
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киносвидание
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киносемья
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Наше новое кино
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киносерия
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киноужас
-http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Индийское кино
-http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Индия
-http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кинопоказ
-http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Классика Кино
-http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Комедия
-http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мужской
-http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Краснодар HD
-http://api.peers.tv/timeshift/krasnodar_on_layn/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",КРИК-ТВ
-http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кто Куда
-http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кухня ТВ
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ЛДПР ТВ
-http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Лен ТВ 24
-http://api.peers.tv/timeshift/len_tv24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мир 24
-http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Наша Тема HD
-http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ННТВ
-http://api.peers.tv/timeshift/nntv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",НТС
-http://api.peers.tv/timeshift/nts/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ОРТРК 12 канал
-http://api.peers.tv/timeshift/ortrk12/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ОТР (+4)
-http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ОТС HD
-http://api.peers.tv/timeshift/ots/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",365 дней
-http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Киносат
-http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ностальгия
-http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Победа HD
-http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Поехали!
-http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Домашний
-http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Авто 24
-http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Авто плюс
-http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ВРЕМЯ
-http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ДОН 24
-http://api.peers.tv/timeshift/don_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",12 Канал (Омск)
-http://api.peers.tv/timeshift/kanal_12/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Драйв
-http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Евпатория 24
-http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Еда Премиум
-http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Живи
-http://api.peers.tv/timeshift/jv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Живи активно
-http://hls.peers.tv/streaming/zhivi_aktivno_hd/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Звезда
-http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Про Жизнь
-http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Психология 21
-http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Пятница
-http://api.peers.tv/timeshift/friday/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",РБК
-http://api.peers.tv/timeshift/rbk/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Салям
-http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",САМОТЛОР (Нижневартовск)
-http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Санкт-Петербург
-http://api.peers.tv/timeshift/topspb/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",360 Новости
-http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",49 КАНАЛ
-http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",5 канал +4
-http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",8 канал
-http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",8 канал Красноярский край
-http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Сарафан
-http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Сибирь 24
-http://api.peers.tv/timeshift/sibir_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Союз
-http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",СПАС
-http://api.peers.tv/timeshift/spas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",СТС
-http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",СТС love
-http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТВЦ +4
-http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТВЦ
-http://hls.peers.tv/streaming/tvci/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТВ3
-http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТВК
-http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Телекафе
-http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТИВИКОМ
-http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТНВ-Планета
-http://api.peers.tv/timeshift/tnv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Усадьба
-http://api.peers.tv/timeshift/usadba/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Центральное телевидение
-http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Че
-http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ю (+4)
-http://api.peers.tv/timeshift/utv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ювелирочка
-http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТНТ Music
-http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",МузТВ
-http://api.peers.tv/timeshift/muz_tvnew/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ля-минор
-http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",RU.TV
-http://api.peers.tv/timeshift/rutv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",1HD music television
-http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Song TV Russia
-http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Шансон ТВ
-http://api.peers.tv/timeshift/shanson/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Рыжий
-http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Радость моя
-http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",МУЛЬТ
-http://api.peers.tv/timeshift/mult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мама
-http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Карусель
-http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Супергерои
-http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Солнце
-http://api.peers.tv/timeshift/solntse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TiJi
-http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Da Vinci
-http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Bolt HD
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ani
-http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мультиландия
-http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Матч! страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Viasat Sport HD
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Футбол HD
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",KHL
-http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мир Баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Старт
-http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Русский Экстрим
-http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Пёс и Ко
-http://hls.peers.tv/streaming/pyos_i_ko/16/vh1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",AnimeTV
-http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",BRIDGE
-http://hls.peers.tv/streaming/bridge/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",BRIDGE HITS
-http://hls.peers.tv/streaming/dange_tv/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",BRIDGE РУССКИЙ ХИТ
-http://hls.peers.tv/streaming/rusong_tv/16/vh1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",CGTN Русский
-http://hls.peers.tv/streaming/cgtn_russkiy/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",DuckTV
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Fashion HD
-http://hls.peers.tv/streaming/fashdon/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Luxury
-http://hls.peers.tv/streaming/luxury_world/126/hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",NANO
-http://hls.peers.tv/streaming/nano_tv/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Russia Today Doc
-http://hls.peers.tv/streaming/russia_today_doc/126/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",RTG
-http://hls.peers.tv/streaming/rustravel/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Silk Way
-http://hls.peers.tv/streaming/kazakh_tv/16/h1080/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Silk Way Cinema
-http://hls.peers.tv/streaming/silk_way_cinema/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",TOO MUCH BUSINESS
-http://hls.peers.tv/streaming/muchbusiness/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Алмазный край
-http://hls.peers.tv/streaming/almazny_kray/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ариг Ус
-http://hls.peers.tv/streaming/arig_us/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",АРТ ТВ
-http://hls.peers.tv/streaming/art_tv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Архыз24
-http://hls.peers.tv/streaming/arhyz24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Барс
-http://hls.peers.tv/streaming/barsplus/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Башкортостан 24
-http://hls.peers.tv/streaming/bashkortostan_24/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Благая весть
-http://hls.peers.tv/streaming/good_news/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Брянская Губерния
-http://hls.peers.tv/streaming/bryanskaya_guberniya/126/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",БСТ
-http://hls.peers.tv/streaming/bst/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ВМЕСТЕ-РФ
-http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Детское кино
-http://hls.peers.tv/streaming/childrens_cinema/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ЕГЭ
-http://hls.peers.tv/streaming/ege/16/vh1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Инфо 24
-http://hls.peers.tv/streaming/shadr_info/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Кино 24
-http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Катунь 24
-http://hls.peers.tv/streaming/katun_24/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",КИНОМАН
-http://hls.peers.tv/streaming/kinosat/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ключ
-http://hls.peers.tv/streaming/klyuch/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мамонтенок
-http://hls.peers.tv/streaming/mmntk/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Матур ТВ
-http://hls.peers.tv/streaming/matur/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мегаполис-HD
-http://hls.peers.tv/streaming/megapolis_yugra/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Миллет
-http://hls.peers.tv/streaming/millet/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Музыка Мода ТВ
-http://hls.peers.tv/streaming/muzyka_moda_tv/16/h1080/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Мы
-http://hls.peers.tv/streaming/mi/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Туапсе24
-http://hls.peers.tv/streaming/tuapse24/126/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ТМ-КВАНТ
-http://hls.peers.tv/streaming/tmkvant/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Тайна
-http://hls.peers.tv/streaming/tayna/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",СТРК
-http://hls.peers.tv/streaming/strk/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Про100ТВ
-http://hls.peers.tv/streaming/pro100/126/copy_4_3/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Продвижение
-http://hls.peers.tv/streaming/prodvizhenie/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Ника ТВ
-http://hls.peers.tv/streaming/nika/126/vh1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",О!
-http://hls.peers.tv/streaming/o/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",ОК!
-http://hls.peers.tv/streaming/ok/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)",Открытый Мир
-http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk2NzM4NDcsImlhdCI6MTc2OTU4NzQ0NywiY2lkIjo2LCJ1aWQiOjk5NTgxMzQzNCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.iJaUangu1enNpXHLLNW_b2Cfrklj77HOrd2S0lQvXww&offset=10
 
 
 
