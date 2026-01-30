@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://kino-stream.online/dtr.xml"
 
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d2/lwggaKqrO0T6uxeOeIm7jOabzbd5kVlxJoL2n8rSdYP9H93M2Fxpfk56YT6S5yWPez36o5CReiDUVou4OTdV97othAPpVv2t-tOl8YdCUP5hW83fj2PHkoiNcqTeIapXrHo29F4pTwZ1/ng_ikonka.png" tvg-id="no_epg", Обновление: 30.01.2026
 https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
@@ -970,24 +970,20 @@ http://78.108.244.134:8899/ekids
 
 
 
-
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="dtrmusic1" tvg-logo="https://kino-stream.online/logo/dtr2.png" group-title="Общественные",DTR MUSIC 1 (HD)
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd00zjFUE97nk9gj2j2D_h45wqcv1f_fEmEA&s",Record Russian Hits
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=uIcYrWFhCC14zHtuTel9RQ&e=2065265096&scheme=https
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://superdiskoteka90.ru/wp-content/uploads/2024/08/Logo.png" tvg-id="no_epg_music",Record Супердискотека 90х
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=U2PEhjCcYfM6F9E8AfMSAg&e=2065265096&scheme=https
-
-
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://www.myclubtees.com/wp-content/uploads/Trance_EDM_Red.jpg",Record Trance
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/ccfJFNs4/record-trance.jpg",Record Trance
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vpFz3v_5Gi71_uh6ZlXhOQ&e=2068506969&scheme=https
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aaxeuPPcFKkzuPuVyD6TQWFpG_qhiDuyxw&s",Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
 
-#EXTINF:-1 group-title="🎶Музыка", ТНТ Music
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://ntvplus.tv/files/image/11/31/697/n6w.png",FON music
 http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка", AIVA
-https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="🎶Музыка", Bridge TV
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
@@ -1002,17 +998,16 @@ https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russk
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="Bridge TV Фрэш HD" tvg-logo="https://lighticons.art/storage/images/channels/f23ab4646bc62bc9b60ec31c870b1255.png?d=1746380565",Bridge TV Фрэш HD
-http://195.158.223.132:8004/Bridge_Fresh
+
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png", Bridge TV Rock
-http://178.212.71.253:8000/play/101/index.m3u8
+http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png", Bridge Classic
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
-
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b5/R-music_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9.png/revision/latest?cb=20230323073247&path-prefix=ru", R-Music
 https://otv.wotom.net/rmusic/stream.m3u8
@@ -2616,7 +2611,8 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://iptvcinema.ru/channels/dtrzona1.png",DTR ZONA 1
+
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Общественные",DTR ZONA 1 (HD)
 https://kino-stream.online/hls/DTRZONA1.m3u8
 
 #EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg",НТВ Ты супер!
@@ -5074,13 +5070,17 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬Кино и сериалы",Мир сериала
 http://31.148.48.15/Mir_Seriala/index.m3u8
 
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
+http://193.25.8.59:8000/tnv
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-
-#EXTINF:-1 group-title="🎬Кино и сериалы",Мужское Кино
-
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Настоящее страшное ТВ
 http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2OTkzNzc5MiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MzMyOTkyLCJzZXNzaW9uX2lkIjoiOGQ4YTZlMTBmZGIxNDVkYmZhNzEwNGRiNjJlYzdkYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9vmyP8nWTmd4KTVax1qvv4gp0uhhrM-i7v6ZlYhde2w
