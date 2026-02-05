@@ -994,7 +994,7 @@ http://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
 
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-id="dtrmusic1" tvg-logo="https://kino-stream.online/logo/dtr2.png" group-title="Общественные",DTR MUSIC 1 (HD)
+#EXTINF:-1 group-title="🎶Музыка" tvg-id="dtrmusic1" tvg-logo="https://kino-stream.online/logo/dtr2.png",DTR MUSIC 1 (HD)
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd00zjFUE97nk9gj2j2D_h45wqcv1f_fEmEA&s",Record Russian Hits
