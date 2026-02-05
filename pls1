@@ -5499,31 +5499,6 @@ http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
 
 
 
-#EXTINF:-1 group-title="CPS_VPN", CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Comedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Drama HD
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Fresh HD
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Anime HD
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Cartoon HD
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="CPS_VPN", CPS Fresh UA HD
-http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
-
-
-
 
 
 
@@ -6644,6 +6619,9 @@ http://185.229.235.30:8005/udp/225.15.4.40:2345
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://sun9-44.userapi.com/impg/VnTcwp9SOYyJMrOMfGKaQiW7qW_RJRcmKzXdjg/RJYRT_95-GA.jpg?size=604x113&quality=96&sign=2bb0004e8814c9467bbacaccfef39165&type=album" tvg-id="no_epg_news" , Оплот
 http://31.131.141.195:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://sun9-44.userapi.com/impg/VnTcwp9SOYyJMrOMfGKaQiW7qW_RJRcmKzXdjg/RJYRT_95-GA.jpg?size=604x113&quality=96&sign=2bb0004e8814c9467bbacaccfef39165&type=album" tvg-id="no_epg_news" , Оплот
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%97%D0%B0%21_%D0%A2%D0%92_%282024-%D0%BD.%D0%B2%29.svg/revision/latest/scale-to-width-down/100?cb=20240605125225&path-prefix=ru", За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
