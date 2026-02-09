@@ -48,10 +48,7 @@ https://tinyurl.com/aleks-u-romki-53/13028/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Кинозал 👀 3
 https://tinyurl.com/aleks-u-romki-53/13029/index.m3u8
 
-#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://smotret.tv/images/scripach-tv.jpg",SCRIPACH TV
-https://kino-stream.online/hls/scripach.m3u8
-
-#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.imgur.com/WUNc721.png",Scripach tv FHD
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://ritsatv.ru/files/picture/original/1752867301254-scripatchtv2.webp",Scripach tv FHD
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 
 
@@ -3398,14 +3395,21 @@ http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 group-title="🏆Спорт", Setenta Sport 2
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
-#EXTINF:-1 group-title="🏆Спорт", Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
+http://185.234.59.200:9090/channel/280f1216/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
+http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="🏆Спорт",Eurosport HD 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 2 HD
+http://185.234.59.200:9090/channel/280f8675/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 
-#EXTINF:-1 group-title="🏆Спорт", Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="http://rafail1982.uz/logo/Eurosport 4K.png",Eurosport 4K (VPN)
-http://7pal.short.gy/eusport4k
+#EXTINF:-1 group-title="🏆Спорт",Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj6OmQzSjbgvTm1Vf2ebuYZC3DMjgWnyBqg&s",VITAL DRIVE
 https://tv.a21network.ru/content/37909/index.m3u8
@@ -3810,17 +3814,16 @@ http://45.228.234.30:16000/play/a01k/index.m3u8
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", ETB Deportes 
 https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+
+#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-logo="http://rafail1982.uz/logo/Eurosport 4K.png",Eurosport 4K (VPN)
+http://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", EuroSport
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃"  tvg-logo="https://www.etelecom.ru/upload/63aef2e6e4361865288783.png",Eurosport 1
 http://178.23.88.55/Eurosport_1/index.m3u8
-#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", Eurosport 1 
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", EuroSport 2
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", Eurosport 2 
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
-#EXTINF:-1 group-title="🏃СПОРТ_МИР🏃" tvg-id="no_epg_sport", Eurosport_2 
 http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1 group-title="🏃СПОРТ_МИР🏃"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png",FanDuel TV Extra
 https://d1x2mlky5ieruz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lsgd252lenx0/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
