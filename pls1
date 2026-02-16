@@ -3932,11 +3932,244 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDc6NTc6NTAgQU0maGFzaF92YWx1ZT1DVWhlUG42VmVjdGh5V2c3TXVnRG5BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch039" tvg-name="Eurosport 1 HD" tvg-logo="http://team.ga/images/chIcons/39.png" tvg-rec="3", Eurosport 1 HD
+
+http://ru3.team.ga/ch039/mono.m3u8?token=ruslen33.v2_Kp32fr-5wXQYtv-Oiq1ErbAGmQ7BDg8t0KuxIxBwZRk2r6eQJnBntm5nuV6YBxZs27MUdUp2oKc
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch071" tvg-name="Eurosport 2 HD" tvg-logo="http://team.ga/images/chIcons/71.png" tvg-rec="3", Eurosport 2 HD
+
+http://ru3.team.ga/ch071/mono.m3u8?token=ruslen33.v2_mTZ9ksSIF85a78ATpZP8T4_Fs0kqRq57a47dATtLqC0k63CjjVaGprhy0kmVaRJnY6wmqHkCVmw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2126" tvg-name="Матч! SD" tvg-logo="http://team.ga/images/chIcons/2126.png" tvg-rec="3", Матч! SD
+
+http://ru3.team.ga/ch2126/mono.m3u8?token=ruslen33.v2_HYvep7_10E4xRdDPRRcfZQhv_PDXgkzkQqQFZ3liOmXx_iITzHGNhfHCz14ylgP_w6wYfL9ouiK21A
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2123" tvg-name="Матч! Футбол 1 SD" tvg-logo="http://team.ga/images/chIcons/2123.png" tvg-rec="3", Матч! Футбол 1 SD
+
+http://ru3.team.ga/ch2123/mono.m3u8?token=ruslen33.v2_8owjpftqDbQrgEdl8PLAMgr18LS_5ZLSAL-J8tJlNFBnqHfXOa3TxePGGW7iBm_dgVyuEv59nQDPgw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2124" tvg-name="Матч! Футбол 2 SD" tvg-logo="http://team.ga/images/chIcons/2124.png" tvg-rec="3", Матч! Футбол 2 SD
+
+http://ru3.team.ga/ch2124/mono.m3u8?token=ruslen33.v2_vwF1W_sDr_MtIOIW4QNb0KWlIfd1KuiL7cng7O2Za-sck8dOpotGhrfDhFE5C86yNv1lCHEbBsq12Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2125" tvg-name="Матч! Футбол 3 SD" tvg-logo="http://team.ga/images/chIcons/2125.png" tvg-rec="3", Матч! Футбол 3 SD
+
+http://ru3.team.ga/ch2125/mono.m3u8?token=ruslen33.v2_QLjK-vIwMSJYAt1Bz8cRf2RyqLbZCq09himFTyx7SsxFCi9p8V8ew3YQvo1d5Ed_jMqInDzG2zfaqQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2005" tvg-name="Матч! Премьер SD" tvg-logo="http://team.ga/images/chIcons/2005.png" tvg-rec="3", Матч! Премьер SD
+
+http://ru3.team.ga/ch2005/mono.m3u8?token=ruslen33.v2_J5vm-NELJJQUDlyFk_kENWlvXT3dgAfMZSzQ2VJXfyPKv5WSqIC_1oaV-tHKon5TD5Nm388MWb9R2g
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3304" tvg-name="Матч! Игра SD" tvg-logo="http://team.ga/images/chIcons/3304.png" tvg-rec="3", Матч! Игра SD
+
+http://ru3.team.ga/ch3304/mono.m3u8?token=ruslen33.v2_PTJM55oQTqHA---haJLJfWm2ciMHnCtUbW8KSnwItU02R4uFfcshsIFIA6HNb7xBgOF8x3QRlGQWIQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch688" tvg-name="Матч! Планета" tvg-logo="http://team.ga/images/chIcons/688.png" tvg-rec="3", Матч! Планета
+
+http://ru3.team.ga/ch688/mono.m3u8?token=ruslen33.v2_kis19_yW6PjDV_h99tnX74aVo5wvHZ0OToIcvCIoiZGVcFrFExnZnzzhzGGwKtZ9lXoCn1wwu7Uw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch708" tvg-name="Мяч HD" tvg-logo="http://team.ga/images/chIcons/708.png" tvg-rec="2", Мяч HD
+
+http://ru3.team.ga/ch708/mono.m3u8?token=ruslen33.v2_TzlnwMGDVy3Mg6IlQN26Wi6b-pRlMdT3qX3KBOdsrB5A_MPLC803C-VCOn2GJbrQ-itIrYOnJ28H
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch447" tvg-name="ТВ Спорт HD" tvg-logo="http://team.ga/images/chIcons/447.png" tvg-rec="2", ТВ Спорт HD
+
+http://ru3.team.ga/ch447/mono.m3u8?token=ruslen33.v2_EyFqZTlU_pDPrmq52HDVB3K1YghNJV3_dpxYJp4UJnlmhvgKY7yBFMtX3NH3YZhbssXjavx92Nrp
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch663" tvg-name="Хоккей ТВ HD" tvg-logo="http://team.ga/images/chIcons/663.png" tvg-rec="2", Хоккей ТВ HD
+
+http://ru3.team.ga/ch663/mono.m3u8?token=ruslen33.v2_JNSTxmKFfj3wAeylnLQJgr9RQjmSAyQxxnvOzbNZlforQDtVnpdwIurVcfmqWgeBmg6xgF5N6wgd
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch133" tvg-name="Конный Мир" tvg-logo="http://team.ga/images/chIcons/133.png" tvg-rec="3", Конный Мир
+
+http://ru3.team.ga/ch133/mono.m3u8?token=ruslen33.v2_73wcAeajvwwXB3jvdFx-DJW2ssP0zTtPvQISF4OHgEiDq5QFwAzavr8fS_EX55V3ufsnPdrUVMBi
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch549" tvg-name="UDAR TV HD" tvg-logo="http://team.ga/images/chIcons/549.png" tvg-rec="3", UDAR TV HD
+
+http://ru3.team.ga/ch549/mono.m3u8?token=ruslen33.v2_AmfzGR5-uelYGylV5ClnwslYbW_Yj-vfb-M5nPbt_1VdmClB6w3SYc_jazR8A_oERfj0vpzeNapB
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch543" tvg-name="Поединок HD" tvg-logo="http://team.ga/images/chIcons/543.png" tvg-rec="2", Поединок HD
+
+http://ru3.team.ga/ch543/mono.m3u8?token=ruslen33.v2_EkPlV4Dpf6jRkA6-xKv1sXElPS8xjD7KBn-8giyIyqPqXXWhZrCnmIzqZSBqI-WvZzGwo9k9dMOv
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch530" tvg-name="Живи!" tvg-logo="http://team.ga/images/chIcons/530.png" tvg-rec="0", Живи!
+
+http://ru3.team.ga/ch530/mono.m3u8?token=ruslen33.v2_A_A_VFYjxsXoz6_YZHiUO-CFz8YjIgWFK6QKv96k-DRNs5yKHk7ZgEq1dCyqvkWa4kzKzV_Kr9MS
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1880" tvg-name="Живи Активно HD" tvg-logo="http://team.ga/images/chIcons/1880.png" tvg-rec="0", Живи Активно HD
+
+http://ru3.team.ga/ch1880/mono.m3u8?token=ruslen33.v2_Na216yi-2GOaz_EI_yNa12udS8ZxHcxaoS4JJj7TVPVMX6ZfNAwXV9kP3fa77jtcuR7h4SWLWpTVHg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch662" tvg-name="Старт HD" tvg-logo="http://team.ga/images/chIcons/662.png" tvg-rec="3", Старт HD
+
+http://ru3.team.ga/ch662/mono.m3u8?token=ruslen33.v2_GRRIdBrSRhY_cnnxQxPkhiQ6DPR6ZN0J7rd3TJaaHbZRaDLp23Zp0GmXdSKcBRemxKDkNmFhtz1I
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2502" tvg-name="Старт Триумф HD" tvg-logo="http://team.ga/images/chIcons/2502.png" tvg-rec="3", Старт Триумф HD
+
+http://ru3.team.ga/ch2502/mono.m3u8?token=ruslen33.v2_MaSzxfTya05DRIFqB9asSKwmtFnt77aIdaUtkEUf68J3BvORM8CP4qy9jAXhDI4xFkoH1QHDNaOkpQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2810" tvg-name="Box AutoTrend HD" tvg-logo="http://team.ga/images/chIcons/2810.png" tvg-rec="3", Box AutoTrend HD
+
+http://ru3.team.ga/ch2810/mono.m3u8?token=ruslen33.v2_jX0HSaR70axZDv3lx6VKXXvyw3gjq8oobn3YXvsn--KpcLTcWlu4-Kgm3YcPn9vt-kRPlSyHJq2-QQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2282" tvg-name="Box Be ON Edge HD" tvg-logo="http://team.ga/images/chIcons/2282.png" tvg-rec="3", Box Be ON Edge HD
+
+http://ru3.team.ga/ch2282/mono.m3u8?token=ruslen33.v2_cc6z7YmAPetgn2lyOiobl08QTtlf4JYtqBTLGFjhfHLg1IXGSLA0lYFs1CtMs3XtA4pjtnJtstI4rw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2283" tvg-name="Box Be ON Edge 1 Live HD" tvg-logo="http://team.ga/images/chIcons/2283.png" tvg-rec="3", Box Be ON Edge 1 Live HD
+
+http://ru3.team.ga/ch2283/mono.m3u8?token=ruslen33.v2_5Uelqaz-wCV0ukAJTImF6I-V0W0gFgjMZ2CvZ5IzvzwWsFKv0aGGd9IJcOces4i8kXjlySGbTuzvBw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2284" tvg-name="Box Be ON Edge 2 Live HD" tvg-logo="http://team.ga/images/chIcons/2284.png" tvg-rec="3", Box Be ON Edge 2 Live HD
+
+http://ru3.team.ga/ch2284/mono.m3u8?token=ruslen33.v2_4pOumEt_STozgX7961Kgo-SLKa2HAmhZwx2nF0n1OJn2M5VKTAnzQc2MGW93ps9WbnrgF74tbr6uvQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch711" tvg-name="Box Be ON Edge Live 3 HD" tvg-logo="http://team.ga/images/chIcons/711.png" tvg-rec="3", Box Be ON Edge Live 3 HD
+
+http://ru3.team.ga/ch711/mono.m3u8?token=ruslen33.v2_nxzSnLDZvTPs6y1XIuspApnAPvXwihTDZUjEXaVaEauziqfVmNJYvUixUh2yq5dGOOF4uPoZiUCI
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2467" tvg-name="Box Sport Cast HD" tvg-logo="http://team.ga/images/chIcons/2467.png" tvg-rec="3", Box Sport Cast HD
+
+http://ru3.team.ga/ch2467/mono.m3u8?token=ruslen33.v2_9JHR1m-QCWv4oSQGBwRSZW_BHUlSbZZ__byEh1u-WIBS_TqmLzeoUOrXHKVZorIZcvbkB5I-eZUIZw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2336" tvg-name="Box Sport Cast 1 Live" tvg-logo="http://team.ga/images/chIcons/2336.png" tvg-rec="3", Box Sport Cast 1 Live
+
+http://ru3.team.ga/ch2336/mono.m3u8?token=ruslen33.v2_LcOND0A6eOUMREsE2xHQellTETLTv8ViYGs_lkjj6Z80zWvTS4tdWd43M5ocZeqOVU4bJXWSdx539w
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2337" tvg-name="Box Sport Cast 2 Live" tvg-logo="http://team.ga/images/chIcons/2337.png" tvg-rec="3", Box Sport Cast 2 Live
+
+http://ru3.team.ga/ch2337/mono.m3u8?token=ruslen33.v2_Xo__p8dF4oAi68qfntxq0vlkVpmxB4GYWQIolspDpfQDWv_LVOapwG56eF-qbSjI2cAcfwZp21A96w
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2338" tvg-name="Box Sport Cast 3 Live" tvg-logo="http://team.ga/images/chIcons/2338.png" tvg-rec="3", Box Sport Cast 3 Live
+
+http://ru3.team.ga/ch2338/mono.m3u8?token=ruslen33.v2_1_OAzWM5s4_-BUre7gbZItAxybBi5g4NrIeMlEdlv6T8nY5uH-5SCVMnKHHNEoB3ujsFnJ_YSxupgg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2339" tvg-name="Box Sport Cast 4 Live" tvg-logo="http://team.ga/images/chIcons/2339.png" tvg-rec="3", Box Sport Cast 4 Live
+
+http://ru3.team.ga/ch2339/mono.m3u8?token=ruslen33.v2_CKcZt-YgkshPJckrRvZ25YjvDdIVD3rRZv3LwtUWkN2w-x7VWU4DNtbLhNKUvT96JkPzn_8tUfDDsA
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2340" tvg-name="Box Sport Cast 5 Live" tvg-logo="http://team.ga/images/chIcons/2340.png" tvg-rec="3", Box Sport Cast 5 Live
+
+http://ru3.team.ga/ch2340/mono.m3u8?token=ruslen33.v2_owi_kdhx3W-udwL8Gnd5KVGDtWas8H2gIlpFz1jVMAZXAqa9fUW6ekJ8ohqRS1RR7ZCXQE6wmy_X8Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2465" tvg-name="Box Sport Cast 6 Live" tvg-logo="http://team.ga/images/chIcons/2465.png" tvg-rec="3", Box Sport Cast 6 Live
+
+http://ru3.team.ga/ch2465/mono.m3u8?token=ruslen33.v2_COnDv_Mt9DWF9ILVyoBzi6WfaorPkyVkjvhQiqhqoR-DUUwk93BoP9t0S97rDXRsVm7PhZj-q9nBIQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2466" tvg-name="Box Sport Cast 7 Live" tvg-logo="http://team.ga/images/chIcons/2466.png" tvg-rec="3", Box Sport Cast 7 Live
+
+http://ru3.team.ga/ch2466/mono.m3u8?token=ruslen33.v2_Uqh6Y4n515Ggw7j6-eAp3kIjrUls3t5NReKYQ8KmFGtp10-AMDwa80pgusyBDqekukjNlhkUW0HFpg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1819" tvg-name="Box Sport Cast 8 Live" tvg-logo="http://team.ga/images/chIcons/1819.png" tvg-rec="0", Box Sport Cast 8 Live
+
+http://ru3.team.ga/ch1819/mono.m3u8?token=ruslen33.v2_sGImXL6CQqfkY2gY_fiTUOz4OpxCkq14pZsRXBODKfJzUJTN5LgUYkL2ZqKGR02kYHL9jo3OwxkxeQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch700" tvg-name="Box Sport Cast 9 Live" tvg-logo="http://team.ga/images/chIcons/700.png" tvg-rec="0", Box Sport Cast 9 Live
+
+http://ru3.team.ga/ch700/mono.m3u8?token=ruslen33.v2_owFAt88cIAwoLiWu96OrfagM0hSQ6ReNQk2c9I5GpB9w9RVFnrwQxO5rqNOtOa7C1B06k2INnYHN
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3162" tvg-name="BOX Sport 1 Live HD" tvg-logo="http://team.ga/images/chIcons/3162.png" tvg-rec="0", BOX Sport 1 Live HD
+
+http://ru3.team.ga/ch3162/mono.m3u8?token=ruslen33.v2_rJhim2aGrOU0KWDhF4o0iXDrm9yct02uBO096EmqUqJUWlkB5MOmt2byVxb8Pw18CNAq_trMbXXKGQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3163" tvg-name="BOX Sport 2 Live HD" tvg-logo="http://team.ga/images/chIcons/3163.png" tvg-rec="0", BOX Sport 2 Live HD
+
+http://ru3.team.ga/ch3163/mono.m3u8?token=ruslen33.v2_rC_Am8n-ZL02xFFcm6H-X3oiuCLXN4FVeYfv2QrVmf_7nj_zdgs0GWQuoIqqHB7qJH6WMU060vZY8Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3164" tvg-name="BOX Sport 3 Live HD" tvg-logo="http://team.ga/images/chIcons/3164.png" tvg-rec="0", BOX Sport 3 Live HD
+
+http://ru3.team.ga/ch3164/mono.m3u8?token=ruslen33.v2_SzFrYl3Duue5J-jMlVrJDfmDrNBoHHIi3Q-_WbCddE4vfZkFbnxYgD8qRJTd0r-frEwVtnj_fHAqtg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3165" tvg-name="BOX Sport 4 Live HD" tvg-logo="http://team.ga/images/chIcons/3165.png" tvg-rec="0", BOX Sport 4 Live HD
+
+http://ru3.team.ga/ch3165/mono.m3u8?token=ruslen33.v2_P39vTzKYldFABe03WOZlfzJ_WtoeRrisn7Gb0gGhaQf9VJXiWgILIN9Q16eG33Wqw77J6gPrfgQlDQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3166" tvg-name="BOX Sport 5 Live HD" tvg-logo="http://team.ga/images/chIcons/3166.png" tvg-rec="0", BOX Sport 5 Live HD
+
+http://ru3.team.ga/ch3166/mono.m3u8?token=ruslen33.v2_bo_hrTwVCjcYMpyUXwWGYEPea1Lj9Qlf0B5DZ0MAmqP1y2DtOVCEQ_N46Rq7MnrrZLbBpKIurZkIOQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3167" tvg-name="BOX Sport 6 Live HD" tvg-logo="http://team.ga/images/chIcons/3167.png" tvg-rec="0", BOX Sport 6 Live HD
+
+http://ru3.team.ga/ch3167/mono.m3u8?token=ruslen33.v2_8tF8iTBUzLwXLxh6AKkgFhBOWjxJ6pQFvBFSAWF1Wm4KzSQTMcqoiyhV9GTY9LaGVdxHGt93own0cQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3168" tvg-name="BOX Sport 7 Live HD" tvg-logo="http://team.ga/images/chIcons/3168.png" tvg-rec="0", BOX Sport 7 Live HD
+
+http://ru3.team.ga/ch3168/mono.m3u8?token=ruslen33.v2_7pAX-cuAsFUlJqXYdPzsr3pcS_kVs5SCjcrLrqkYCCEV9PMTVc3uhW-HqiDCRfCLdZM-xlnSF1Rv8Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3169" tvg-name="BOX Sport 8 Live HD" tvg-logo="http://team.ga/images/chIcons/3169.png" tvg-rec="0", BOX Sport 8 Live HD
+
+http://ru3.team.ga/ch3169/mono.m3u8?token=ruslen33.v2_4f5aR4OfN20Vv37KC705UUufaddUIUR8y4MHpnfO1uErHKnKOgl0WmA7SmVme8cELVaED4RzVZn6jA
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3170" tvg-name="BOX Sport 9 Live HD" tvg-logo="http://team.ga/images/chIcons/3170.png" tvg-rec="0", BOX Sport 9 Live HD
+
+http://ru3.team.ga/ch3170/mono.m3u8?token=ruslen33.v2_KxoDarp_a7PqgfEM6fg83RJKWSmCm0PR0fekx9zk1DXXNeoNG1Bmycp1Yptyzee2tcga2GH6d4A5Yg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3171" tvg-name="BOX Sport 10 Live 4K" tvg-logo="http://team.ga/images/chIcons/3171.png" tvg-rec="0", BOX Sport 10 Live 4K
+
+http://ru3.team.ga/ch3171/mono.m3u8?token=ruslen33.v2_eR-BO1h3JU2wTRLrS31BHeXwyEZbW_1VkWqBuDJ9pNrYsIF0rumJA5SN4vfDhNQt_y3tKAgJUxA39w
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3289" tvg-name="BOX Sport 11 Live 4K" tvg-logo="http://team.ga/images/chIcons/3289.png" tvg-rec="0", BOX Sport 11 Live 4K
+
+http://ru3.team.ga/ch3289/mono.m3u8?token=ruslen33.v2_uNa9cBp9fDcYYrNTcOZ4anxIL-m-2mZpisOj2_lhGKB9GuSzzzrm7GvUumRZihYaKXDPseZsXImpjQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3469" tvg-name="BOX Sport 12 Live HD" tvg-logo="http://team.ga/images/chIcons/3469.png" tvg-rec="0", BOX Sport 12 Live HD
+
+http://ru3.team.ga/ch3469/mono.m3u8?token=ruslen33.v2_C7RoQhboMlDsILfciLZK6aHB72L3zOB4LSqPJmVYJDIrY_D7iMVPM_vUj_DLXNomHkRTWiznRrMn1Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3470" tvg-name="BOX Sport 13 Live HD" tvg-logo="http://team.ga/images/chIcons/3470.png" tvg-rec="0", BOX Sport 13 Live HD
+
+http://ru3.team.ga/ch3470/mono.m3u8?token=ruslen33.v2_Rl07GL3nbfL7LZ_Ki8ZQ24JndU0i_oXHLl2pmM5VMCDjFt3KjjWmOv-UGEE_k7fvjuivyPGtcbPVbQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1768" tvg-name="Liberty Автогир FHD" tvg-logo="http://team.ga/images/chIcons/1768.png" tvg-rec="3", Liberty Автогир FHD
+
+http://ru3.team.ga/ch1768/mono.m3u8?token=ruslen33.v2_alrE4veibc0_3mBioPVqaajqL43lUoI8Xwws-imMtlMfU-cYXpXV0rZjfj4x6kGbcOoN0hqnXcB7MA
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1550" tvg-name="Clarity4k Единоборства" tvg-logo="http://team.ga/images/chIcons/1550.png" tvg-rec="3", Clarity4k Единоборства
+
+http://ru3.team.ga/ch1550/mono.m3u8?token=ruslen33.v2_Hmau3Uxv4RlLgjsFNND_u-zsWC4K41pGZChya0Ie99IQhdZtS8e4sbWAw0qGwiOyrSYOvBnYnpuc8w
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2695" tvg-name="Oasis WWE In English" tvg-logo="http://team.ga/images/chIcons/2695.png" tvg-rec="0", Oasis WWE In English
+
+http://ru3.team.ga/ch2695/mono.m3u8?token=ruslen33.v2_MbPcpZcB53z6Ue5TngM5wAaZhrPCsLJjXyzOSnWI5qq5rAifaHt1tcmUmPWWUW5KxUZatO-n3cYXcw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2665" tvg-name="Oasis Фитнес" tvg-logo="http://team.ga/images/chIcons/2665.png" tvg-rec="0", Oasis Фитнес
+
+http://ru3.team.ga/ch2665/mono.m3u8?token=ruslen33.v2_dU6VVJO9t0_mV3jnekBMqth12qeZ_UdAkV6fbgW9Xg5kmoyyJLop2X5d6n0P7v1QlBnM1quliB7mrw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2923" tvg-name="CineMan Фитнес" tvg-logo="http://team.ga/images/chIcons/2923.png" tvg-rec="0", CineMan Фитнес
+
+http://ru3.team.ga/ch2923/mono.m3u8?token=ruslen33.v2_syETZn6rBR-O_GSw48k0a1d3mE-66ntVGBf4rciM3FJrSt7gZZm9hByimetfOmFeco9KyovFwVLnxQ
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2036" tvg-name="Velilla TV Legendary Matches HD" tvg-logo="http://team.ga/images/chIcons/2036.png" tvg-rec="0", Velilla TV Legendary Matches HD
+
+http://ru3.team.ga/ch2036/mono.m3u8?token=ruslen33.v2_d7LbpriyG8wArtzSqMmS4se-1qtpSYlAoIsf-50aID1Qdor35ZIsa2TT4qFBzZOXxRAwjKgisygi4Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3155" tvg-name="Velilla TV EuroCup 1984" tvg-logo="http://team.ga/images/chIcons/3155.png" tvg-rec="0", Velilla TV EuroCup 1984
+
+http://ru3.team.ga/ch3155/mono.m3u8?token=ruslen33.v2_C3dTUtbbD2oQsyIyuzpcLQtegDK9UnCpob3SddEqOPOKXCizXyJboVndAzPNEYvz5GeOKb9zy7yZVA
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3156" tvg-name="Velilla TV EuroCup 1988" tvg-logo="http://team.ga/images/chIcons/3156.png" tvg-rec="0", Velilla TV EuroCup 1988
+
+http://ru3.team.ga/ch3156/mono.m3u8?token=ruslen33.v2_U0rSCHmyNvltR036hWncFsKs3Amjl52gdN4RoEXF_8Y9Mr9hNe-FlnllTi4_wkNsg97_5lk9XygPfw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1088" tvg-name="Velilla TV EuroCup 1992" tvg-logo="http://team.ga/images/chIcons/1088.png" tvg-rec="0", Velilla TV EuroCup 1992
+
+http://ru3.team.ga/ch1088/mono.m3u8?token=ruslen33.v2_U5aMeie00iD86cKjD_qlLXXI8vQNnpSLuF7v7aK5CLscGc3RehugMl7W2eT4YfbouDUAGbij86IUiA
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3337" tvg-name="Velilla TV EuroCup 2000" tvg-logo="http://team.ga/images/chIcons/3337.png" tvg-rec="0", Velilla TV EuroCup 2000
+
+http://ru3.team.ga/ch3337/mono.m3u8?token=ruslen33.v2_jSP1wSEBaJ7f6P3ZKVE8liy9zjVbK2-2DRP1zyg0DHbf1TyQOcDAmRcj7WHITBGmCr66l4-_zSsqlg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3339" tvg-name="Velilla TV EuroCup 2004" tvg-logo="http://team.ga/images/chIcons/3339.png" tvg-rec="0", Velilla TV EuroCup 2004
+
+http://ru3.team.ga/ch3339/mono.m3u8?token=ruslen33.v2_d8sJ-JW14f389sdUiElVPiNE9zx6fcuaYl9OhXbWsziwTOXLrSibqlmJaRQjA0dJEvzCykuucLw3ng
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3822" tvg-name="Velilla TV EuroCup 2008 HD" tvg-logo="http://team.ga/images/chIcons/3822.png" tvg-rec="0", Velilla TV EuroCup 2008 HD
+
+http://ru3.team.ga/ch3822/mono.m3u8?token=ruslen33.v2_iyQ0IAiSoIxInRWPXDlv4ZW6HNUw4wO-khzfgYYV12MXsAynsToNilZcCybHpsJw-z7ZDGv3Hv4Itg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3823" tvg-name="Velilla TV EuroCup 2012 HD" tvg-logo="http://team.ga/images/chIcons/3823.png" tvg-rec="0", Velilla TV EuroCup 2012 HD
+
+http://ru3.team.ga/ch3823/mono.m3u8?token=ruslen33.v2_lYo8KIbshzkRV9gxd-GVSzaJDA26P7cT3vtsGEtw7CrtUbMVGDfWdCMzGvQJ_Ly_JHVKRe5aDLuJlw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3819" tvg-name="Velilla TV EuroCup 2020 HD" tvg-logo="http://team.ga/images/chIcons/3819.png" tvg-rec="0", Velilla TV EuroCup 2020 HD
+
+http://ru3.team.ga/ch3819/mono.m3u8?token=ruslen33.v2_3BKf9P8b5Zi0ifF3Wz6RZ4qot31lSXSQQV4hmGGqflmeDZZ7XaO5HpR99e2D38KGsDpo3K_xH6Ljvw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3112" tvg-name="Velilla TV World Cup 1970" tvg-logo="http://team.ga/images/chIcons/3112.png" tvg-rec="0", Velilla TV World Cup 1970
+
+http://ru3.team.ga/ch3112/mono.m3u8?token=ruslen33.v2_PCZrYT6qOxcKd7LF8x-kDhm2w8l2aA4L9st8HtMibpTA0VtRCEgRJDrQJYub-mKmXStWhFgWniIh6Q
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch828" tvg-name="Velilla TV World Cup 1974" tvg-logo="http://team.ga/images/chIcons/828.png" tvg-rec="0", Velilla TV World Cup 1974
+
+http://ru3.team.ga/ch828/mono.m3u8?token=ruslen33.v2_PdAXffZoXNc4LPLu1QaoICx0BxQfkvctSCo7hOtFudg5dKk71-XuRdbLS0LBpsHYVcHsHtAAMMPe
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch2116" tvg-name="Velilla TV World Cup 1978" tvg-logo="http://team.ga/images/chIcons/2116.png" tvg-rec="0", Velilla TV World Cup 1978
+
+http://ru3.team.ga/ch2116/mono.m3u8?token=ruslen33.v2_-HAs4NA_3QBCHh7l98dZvfYIEMqcuNprY6sv9vT6it-F6XnjHuGBPMfRHQ1o1oedTP905wjMdUKh9g
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3157" tvg-name="Velilla TV World Cup 1994" tvg-logo="http://team.ga/images/chIcons/3157.png" tvg-rec="0", Velilla TV World Cup 1994
+
+http://ru3.team.ga/ch3157/mono.m3u8?token=ruslen33.v2_fHqaKr72188gENWH_-MJHNnXJeJasWxidYuXpf6yfQS0D0NEBCgu7ztD2GrhtS1iXCt6q3leWkou5w
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3297" tvg-name="Velilla TV World Cup 1998" tvg-logo="http://team.ga/images/chIcons/3297.png" tvg-rec="0", Velilla TV World Cup 1998
+
+http://ru3.team.ga/ch3297/mono.m3u8?token=ruslen33.v2_jwCVven4ycStzBuKjWOMfjTuY0vAha0NC8RY6aXfKf2Otds8a2rSC3jBCX-NFhT1JYOWbjKi2Unwgw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3158" tvg-name="Velilla TV World Cup 2006" tvg-logo="http://team.ga/images/chIcons/3158.png" tvg-rec="0", Velilla TV World Cup 2006
+
+http://ru3.team.ga/ch3158/mono.m3u8?token=ruslen33.v2_hY9ukgZk-VptcGhE_EzBYKOrNMOgwmvVsU9gYJAcUMYkx-BPq8r0pmoawbU04OGBgA1kArqrS0M_Vw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3159" tvg-name="Velilla TV World Cup 2010" tvg-logo="http://team.ga/images/chIcons/3159.png" tvg-rec="0", Velilla TV World Cup 2010
+
+http://ru3.team.ga/ch3159/mono.m3u8?token=ruslen33.v2_23umwIuHgaDFryzXXoRBIiKGvr1t5dKoEOTziazOjSqT68QI8ML-nf8wdfFCbSdf2_WgR7Vew15akw
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3160" tvg-name="Velilla TV World Cup 2014" tvg-logo="http://team.ga/images/chIcons/3160.png" tvg-rec="0", Velilla TV World Cup 2014
+
+http://ru3.team.ga/ch3160/mono.m3u8?token=ruslen33.v2_ixraMsQZeB9qyqSb1PyYgkHNcxP5JwD7uCP1fta5tVN2NEAU2-rpHiU6rPBaNxc9IUco2j0ocK4h3A
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3161" tvg-name="Velilla TV World Cup 2018" tvg-logo="http://team.ga/images/chIcons/3161.png" tvg-rec="0", Velilla TV World Cup 2018
+
+http://ru3.team.ga/ch3161/mono.m3u8?token=ruslen33.v2_FiPfr1lsXFUTvUjVmkaUqtl-SJ8jE14ix2couRM6HOidS0uvicA_YbWRbAkd8C79GRVu_9qjIOgJ6A
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch1084" tvg-name="Velilla TV World Cup 2022 HD" tvg-logo="http://team.ga/images/chIcons/1084.png" tvg-rec="0", Velilla TV World Cup 2022 HD
+
+http://ru3.team.ga/ch1084/mono.m3u8?token=ruslen33.v2_7YQmGOgUJQzTCGK3xcBenKR5fbkSTWDQIJtMHlIIZKQlryVtJ3xhYuWOzT20JEEKdRtqMgyf6GUGAg
+#EXTINF:-1 group-title="Спорт_Тест" tvg-id="ch3779" tvg-name="TVPlay ЧМ FIFA Плей-офф HD" tvg-logo="http://team.ga/images/chIcons/3779.png" tvg-rec="3", TVPlay ЧМ FIFA Плей-офф HD
+
+http://ru3.team.ga/ch3779/mono.m3u8?token=ruslen33.v2_-anMeZZs8iYBXGD4UC76UHtsSxiGcdxtgtjFF__JzHOyRtkyKLoFjMUt6GGmxygeffiWe4hVj4sACQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDg6MDE6MjIgUE0maGFzaF92YWx1ZT1vRFlVYkNyNnN5SXNaR0JlTjJSbHJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
 http://85.88.175.48:2020/udp/239.4.10.83:2020
