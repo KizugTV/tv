@@ -11,6 +11,44 @@ https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhd
 
 
 
+
+
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden Play
+http://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoKlassika
+http://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden Birma Play
+http://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoAsia
+http://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoDok
+http://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoArt
+http://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoMistika
+http://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoDetektiv
+http://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoKomediya
+http://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoAction
+http://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoFantastika
+http://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden KinoDrama
+http://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden Sirtaki TV
+http://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden Classic Music
+http://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden AutoGid
+http://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden Recepty Gurmana
+http://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://static.wikia.nocookie.net/kpop/images/a/a3/EDEN_Entertainment_company_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20231229133001&path-prefix=ru", City Eden MedZdrav
+http://cityeden.catcast.tv/content/47519/index.m3u8
+
+
 #EXTINF:-1 group-title="ТЕСТ",BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",BCU Stars HD
@@ -1071,15 +1109,8 @@ http://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-dj-us.png" tvg-id="no_epg_music",Miami TV DJ
-https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
-
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://play-lh.googleusercontent.com/4yauEnzQ08vtwop-DXBPb9ZPjeG4jdVPBAq5wJmFO7YQs-vvNfv9nqULp53kQpByNVC9" tvg-id="no_epg_music",Music TV Nostalgia
-http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://ntvplus.tv/files/image/11/31/697/n6w.png",FON music
+http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.ibb.co/My6LW63P/Screenshot-2.png" tvg-id="no_epg_music", DTR MUSIC 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
@@ -1093,8 +1124,14 @@ https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vp
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aaxeuPPcFKkzuPuVyD6TQWFpG_qhiDuyxw&s",Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://ntvplus.tv/files/image/11/31/697/n6w.png",FON music
-http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-models-us.png" tvg-id="no_epg_music", Miami TV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-dj-us.png" tvg-id="no_epg_music", Miami TV DJ
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://play-lh.googleusercontent.com/4yauEnzQ08vtwop-DXBPb9ZPjeG4jdVPBAq5wJmFO7YQs-vvNfv9nqULp53kQpByNVC9" tvg-id="no_epg_music",Music TV Nostalgia
+http://217.79.184.52/Nostalgia/index.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка", Bridge TV
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MTc1MjY0NCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMTQ3ODQ0LCJzZXNzaW9uX2lkIjoiYTY3YTFlY2ZkZmZiNmIzYzdjYjE2MzBkNjE4MjdjOTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.XnxvJMlUa_X7TnuXYwOKvnVugtqbd8p9y1dM-KdThFo
@@ -3306,6 +3343,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/p
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
+
+#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://overtime26.ru/wp-content/themes/overtime/img/overtime.png", Overtime (Ставрополь)
+https://live.overtime26.ru/app/potok/playlist.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", Бокс ТВ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=ts
@@ -7421,9 +7461,6 @@ https://fl1001.bozztv.com/ushba73/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=KizugTV
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
-#EXTINF:-1 group-title="👁️‍🗨️Регионы", Прибой ТВ (Дагестан)
-http://iptv46.mcx-ix.ru:8077/priboy_tv/index.m3u8
-
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://mydagestan.e-dag.ru/bitrix/templates/mydagestan_new/images/mydagestan-logo.svg", Дагестан HD (Махачкала)
 http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 
@@ -7441,35 +7478,21 @@ http://212.193.53.254/app/potok/playlist.m3u8
 http://195.26.83.96:7029/play/a009
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://sun9-44.userapi.com/impg/VnTcwp9SOYyJMrOMfGKaQiW7qW_RJRcmKzXdjg/RJYRT_95-GA.jpg?size=604x113&quality=96&sign=2bb0004e8814c9467bbacaccfef39165&type=album" tvg-id="no_epg_news" , Оплот
-http://185.229.235.30:8005/udp/225.15.4.40:2345
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://sun9-44.userapi.com/impg/VnTcwp9SOYyJMrOMfGKaQiW7qW_RJRcmKzXdjg/RJYRT_95-GA.jpg?size=604x113&quality=96&sign=2bb0004e8814c9467bbacaccfef39165&type=album" tvg-id="no_epg_news" , Оплот
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.131.141.195:8000/play/a006/index.m3u8
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://sun9-44.userapi.com/impg/VnTcwp9SOYyJMrOMfGKaQiW7qW_RJRcmKzXdjg/RJYRT_95-GA.jpg?size=604x113&quality=96&sign=2bb0004e8814c9467bbacaccfef39165&type=album" tvg-id="no_epg_news" , Оплот
-http://91.214.48.158:4022/udp/224.2.2.4:10000
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%97%D0%B0%21_%D0%A2%D0%92_%282024-%D0%BD.%D0%B2%29.svg/revision/latest/scale-to-width-down/100?cb=20240605125225&path-prefix=ru", За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 
-#EXTINF:-1 group-title="👁️‍🗨️Регионы", Миллет
-http://live.trkmillet.ru/millet/index.m3u8
-
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://smotret.tv/images/1-respublikanskiy.webp" tvg-id="no_epg_news", Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" tvg-id="no_epg_news", Россия 1 (Донецк)
+#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e8/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%2890-%D0%B5%2C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D1%81%D1%8F_%D0%B2_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D1%85%29.png/revision/latest/scale-to-width-down/1000?cb=20210129201119&path-prefix=ru" tvg-id="no_epg_news", Россия 1 (ЛДНР)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" tvg-id="no_epg_news", Россия 1 (Луганск)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-name="no_epg_news" tvg-logo="https://ritsatv.ru/files/poster/original/900488.jpg", Луганск 24
 #EXTVLCOPT:http-user-agent=KizugTV
 https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_0-1k_v5.m3u8
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-id="infokanal-sevastopol", Севастопольское телевидение
-http://178.212.71.253:8000/play/29/index.m3u8
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-id="legendarny24", Легендарный 24 (Севастополь)
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -7482,9 +7505,6 @@ http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://i.ibb.co/hdrWm6j/Crimea-24.png", Крым 24
 http://live24.trkcrimea.ru:80/24tvcrimea.m3u8
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://i.ibb.co/hdrWm6j/Crimea-24.png", Крым 24 HD
-http://iptv.crimea.net:8787
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-name="Симферополь 24" tvg-logo="https://i.ibb.co/3CqCW1s/Screenshot-3.jpg", Симферополь 24 
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
@@ -7517,12 +7537,6 @@ http://193.33.233.109:9000/tv
 #EXTINF:-1 group-title="👁️‍🗨️Регионы",Глазов 24
 https://yellow.garant.tv/glazov24/stream.m3u8
 
-#EXTINF:-1 group-title="👁️‍🗨️Регионы", Овертайм (Ставрополь)
-https://live.overtime26.ru/app/potok/playlist.m3u8
-
-#EXTINF:-1 group-title="👁️‍🗨️Регионы", СГДФ 24 (Екатеринбург) 
-https://cdnfs.teonvi.com/sgdf/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b9/%D0%9C%D1%83%D1%80%D0%BE%D0%BC-%D0%A2%D0%92_%28%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%29.jpg/revision/latest/scale-to-width-down/250?cb=20201223102914&path-prefix=ru", Муром ТВ
 http://live.murom-tv.ru/hls/stream.m3u8
 
@@ -7532,7 +7546,7 @@ https://7channel.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👁️‍🗨️Регионы", Про жизнь
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="👁️‍🗨️Регионы", Кварц ТВ
+#EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-logo="https://quartztelecom.ru/local/html/img/logo.png", Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 
 #EXTINF:-1 group-title="👁️‍🗨️Регионы" tvg-name="ktk-kz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo-KTK-2018_RGB.png/800px-Logo-KTK-2018_RGB.png",КТК HD
@@ -8790,6 +8804,8 @@ http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="Україна(VPN)",100% News (Одесса)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Україна(VPN)",Первый городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",2+2
 http://31.43.48.248:7000/ch8/video.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",33 канал
@@ -8852,7 +8868,8 @@ http://iptv.prosto.tv:7000/ch321/video.m3u8
 http://193.27.209.122/super_plus/index.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
-
+#EXTINF:-1 group-title="Україна(VPN)",ГLAS
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",TravelXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Україна(VPN)",TV Rivne 1
@@ -9556,7 +9573,7 @@ https://juka-kpop.stream.laut.fm/juka-kpop
 https://radiokpop.stream.laut.fm/radiokpop
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://i.pinimg.com/236x/57/e8/b8/57e8b8cfeb26ba97c0bf5664dc4bc8f8.jpg" tvg-id="no_epg_radio", BTS Exclusive Radio
-https://streaming.exclusive.radio/er/bts/icecast.audio
+https://2.mystreaming.net/er/bts/icecast.audio
 
 #EXTINF:-1 group-title="📻Радио" tvg-logo="https://static.mytuner.mobi/media/radios-150px/643/113fm-kpop.aba096a6.png" tvg-id="no_epg_radio", 113.fm KPOP live
 https://113fm-atunwadigital.streamguys1.com/1049
