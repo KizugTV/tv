@@ -3802,7 +3802,7 @@ http://145.239.5.177/314/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🏆Спорт", СПОРТ ТВ
+#EXTINF:-1 group-title="🏆Спорт", Спорт ТВ [BY]
 http://46.53.208.4:80/live/8112.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", Russian Extreme HD
