@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz"
 
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d2/N5Y3yLbAkNKkC6jxsLbcU4cTpQ1RJSQlEXfaUoHxed87R5Bx59QQo4nsz8W1aPVpo1_D-G9ax60ozbAiU0Wj56xtc1Ti-TvvGxvND58h1bXYGZCn9RNo8cO3llZ6cZK1F5MlJq_Bc87o/moment.png" tvg-id="no_epg", Обновление: 22.02.2026 год
-https://www.dropbox.com/scl/fi/0vcofe8jnjz5g1colnxrd/KizugTV.mp4?rlkey=ailqgalhdpkom2nrqeasamwh9&st=7icz0kzi&dl=1
+http://46.53.208.4:80/live/10000.m3u8
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://psv4.userapi.com/s/v1/d/w_DLkF3joPNXfwquLFh3qw09flp9qcUJeL8RUrLTjXWdHLbdYJ0wxJ2By1_SkeVLnUPuoz5R4od8hZ4tPH1fGI_8MTmuQTDB2ImePrqRMiPVhs5b0_yPjw/Narodny.png" tvg-id="no_epg", Поддержать АВТОРА плейлиста!
 https://dn.clippz.ru/videos/ruki-vverh-ay-yay-yay_233998.mp4
 #EXTINF:-1 group-title="ИНФО" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeBid8INKN0ZtI14qKOYLa38nmnZx2-nP9A&s" tvg-id="no_epg", TINKOFF 💰 5536 9140 9988 6206
@@ -104,6 +104,17 @@ https://v2.catcast.tv/content/34114/index.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",9 канал (Израиль)
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6013
+
+#EXTINF:-1 group-title="ТЕСТ",My TV HD
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="ТЕСТ",My TV Hit HD
+http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
+#EXTINF:-1 group-title="ТЕСТ",My TV2 FHD
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="ТЕСТ",My TV3 HD
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://grizly.club/uploads/posts/2023-02/1676061407_grizly-club-p-chaplin-klipart-4.jpg", Chaplin (vpn)
+http://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/4300.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",Azatutyun TV
 http://185.57.68.33/240/index.m3u8
@@ -259,8 +270,8 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ",Drochia TV
 http://89.41.66.141:8000/tvdrochia
 
-#EXTINF:-1 group-title="ТЕСТ", CARTOON CLASSICS
-http://193.25.8.59:8000/Avto24
+#EXTINF:-1 group-title="ТЕСТ",FUNBOX UHD
+http://46.53.208.4:80/live/3437.m3u8
 
 #EXTINF:-1 group-title="ТЕСТ",BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/index.m3u8
@@ -439,6 +450,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://federal.tv/i/tnt.png", ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
+
+#EXTINF:-1 group-title="📺Эфирные",ТНТ INTERNATIONAL
+http://46.53.208.4:80/live/5120.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные",	ТНТ-International (СНГ)
 #EXTVLCOPT:http-user-agent=KizugTV
@@ -677,7 +691,11 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 
 
 
+#EXTINF:-1 group-title="👶Детские", Умка
+http://46.53.208.4:80/live/9488.m3u8
 
+#EXTINF:-1 group-title="👶Детские" tvg-logo="https://gp.by/upload/medialibrary/819/zgfpbqn3fju1ka7j93msivv6747kgiam/tehletTV.png",Тех лет ТВ
+http://46.53.208.4:80/live/9489.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" tvg-id="no_epg_mult", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -706,16 +724,21 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&servic
 #EXTINF:-1 group-title="👶Детские",Лёва
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 
-
+#EXTINF:-1 group-title="👶Детские",Лёва
+http://46.53.208.4:80/live/2424.m3u8
 
 
 #EXTINF:-1 group-title="👶Детские", BABY TIME
 
 
+#EXTINF:-1 group-title="👶Детские", KIDS TV
+
+
 #EXTINF:-1 group-title="👶Детские", КИНОМУЛЬТ
 http://46.53.208.4:80/live/157.m3u8
 
-#EXTINF:-1 group-title="👶Детские", KIDS TV
+#EXTINF:-1 group-title="👶Детские", Советские мультфильмы
+http://46.53.208.4:80/live/3007.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="http://1lot.tv/ch/10697.png", Baby Time
 http://srvru2.play-x.ru:7799/channel/4a3838a9/index.m3u8?q=7170e086faf29a20f6b11698846effd1
@@ -743,7 +766,7 @@ http://88.216.112.114/Cartoonito/index.m3u8
 http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", МУЛЬТИЛАНДИЯ
-http://31.148.48.15:80/Multilandiya/index.m3u8
+http://46.53.208.4:80/live/5108.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
@@ -781,6 +804,9 @@ http://s14553.cdn.ngenix.net/hls/CH_R01_KARUSEL_SLIN/variant.m3u8?version=2
 #EXTINF:-1 group-title="👶Детские", Cartoon Classics
 http://46.53.208.4:80/live/1303.m3u8
 
+#EXTINF:-1 group-title="👶Детские", CARTOON CLASSICS
+http://193.25.8.59:8000/Avto24
+
 #EXTINF:-1 group-title="👶Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
@@ -806,10 +832,10 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 http://46.53.208.4:80/live/1448.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+http://46.53.208.4:80/live/6007.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
+http://46.53.208.4:80/live/5512.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Детский Мир
 http://193.25.8.59:8005/detmir
@@ -1066,6 +1092,9 @@ http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.ibb.co/My6LW63P/Screenshot-2.png" tvg-id="no_epg_music", DTR MUSIC 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
+
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://www.cableman.ru/sites/default/files/live_music_channel.jpg", LIVE music channel
+http://46.53.208.4:80/live/6028.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd00zjFUE97nk9gj2j2D_h45wqcv1f_fEmEA&s",Record Russian Hits
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=uIcYrWFhCC14zHtuTel9RQ&e=2065265096&scheme=https
@@ -2906,6 +2935,9 @@ https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8
 #EXTINF:-1 group-title="⚡Познавательные",RTG HD
 http://46.53.208.4:80/live/1406.m3u8
 
+#EXTINF:-1 group-title="⚡Познавательные",Unknown PLANET
+http://46.53.208.4:80/live/3005.m3u8
+
 #EXTINF:-1 group-title="⚡Познавательные", РАТНИК HD
 https://stream-msk-18.ott.tricolor.tv/dtv/id1068_MSKSG-PVR-1--Ratnik_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="ЗНАНИЕ ТВ",ЗНАНИЕ ТВ HD
@@ -3044,6 +3076,9 @@ http://46.53.208.4:80/live/540.m3u8
 #EXTINF:-1 group-title="⚡Познавательные",Viju+ Planet HD
 https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 
+#EXTINF:-1 group-title="⚡Познавательные",Viju+ Planet HD
+http://46.53.208.4:80/live/6006.m3u8
+
 #EXTINF:-1 group-title="⚡Познавательные",ZOOПАРК
 http://46.53.208.4:80/live/996.m3u8
 
@@ -3056,8 +3091,8 @@ http://46.53.208.4:80/live/994.m3u8
 #EXTINF:-1 group-title="⚡Познавательные",Терра Инкогнита HD
 http://178.124.153.123:44400/terra
 
-#EXTINF:-1 group-title="⚡Познавательные", ДИКАЯ ОХОТА HD
-
+#EXTINF:-1 group-title="⚡Познавательные",TERRA INCOGNITA
+http://46.53.208.4:80/live/3017.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="terra-ru", Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
@@ -3175,7 +3210,10 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/p
 https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
 
 #EXTINF:-1 group-title="⚡Познавательные", Дикая рыбалка HD
+http://46.53.208.4:80/live/2324.m3u8
 
+#EXTINF:-1 group-title="⚡Познавательные", ДИКАЯ ОХОТА HD
+http://46.53.208.4:80/live/2325.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", Охота и рыбалка
 http://193.25.8.59:8000/ohota
@@ -3314,7 +3352,8 @@ http://145.239.5.177/314/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🏆Спорт", СПОРТ ТВ
+http://46.53.208.4:80/live/8112.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", Russian Extreme HD
 https://stream-msk-10.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
@@ -3350,10 +3389,7 @@ http://46.53.208.4:80/live/2100.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/viju-sporthd.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", Viasat sport
-http://178.134.1.158:8081/viasatsport/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Viju+ Sport
-http://193.25.8.59:8000/viasatsport
+http://46.53.208.4:80/live/6005.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт",Окко.Прайм Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
@@ -3480,7 +3516,7 @@ https://tv.a21network.ru/content/37909/index.m3u8
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="Extreme Sports" ,Extreme Sports HD
-http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+http://46.53.208.4:80/live/3009.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт",XStream (VPN)
 http://176.122.99.7:7000/ch313/video.m3u8
@@ -4604,10 +4640,6 @@ http://cdn.iptvcinema.ru/lb0/100_facts/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNt
 
 
 
-
-#EXTINF:-1 group-title="🎬Кино и сериалы",NOVELLA TV
-http://46.53.208.4:80/live/1205.m3u8
-
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg",НТВ Следствие вели
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 
@@ -4681,7 +4713,8 @@ http://46.53.208.4:80/live/1804.m3u8
 https://stream-msk-14.ott.tricolor.tv/dtv/id864_MSKSG-PVR-1--Start_World/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3MjEyMzA0NCwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNTE4MjQ0LCJzZXNzaW9uX2lkIjoiNzllNTY2ZjI2ZDJmYjFlZjE4MDkzNDUzMTE3OWY3MWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7JeTBDjENqXyTGaIkRALctdxUQX-aUnXbLMUUiWIwis
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",.black HD
-http://158.101.222.193:88/georgia_play.php?id=black
+http://46.53.208.4:80/live/3001.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",.RED
 http://193.25.8.59:8000/set
 #EXTINF:-1 group-title="🎬Кино и сериалы",.red
@@ -4716,7 +4749,8 @@ http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬Кино и сериалы",Amedia Premium
 http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=kizug_tv
 
-
+#EXTINF:-1 group-title="🎬Кино и сериалы",НСТ
+http://46.53.208.4:80/live/6008.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Cinema
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
@@ -4796,11 +4830,17 @@ https://jekalich.github.io/smtk/channels/star-family.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
+#EXTINF:-1 group-title="🎬Кино и сериалы",START WORLD
+http://46.53.208.4:80/live/9011.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Qzy7n9Z8xs6SwcXDxPIApA&e=1772557177&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
+#EXTINF:-1 group-title="🎬Кино и сериалы",VIJU TV1000 romantica
+http://46.53.208.4:80/live/3111.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",TV 1000
-https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+http://46.53.208.4:80/live/5107.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
@@ -4815,12 +4855,12 @@ https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 http://193.25.8.59:8000/TV1000
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 HD
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://46.53.208.4:80/live/5109.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
-#EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Русское кино HD
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 новелла HD
 http://46.53.208.4:80/live/545.m3u8
@@ -4829,7 +4869,7 @@ http://46.53.208.4:80/live/545.m3u8
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",VIP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+http://46.53.208.4:80/live/6003.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Comedy HD
 https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
@@ -4841,7 +4881,10 @@ http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ Megahit
-https://jekalich.github.io/smtk/channels/vip-megahit.m3u8
+http://46.53.208.4:80/live/6002.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ premiere HD
+http://46.53.208.4:80/live/6001.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ premiere HD
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
@@ -4849,9 +4892,8 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ Premiere HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 
-
 #EXTINF:-1 group-title="🎬Кино и сериалы",VIJU+ SERIAL
-
+http://46.53.208.4:80/live/6004.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
@@ -4970,6 +5012,12 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="🎬Кино и сериалы",Мир сериала
 http://31.148.48.15/Mir_Seriala/index.m3u8
 
+#EXTINF:-1 group-title="🎬Кино и сериалы",Movie Classic
+http://46.53.208.4:80/live/3006.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",СИНЕМА TV
+http://46.53.208.4:80/live/3870.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
 
@@ -4984,6 +5032,9 @@ http://193.25.8.59:8000/tnv
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",СОВЕТСКОЕ КИНО
+http://46.53.208.4:80/live/3018.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -8712,92 +8763,6 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Информационный
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛ МУЗ ТВ
-http://46.53.208.4:80/live/966.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",RU TV by
-http://46.53.208.4:80/live/972.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ВОСЬМОЙ КАНАЛ (Беларусь)
-http://46.53.208.4:80/live/962.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 2
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Гомель
-http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Гомель)
-http://46.53.208.4:80/live/2011.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Витебск)
-http://46.53.208.4:80/live/2012.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Брест)
-http://46.53.208.4:80/live/2013.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Могилёв)
-http://46.53.208.4:80/live/2097.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 5 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ВИТЕБСК
-http://46.53.208.4:80/live/2023.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
-#EXTINF:-1 group-title="Беларусь 🇧🇾",НТВ БЕЛАРУСЬ
-http://194.158.222.36:6107
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ
-https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
-http://87.252.229.200:8083/pinsk
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
-http://178.124.207.1:1780/tvphd
-#EXTINF:-1 group-title="Беларусь 🇧🇾",РТР Беларусь
-http://194.158.222.36:6106
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ3 Беларусь
-http://86.57.209.210/TB-3/index.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
-https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",НАШЕ ТВ (Витебск)
-http://46.53.208.4:80/live/218.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Мир BY
-https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Центр BY
-https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Новое Радио BY
-http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",+TV
-http://46.53.208.4:80/live/977.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Армения",ATV Bazmoc
 http://109.68.122.117:8899/bazmoc
 #EXTINF:-1 group-title="Армения",ATV Hay
@@ -8846,6 +8811,113 @@ http://109.68.122.117:8899/armnews_24
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 group-title="Армения" tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png",Լուրեր HD
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Информационный
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Муви ТВ
+http://nat6-minsk-pool-46-53-208-4.telecom.by/live/5007.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",NOVELLA TV
+http://46.53.208.4:80/live/1205.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛ МУЗ ТВ
+http://46.53.208.4:80/live/966.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",RU TV by
+http://46.53.208.4:80/live/972.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СКИФ
+http://46.53.208.4:80/live/3101.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЗВЯЗДА
+http://46.53.208.4:80/live/6238.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БОБРУЙСК
+http://46.53.208.4:80/live/6239.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БУГ ТВ
+http://46.53.208.4:80/live/7001.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ЛАГУНА ТВ
+http://46.53.208.4:80/live/7002.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ВОСЬМОЙ КАНАЛ (Беларусь)
+http://46.53.208.4:80/live/962.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 1
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 2
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый городской (Гомель)
+http://46.53.208.4:80/live/6036.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Гомель
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Гомель)
+http://46.53.208.4:80/live/2011.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Витебск)
+http://46.53.208.4:80/live/2012.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Брест)
+http://46.53.208.4:80/live/2013.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Могилёв)
+http://46.53.208.4:80/live/2097.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 5 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ВИТЕБСК
+http://46.53.208.4:80/live/2023.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
+#EXTINF:-1 group-title="Беларусь 🇧🇾",НТВ БЕЛАРУСЬ
+http://46.53.208.4:80/live/8005.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
+http://87.252.229.200:8083/pinsk
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
+http://178.124.207.1:1780/tvphd
+#EXTINF:-1 group-title="Беларусь 🇧🇾",РТР Беларусь
+http://194.158.222.36:6106
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ3 Беларусь
+http://86.57.209.210/TB-3/index.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ3 БЕЛАРУСЬ
+http://46.53.208.4:80/live/5127.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",НАШЕ ТВ (Витебск)
+http://46.53.208.4:80/live/218.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Мир BY
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Центр BY
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",Новое Радио BY
+http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Беларусь 🇧🇾",+TV
+http://46.53.208.4:80/live/977.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
