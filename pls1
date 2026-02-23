@@ -3875,7 +3875,7 @@ https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 http://87.246.54.249:8080/KHL/index.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт", KHL Prime HD
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDc6NTU6MjggQU0maGFzaF92YWx1ZT1WWFV6OUlBTkNJVWwxdXYvNE1NT2d3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI2IDg6MTI6MjYgQU0maGFzaF92YWx1ZT1KVVBYQnZLQU1LRmNUYlBhTUpDbWJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 group-title="🏆Спорт", Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
@@ -4019,10 +4019,10 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDc6NTM6MjMgQU0maGFzaF92YWx1ZT1ZZ2hGUHFseFBtY0JTYUVTU2dIdU5BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI2IDg6MTI6MjYgQU0maGFzaF92YWx1ZT1KVVBYQnZLQU1LRmNUYlBhTUpDbWJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
-#EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч! Премьер
-http://85.88.175.48:2020/udp/239.4.10.83:2020
+#EXTINF:-1 group-title="⚽МАТЧ🇷🇺" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1",Матч! Премьер HD
+http://tv.lamro.workers.dev/?ID=3737
 
 #EXTINF:-1 group-title="⚽МАТЧ🇷🇺",Матч!
 http://tv.tuva.ru/machtv/index.m3u8
@@ -6975,7 +6975,12 @@ http://cdn.iptvcinema.ru/lb0/100_facts/index.m3u8?token=bWFrc3Jla2xhbXx8YldGNGNt
 
 
 
-
+#EXTINF:-1 group-title="🎬Кино и сериалы",Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=Zkw5icYwNfG7NIdX9ITSSg&e=2065265080&scheme=https
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://psv4.userapi.com/s/v1/d2/ga-fT-oaQQLCj5X2KvXqcZb4qIwcuYFV2YFHBSLkHqORVTIFZRbdayVcNG_YyJMkw1dqifdSmqlJgmhjR7posFNVUWgUKhEt4vn_cZCtryix3d2S7mjR5Ux2E_apVofMpXKdE939LeKD/Bez_nazvania.jpg",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://psv4.userapi.com/s/v1/d2/lTFibtCm47weiSKkyMvKI56qrXXEtNeJ74GoWMKASZ-G-dH5O5JlfAc6-mFYNMrjX7ABxLp-MRQ_tT-tM_ftlvNviTTXYtne6cTTf2kg-TZN7JADxlUlVd-Fy5Ri2iIHoRmDrAR0yE84/image_1.jpg",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg",НТВ Следствие вели
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
@@ -7006,6 +7011,8 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="🎬Кино и сериалы",Семейное Кино kz
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 
+#EXTINF:-1 group-title="🎬Кино и сериалы",КиноСат
+http://5.188.221.43:8080/play/kinosat
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -7128,7 +7135,7 @@ http://178.163.49.177:4022/udp/234.0.0.119:2000
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-id="KINOLIVING", KINOLIVING (VPN)
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 
-#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.imgur.com/YfQEflM.png" ,Pro100TV
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.imgur.com/YfQEflM.png", Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
@@ -7219,6 +7226,9 @@ https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ Megahit
 http://46.53.208.4:80/live/6002.m3u8
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ Megahit HD
+http://87.246.54.249:8080/Viju_Megahit/index.m3u8
 
 #EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ premiere HD
 http://46.53.208.4:80/live/6001.m3u8
@@ -7459,8 +7469,12 @@ https://stream-msk-02.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3
 https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://pm1.aminoapps.com/7989/6218324c4d821d7bfe7968c0847605f265dd42c0r1-640-360v2_hq.jpg",Улицы разбитых фанарей
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="🎬Кино и сериалы",Феникс+ Кино
+http://31148.rafail1982.uz/Feniks_plus_kino/index.m3u8
+
 #EXTINF:-1 group-title="🎬Кино и сериалы",Хит HD
 http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://sun9-3.userapi.com/impg/6HbPF7uGz6d8CAmyjtapJbkcJxSsId1aZj3ZMA/JG8xWi38jwo.jpg?size=604x604&quality=96&sign=7e12887261cabe481d446b0ac9b9b2e7&type=album",ШЕРЛОК ХОЛМС
@@ -8784,8 +8798,6 @@ http://tv.lamro.workers.dev/?ID=4955
 http://tv.lamro.workers.dev/?ID=4878
 #EXTINF:-1 group-title="Lamro_tv"  tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/144/1.1",Матч! Игра HD
 http://tv.lamro.workers.dev/?ID=4657
-#EXTINF:-1 group-title="Lamro_tv"  tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1",Матч! Премьер HD
-http://tv.lamro.workers.dev/?ID=3737
 #EXTINF:-1 group-title="Lamro_tv"  tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/122/1.1",Матч! Страна
 http://tv.lamro.workers.dev/?ID=3236
 #EXTINF:-1 group-title="Lamro_tv"  tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/901/1.1",TV2 Sport Premium HD
@@ -9338,12 +9350,6 @@ https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=US
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=3KrHFmb8Q3VHY6RJCI2_wQ&e=2065265076&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Катунь 24
 https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=yug9CrqKXKXmmCJqpKw0pw&e=2065265057&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=Zkw5icYwNfG7NIdX9ITSSg&e=2065265080&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=Gkzyy-fyXHS_6X_U3cmMxw&e=2065265059&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Магас
