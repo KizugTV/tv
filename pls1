@@ -356,7 +356,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="prnk-tv", Первый Российский Национальный канал HD
-http://95.47.156.60:8000/play/a013/index.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="match-tv", Матч!
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjUxMTc3MCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxOTA2OTcwLCJzZXNzaW9uX2lkIjoiZTI5YTc3ZWMzOTQ2OGI2OWFhN2VmOTE2N2FiYmViMTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LH1WHXcGURx3G7VXuhhAzTEfG97utAOpJzPFCiqvdq4
@@ -409,7 +409,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjUxMTc3MCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxOTA2OTcwLCJzZXNzaW9uX2lkIjoiZTI5YTc3ZWMzOTQ2OGI2OWFhN2VmOTE2N2FiYmViMTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LH1WHXcGURx3G7VXuhhAzTEfG97utAOpJzPFCiqvdq4
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/REN_TV_Logo_2014.svg/600px-REN_TV_Logo_2014.svg.png", РЕН ТВ
-http://178.163.24.54:4022/udp/234.0.0.240:2000
+http://5.188.221.43:8080/play/ren-tv
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="rentv", Рен ТВ HD
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjUxMTc3MCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxOTA2OTcwLCJzZXNzaW9uX2lkIjoiZTI5YTc3ZWMzOTQ2OGI2OWFhN2VmOTE2N2FiYmViMTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LH1WHXcGURx3G7VXuhhAzTEfG97utAOpJzPFCiqvdq4
@@ -424,13 +424,13 @@ http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?d
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 group-title="📺Эфирные", Домашний
-http://178.163.24.54:4022/udp/234.0.0.191:2000
+http://31.131.141.195:8000/play/a001/index.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ДОМАШНИЙ", Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjUxMTc3MCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxOTA2OTcwLCJzZXNzaW9uX2lkIjoiZTI5YTc3ZWMzOTQ2OGI2OWFhN2VmOTE2N2FiYmViMTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LH1WHXcGURx3G7VXuhhAzTEfG97utAOpJzPFCiqvdq4
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/500px-%D0%A2V3_logo_2023.svg.png", ТВ3
-http://178.163.24.54:4022/udp/234.0.0.171:2000
+http://31.131.141.195:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные",ТВ3 HD
 https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjUxMTc3MCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxOTA2OTcwLCJzZXNzaW9uX2lkIjoiZTI5YTc3ZWMzOTQ2OGI2OWFhN2VmOTE2N2FiYmViMTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LH1WHXcGURx3G7VXuhhAzTEfG97utAOpJzPFCiqvdq4
@@ -3100,9 +3100,6 @@ https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Регион 29
 #EXTVLCOPT:http-user-agent=KizugTV
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rts-abakan",РТС-Абакан
-#EXTVLCOPT:http-user-agent=KizugTV
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 group-title="💖С АРХИВОМ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Север
 #EXTVLCOPT:http-user-agent=KizugTV
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
