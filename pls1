@@ -705,7 +705,10 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 
 
 
-
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские"" tvg-logo="https://images.live.vkvideo.ru/user/29461644/avatar?change_time=1760012747&croped=1&mh=140&mw=140",Мультфильмы нашего детства
+http://kinowalk.hopto.org/childhood_cartoons_live
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140",FoxKids-Remastered
+http://kinowalk.hopto.org/foxkids_remastered_live
 
 #EXTINF:-1 group-title="👶Детские", Умка
 http://46.53.208.4:80/live/9488.m3u8
@@ -6839,8 +6842,6 @@ http://kinowalk.hopto.org/alex.films_live
 http://kinowalk.hopto.org/baragozz_tv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140",BOSSFILM
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/29461644/avatar?change_time=1760012747&croped=1&mh=140&mw=140",Мультфильмы нашего детства
-http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/18467028/avatar?change_time=1701605530&croped=1&mh=140&mw=140",ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7
@@ -6855,8 +6856,6 @@ http://kinowalk.hopto.org/evgamen_movies_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/28012359/avatar?change_time=1757157908&croped=1&mh=140&mw=140",FilmVibes
 http://kinowalk.hopto.org/filmvibes_live
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140",FoxKids-Remastered
-http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",𝕂𝔸ℂℂ𝔼𝕋𝔸
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140",Kinofon
@@ -6913,6 +6912,40 @@ http://kinowalk.hopto.org/zubrilomfilm_live
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140",Rus serials
 http://kinowalk.hopto.org/zzz881_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/26226613/avatar?change_time=1754551047&croped=1&mh=140&mw=140",ZumiBox
+http://kinowalk.hopto.org/zumibox_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/30679453/avatar?change_time=1768060945&croped=1&mh=140&mw=140",Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/4374205/avatar?change_time=1685722513&croped=1&mh=140&mw=140",FGS
+http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19573960/avatar?change_time=1728634064&croped=1&mh=140&mw=140",У КРАЯ БЕЗДНЫ
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/24032747/avatar?change_time=1750347064&croped=1&mh=140&mw=140",LysOFF
+http://kinowalk.hopto.org/lysoff_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/20700943/avatar?change_time=1745581759&croped=1&mh=140&mw=140",VideoVk
+http://kinowalk.hopto.org/videovk_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/31112637/avatar?change_time=1770312484&croped=1&mh=140&mw=140",ПикаБУ!
+http://kinowalk.hopto.org/pipa39_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/31272330/avatar?change_time=1771171161&croped=1&mh=140&mw=140",AASS
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/31245795/avatar?change_time=1771064072&croped=1&mh=140&mw=140",MAX LIVЕ
+http://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/20396730/avatar?change_time=1742167676&croped=1&mh=140&mw=140",InMuNa Live
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19395604/avatar?change_time=1725404395&croped=1&mh=140&mw=140",не Кино
+http://kinowalk.hopto.org/notnotes_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/16123819/avatar?change_time=1744393606&croped=1&mh=140&mw=140",Solo ink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/24020141/avatar?change_time=1753562159&croped=1&mh=140&mw=140",Егор Егорыч
+http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/31231924/avatar?change_time=1770988973&croped=1&mh=140&mw=140",_PhoENIX
+http://kinowalk.hopto.org/phoenix3345_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/24684747/avatar?change_time=1752901923&croped=1&mh=140&mw=140",VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СТРИМЫ👀" tvg-logo="https://images.live.vkvideo.ru/user/19915735/avatar?change_time=1734775066&croped=1&mh=140&mw=140",33 квадратных метра
+http://kinowalk.hopto.org/33metra_live
+
 
 
 
@@ -8799,15 +8832,15 @@ http://87.246.54.249:8080/HBO2/index.m3u8
 http://87.246.54.249:8080/HBO3/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",HGTV HD
 http://87.246.54.249:8080/HGTV/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",HTB HD
+#EXTINF:-1 group-title="CABLENET_GCN",НТВ
 http://87.246.54.249:8080/HTB/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",ID HD
 http://87.246.54.249:8080/ID/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",Kanal7
 http://87.246.54.249:8080/Kanal7/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",Karusel
+#EXTINF:-1 group-title="CABLENET_GCN",Карусель
 http://87.246.54.249:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",KinoHit HD
+#EXTINF:-1 group-title="CABLENET_GCN",КИНОХИТ
 http://87.246.54.249:8080/KinoHit/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",MagicTV
 http://87.246.54.249:8080/MagicTV/index.m3u8
@@ -8819,9 +8852,9 @@ http://87.246.54.249:8080/MaxSport2/index.m3u8
 http://87.246.54.249:8080/MaxSport3/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",MaxSport4 HD
 http://87.246.54.249:8080/MaxSport4/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",MIR HD
+#EXTINF:-1 group-title="CABLENET_GCN",МИР
 http://87.246.54.249:8080/MIR/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",MirSeriala
+#EXTINF:-1 group-title="CABLENET_GCN",МИР СЕРИАЛА
 http://87.246.54.249:8080/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",NatGeo
 http://87.246.54.249:8080/NatGeo/index.m3u8
@@ -8835,27 +8868,25 @@ http://87.246.54.249:8080/NickToons/index.m3u8
 http://87.246.54.249:8080/NovaSport/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",NOW
 http://87.246.54.249:8080/NOW/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",Pervii HD
+#EXTINF:-1 group-title="CABLENET_GCN",ПЕРВЫЙ КАНАЛ HD
 http://87.246.54.249:8080/Pervii/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",RING
 http://87.246.54.249:8080/RING/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",Rossia1 HD
+#EXTINF:-1 group-title="CABLENET_GCN",РОССИЯ 1 HD
 http://87.246.54.249:8080/Rossia1/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",RTR_Planeta HD
+#EXTINF:-1 group-title="CABLENET_GCN",РОССИЯ 1 HD
 http://87.246.54.249:8080/RTR_Planeta/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",StarTV
-http://87.246.54.249:8080/StarTV/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",THT HD
+#EXTINF:-1 group-title="CABLENET_GCN",ТНТ HD
 http://87.246.54.249:8080/THT/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",TLC HD
 http://87.246.54.249:8080/TLC/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",TRT1
 http://87.246.54.249:8080/TRT1/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",TRT2 HD
+#EXTINF:-1 group-title="CABLENET_GCN",TRT2
 http://87.246.54.249:8080/TRT2/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",TV1000
+#EXTINF:-1 group-title="CABLENET_GCN",VIASAT KINO
 http://87.246.54.249:8080/TV1000/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",tv5_monde
+#EXTINF:-1 group-title="CABLENET_GCN",tv5 monde
 http://87.246.54.249:8080/tv5_monde/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",TV8
 http://87.246.54.249:8080/TV8/index.m3u8
@@ -8871,8 +8902,14 @@ http://87.246.54.249:8080/ViasatHistory/index.m3u8
 http://87.246.54.249:8080/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="CABLENET_GCN",VTK
 http://87.246.54.249:8080/VTK/index.m3u8
-#EXTINF:-1 group-title="CABLENET_GCN",yabantv
+#EXTINF:-1 group-title="CABLENET_GCN",yaban tv
 http://87.246.54.249:8080/yabantv/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Lamro_tv"  tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1/(315).png",Первый канал
